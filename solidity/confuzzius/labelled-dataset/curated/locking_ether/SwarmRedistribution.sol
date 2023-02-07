@@ -44,6 +44,7 @@ contract RES {
 
 }
 
+// <yes> <report> LOCKING_ETHER
 contract SwarmRedistribution is RES {
 
     address JohanNygren;

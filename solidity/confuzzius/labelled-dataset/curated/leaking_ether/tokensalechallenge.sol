@@ -5,6 +5,7 @@
 
 pragma solidity ^0.4.21;
 
+// <yes> <report> LEAKING_ETHER
 contract TokenSaleChallenge {
     mapping(address => uint256) public balanceOf;
     uint256 constant PRICE_PER_TOKEN = 1 ether;

@@ -1,5 +1,6 @@
 pragma solidity ^0.4.22;
 
+// <yes> <report> LEAKING_ETHER
 contract Rubixi {
 
         //Declare variables for storage critical to contract

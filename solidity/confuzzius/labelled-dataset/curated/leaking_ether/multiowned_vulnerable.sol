@@ -3,10 +3,11 @@ pragma solidity ^0.4.23;
 /**
  * @title MultiOwnable
  */
+// <yes> <report> LEAKING_ETHER
 contract MultiOwnable {
   address public root;
   mapping (address => address) public owners; // owner => parent of owner
-  
+
   /**
   * @dev The Ownable constructor sets the original `owner` of the contract to the sender
   * account.
@@ -15,7 +16,7 @@ contract MultiOwnable {
     root = msg.sender;
     owners[root] = root;
   }
-  
+
   /**
   * @dev Throws if called by any account other than the owner.
   */
@@ -23,17 +24,17 @@ contract MultiOwnable {
     require(owners[msg.sender] != 0);
     _;
   }
-  
+
   /**
   * @dev Adding new owners
   * Note that the "onlyOwner" modifier is missing here.
-  */ 
+  */
   function newOwner(address _owner) external returns (bool) {
     require(_owner != 0);
     owners[_owner] = msg.sender;
     return true;
   }
-  
+
   /**
     * @dev Deleting owners
     */
@@ -45,7 +46,7 @@ contract MultiOwnable {
 }
 
 contract TestContract is MultiOwnable {
-  
+
   function withdrawAll() onlyOwner {
     msg.sender.transfer(this.balance);
   }

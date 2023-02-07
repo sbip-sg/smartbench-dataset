@@ -28,6 +28,7 @@ library SafeMath {
     }
 }
 
+// <yes> <report> LOCKING_ETHER
 contract IWCEToken {
 
     using SafeMath for uint256;

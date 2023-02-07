@@ -5,7 +5,7 @@
 pragma solidity ^0.4.18;
 
 
-    contract ERC20 {
+contract ERC20 {
     function totalSupply() public constant returns (uint256);
     function balanceOf(address who) public view returns (uint256);
     function transfer(address to, uint256 value) public returns (bool);
@@ -14,9 +14,9 @@ pragma solidity ^0.4.18;
     function approve(address spender, uint256 value) public returns (bool);
     event Transfer(address indexed from, address indexed to, uint256 value);
     event Approval(address indexed owner, address indexed spender, uint256 value);
-    }
+}
 
-    library SafeMath {
+library SafeMath {
     function mul(uint256 a, uint256 b) internal pure returns (uint256) {
     if (a == 0) {
       return 0;
@@ -43,10 +43,10 @@ pragma solidity ^0.4.18;
     assert(c >= a);
     return c;
     }
-    }
+}
 
-
-    contract Bitway is ERC20 {
+// <yes> <report> LOCKING_ETHER
+contract Bitway is ERC20 {
 
     using SafeMath for uint256;
 

@@ -13,6 +13,7 @@ contract SuicideMultiTxFeasible {
             return;
         }
 
+        // <yes> <report> UNPROTECTED_SELFDESTRUCT
         selfdestruct(msg.sender);
     }
 }

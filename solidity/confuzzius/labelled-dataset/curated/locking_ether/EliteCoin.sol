@@ -154,6 +154,7 @@ contract StandardToken is ERC20, BasicToken {
 
 }
 
+// <yes> <report> LOCKING_ETHER
 contract EliteCoin is StandardToken {
   // Token for high rollers only. You get a token for free,
   // but only if your account balance is over 10 ETH

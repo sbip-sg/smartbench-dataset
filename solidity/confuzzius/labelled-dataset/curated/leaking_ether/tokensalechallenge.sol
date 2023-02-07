@@ -5,7 +5,6 @@
 
 pragma solidity ^0.4.21;
 
-// <yes> <report> LEAKING_ETHER
 contract TokenSaleChallenge {
     mapping(address => uint256) public balanceOf;
     uint256 constant PRICE_PER_TOKEN = 1 ether;
@@ -27,6 +26,7 @@ contract TokenSaleChallenge {
     function sell(uint256 numTokens) public {
         require(balanceOf[msg.sender] >= numTokens);
 
+        // <yes> <report> LEAKING_ETHER
         balanceOf[msg.sender] -= numTokens;
         msg.sender.transfer(numTokens * PRICE_PER_TOKEN);
     }

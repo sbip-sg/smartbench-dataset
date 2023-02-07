@@ -3,7 +3,6 @@ pragma solidity ^0.4.23;
 /**
  * @title MultiOwnable
  */
-// <yes> <report> LEAKING_ETHER
 contract MultiOwnable {
   address public root;
   mapping (address => address) public owners; // owner => parent of owner
@@ -47,6 +46,7 @@ contract MultiOwnable {
 
 contract TestContract is MultiOwnable {
 
+  // <yes> <report> LEAKING_ETHER
   function withdrawAll() onlyOwner {
     msg.sender.transfer(this.balance);
   }

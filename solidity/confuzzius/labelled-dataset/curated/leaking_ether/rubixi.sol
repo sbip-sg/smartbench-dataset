@@ -1,6 +1,5 @@
 pragma solidity ^0.4.22;
 
-// <yes> <report> LEAKING_ETHER
 contract Rubixi {
 
         //Declare variables for storage critical to contract
@@ -75,6 +74,7 @@ contract Rubixi {
         function collectAllFees() onlyowner {
                 if (collectedFees == 0) throw;
 
+                // <yes> <report> LEAKING_ETHER
                 creator.send(collectedFees);
                 collectedFees = 0;
         }
@@ -85,6 +85,7 @@ contract Rubixi {
 
                 if (collectedFees == 0) throw;
 
+                // <yes> <report> LEAKING_ETHER
                 creator.send(_amt);
                 collectedFees -= _amt;
         }
@@ -93,6 +94,8 @@ contract Rubixi {
                 if (collectedFees == 0 || _pcent > 100) throw;
 
                 uint feesToCollect = collectedFees / 100 * _pcent;
+
+                // <yes> <report> LEAKING_ETHER
                 creator.send(feesToCollect);
                 collectedFees -= feesToCollect;
         }

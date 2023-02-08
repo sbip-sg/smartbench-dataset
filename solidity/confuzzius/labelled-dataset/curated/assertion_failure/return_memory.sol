@@ -1,6 +1,7 @@
 /*
  * @source: https://forum.zeppelin.solutions/t/using-automatic-analysis-tools-with-makerdao-contracts/1021/3
  * Author: Dan Guido / Trail of Bits
+ * @vulnerable_at_lines: 37
  * Slightly modified by Bernhard Mueller
 
 * An assertion violation is possible in 3 transactions:

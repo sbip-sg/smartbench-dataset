@@ -1,6 +1,7 @@
 /*
  * @source: ChainSecurity
  * @author: Anton Permenev
+ * @vulnerable_at_lines: 19
  * Assert violation with 2 message calls:
  * - set(66)
  * - check(0x4100000000000000000000000000000000000000000000000000000000000000)

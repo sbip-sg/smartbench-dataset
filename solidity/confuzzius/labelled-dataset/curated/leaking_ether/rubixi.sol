@@ -1,3 +1,9 @@
+/*
+ * @source: https://swcregistry.io/docs/SWC-105
+ * @author: SWC Registry
+ * @vulnerable_at_lines: 13
+ */
+
 pragma solidity ^0.4.22;
 
 contract Rubixi {

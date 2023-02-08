@@ -1,6 +1,9 @@
 /**
- *Submitted for verification at Etherscan.io on 2018-01-06
-*/
+ * @source: Etherscan
+ * @vulnerable_at_lines: 51
+ *
+ * Submitted for verification at Etherscan.io on 2018-01-06
+ */
 
 pragma solidity ^0.4.18;
 

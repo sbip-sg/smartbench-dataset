@@ -1,6 +1,7 @@
 /*
  * @source: https://capturetheether.com/challenges/math/token-sale/
  * @author: Steve Marx
+ * @vulnerable_at_lines: 30
  */
 
 pragma solidity ^0.4.21;

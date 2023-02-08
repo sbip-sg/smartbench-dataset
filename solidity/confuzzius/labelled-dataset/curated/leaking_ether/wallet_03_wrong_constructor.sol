@@ -1,3 +1,9 @@
+/*
+ * @source: https://swcregistry.io/docs/SWC-105
+ * @author: SWC Registry
+ * @vulnerable_at_lines: 37
+ */
+
 pragma solidity ^0.4.24;
 
 /* User can add pay in and withdraw Ether.

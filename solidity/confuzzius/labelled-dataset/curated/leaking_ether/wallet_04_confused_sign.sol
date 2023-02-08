@@ -1,7 +1,7 @@
 /*
  * @source: https://swcregistry.io/docs/SWC-105
  * @author: SWC Registry
- * @vulnerable_at_lines: 30
+ * @vulnerable_at_lines: 31
  */
 
 pragma solidity ^0.4.24;

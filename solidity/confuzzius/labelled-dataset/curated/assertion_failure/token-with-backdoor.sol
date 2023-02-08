@@ -1,7 +1,7 @@
 /*
  * @source: TrailofBits workshop at TruffleCon 2018
  * @author: Josselin Feist (adapted for SWC by Bernhard Mueller)
- * @vulnerable_at_lines: 29
+ * @vulnerable_at_lines: 30
  * Assert violation with 3 message calls:
  * - airdrop()
  * - backdoor()

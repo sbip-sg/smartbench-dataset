@@ -4,7 +4,7 @@
  * Assert violation with 2 message calls:
  * - B.set_x(X): X != 10
  * - ContructorCreateModifiable.check()
- * @vulnerable_at_lines: 16
+ * @vulnerable_at_lines: 17
  */
 
 pragma solidity ^0.4.22;

@@ -1,7 +1,7 @@
 /*
  * @source: https://github.com/ConsenSys/evm-analyzer-benchmark-suite
  * @author: Suhabe Bugrara
- * @vulnerable_at_lines: 17
+ * @vulnerable_at_lines: 18
  */
 
 pragma solidity ^0.4.19;

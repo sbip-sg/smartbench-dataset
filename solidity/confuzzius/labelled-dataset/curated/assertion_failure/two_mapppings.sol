@@ -1,7 +1,7 @@
 /*
  * @source: Unknown
  * @author: Unknown
- * @vulnerable_at_lines: 18
+ * @vulnerable_at_lines: 19
  */
 pragma solidity ^0.4.22;
 

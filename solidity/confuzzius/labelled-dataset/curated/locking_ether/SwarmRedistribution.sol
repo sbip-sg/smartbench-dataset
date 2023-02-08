@@ -1,6 +1,6 @@
 /**
  * @source: Etherscan
- * @vulnerable_at_lines: 50
+ * @vulnerable_at_lines: 51
  *
  * Submitted for verification at Etherscan.io on 2016-12-31
  */

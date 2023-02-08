@@ -1,7 +1,7 @@
 /*
  * @source: ChainSecurity
  * @author: Anton Permenev
- * @vulnerable_at_lines: 14
+ * @vulnerable_at_lines: 15
  */
 pragma solidity ^0.4.21;
 

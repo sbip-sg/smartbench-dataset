@@ -1,0 +1,3263 @@
+{
+    "StaxLPStaking:addReward:5427:BugType.TIME_STAMP": {
+        "bytecode_location": 5427,
+        "function": "addReward",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            976,
+            976
+        ]
+    },
+    "StaxLPStaking:addReward:5526:BugType.TIME_STAMP": {
+        "bytecode_location": 5526,
+        "function": "addReward",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            977,
+            977
+        ]
+    },
+    "StaxLPStaking:addReward:0:BugType.ADDRESS_VALIDATION": {
+        "bytecode_location": 0,
+        "function": "addReward",
+        "deploy": false,
+        "bug_type": "AddressValidation",
+        "opcode": "NA",
+        "input": [
+            "0x0000000000000000000000000000000000000000"
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            973,
+            973
+        ]
+    },
+    "StaxLPStaking:earned:16025:BugType.DIVISION_BY_ZERO": {
+        "bytecode_location": 16025,
+        "function": "earned",
+        "deploy": false,
+        "bug_type": "IntegerDivByZero",
+        "opcode": 4,
+        "input": [
+            {
+                "func_name": "earned",
+                "input": [
+                    "0x0000000000000000000000000000000000000000",
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x2222222222222222222222222222222222222222"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": true,
+        "line_number": [
+            506,
+            506
+        ]
+    },
+    "StaxLPStaking:setMigrator:0:BugType.ADDRESS_VALIDATION": {
+        "bytecode_location": 0,
+        "function": "setMigrator",
+        "deploy": false,
+        "bug_type": "AddressValidation",
+        "opcode": "NA",
+        "input": [
+            "0x0000000000000000000000000000000000000000"
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1130,
+            1130
+        ]
+    },
+    "StaxLPStaking:setRewardDistributor:0:BugType.ADDRESS_VALIDATION": {
+        "bytecode_location": 0,
+        "function": "setRewardDistributor",
+        "deploy": false,
+        "bug_type": "AddressValidation",
+        "opcode": "NA",
+        "input": [
+            "0x0000000000000000000000000000000000000000"
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            959,
+            959
+        ]
+    },
+    "StaxLPStaking:getRewards:11560:BugType.TIME_STAMP": {
+        "bytecode_location": 11560,
+        "function": "getRewards",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "owner",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "owner",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0xaf2e69edcf580cdd577885d2da746f910e24c1af"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "earned",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0xaf2e69edcf580cdd577885d2da746f910e24c1af"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0x1111111111111111111111111111111111111111",
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "earned",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardDistributor",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPerToken",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getRewards",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1094,
+            1094
+        ]
+    },
+    "StaxLPStaking:getRewards:11576:BugType.TIME_STAMP": {
+        "bytecode_location": 11576,
+        "function": "getRewards",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "owner",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "owner",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0xaf2e69edcf580cdd577885d2da746f910e24c1af"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "earned",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0xaf2e69edcf580cdd577885d2da746f910e24c1af"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0x1111111111111111111111111111111111111111",
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "earned",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardDistributor",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPerToken",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getRewards",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1097,
+            1097
+        ]
+    },
+    "StaxLPStaking:getRewards:16025:BugType.DIVISION_BY_ZERO": {
+        "bytecode_location": 16025,
+        "function": "getRewards",
+        "deploy": false,
+        "bug_type": "IntegerDivByZero",
+        "opcode": 4,
+        "input": [
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "owner",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "owner",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0xaf2e69edcf580cdd577885d2da746f910e24c1af"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "earned",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0xaf2e69edcf580cdd577885d2da746f910e24c1af"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0x1111111111111111111111111111111111111111",
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "earned",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardDistributor",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPerToken",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getRewards",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": true,
+        "line_number": [
+            506,
+            506
+        ]
+    },
+    "StaxLPStaking:getReward:11560:BugType.TIME_STAMP": {
+        "bytecode_location": 11560,
+        "function": "getReward",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "totalSupply",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardDistributor",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0x0000000000000000000000000000000000000000",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "earned",
+                "input": [
+                    "0x1111111111111111111111111111111111111111",
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getRewards",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x930323dfb20195f5e38ab9a125272056cb3554bd"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1094,
+            1094
+        ]
+    },
+    "StaxLPStaking:getReward:11576:BugType.TIME_STAMP": {
+        "bytecode_location": 11576,
+        "function": "getReward",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "totalSupply",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardDistributor",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0x0000000000000000000000000000000000000000",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "earned",
+                "input": [
+                    "0x1111111111111111111111111111111111111111",
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getRewards",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x930323dfb20195f5e38ab9a125272056cb3554bd"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1097,
+            1097
+        ]
+    },
+    "StaxLPStaking:getReward:16025:BugType.DIVISION_BY_ZERO": {
+        "bytecode_location": 16025,
+        "function": "getReward",
+        "deploy": false,
+        "bug_type": "IntegerDivByZero",
+        "opcode": 4,
+        "input": [
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "totalSupply",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardDistributor",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0x0000000000000000000000000000000000000000",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "earned",
+                "input": [
+                    "0x1111111111111111111111111111111111111111",
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getRewards",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x930323dfb20195f5e38ab9a125272056cb3554bd"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": true,
+        "line_number": [
+            506,
+            506
+        ]
+    },
+    "StaxLPStaking:migrateStake:11560:BugType.TIME_STAMP": {
+        "bytecode_location": 11560,
+        "function": "migrateStake",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardDistributor",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    9
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1094,
+            1094
+        ]
+    },
+    "StaxLPStaking:migrateStake:11576:BugType.TIME_STAMP": {
+        "bytecode_location": 11576,
+        "function": "migrateStake",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardDistributor",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    9
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1097,
+            1097
+        ]
+    },
+    "StaxLPStaking:migrateStake:16025:BugType.DIVISION_BY_ZERO": {
+        "bytecode_location": 16025,
+        "function": "migrateStake",
+        "deploy": false,
+        "bug_type": "IntegerDivByZero",
+        "opcode": 4,
+        "input": [
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardDistributor",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    9
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": true,
+        "line_number": [
+            506,
+            506
+        ]
+    },
+    "StaxLPStaking:getReward:0:BugType.ADDRESS_VALIDATION": {
+        "bytecode_location": 0,
+        "function": "getReward",
+        "deploy": false,
+        "bug_type": "AddressValidation",
+        "opcode": "NA",
+        "input": [
+            "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+            "0x0000000000000000000000000000000000000000"
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1079,
+            1079
+        ]
+    },
+    "StaxLPStaking:earned:11560:BugType.TIME_STAMP": {
+        "bytecode_location": 11560,
+        "function": "earned",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    226156424291633194186662080095093570025917938800079226639565593765455331329
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "earned",
+                "input": [
+                    "0x0000000000000000000000000000000000000000",
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1094,
+            1094
+        ]
+    },
+    "StaxLPStaking:rewardPerToken:11560:BugType.TIME_STAMP": {
+        "bytecode_location": 11560,
+        "function": "rewardPerToken",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    226156424291633194186662080095093570025917938800079226639565593765455331329
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "userRewardPerTokenPaid",
+                "input": [
+                    "0x0000000000000000000000000000000000000000",
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "transferOwnership",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000",
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPerToken",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1094,
+            1094
+        ]
+    },
+    "StaxLPStaking:rewardPerToken:16025:BugType.DIVISION_BY_ZERO": {
+        "bytecode_location": 16025,
+        "function": "rewardPerToken",
+        "deploy": false,
+        "bug_type": "IntegerDivByZero",
+        "opcode": 4,
+        "input": [
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    226156424291633194186662080095093570025917938800079226639565593765455331329
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "userRewardPerTokenPaid",
+                "input": [
+                    "0x0000000000000000000000000000000000000000",
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "transferOwnership",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000",
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPerToken",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": true,
+        "line_number": [
+            506,
+            506
+        ]
+    },
+    "StaxLPStaking:getRewards:0:BugType.ADDRESS_VALIDATION": {
+        "bytecode_location": 0,
+        "function": "getRewards",
+        "deploy": false,
+        "bug_type": "AddressValidation",
+        "opcode": "NA",
+        "input": [
+            "0x0000000000000000000000000000000000000000"
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1068,
+            1068
+        ]
+    },
+    "StaxLPStaking:earned:11576:BugType.TIME_STAMP": {
+        "bytecode_location": 11576,
+        "function": "earned",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x483a269f787386c4cf3b68eee670c887e465353b"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    115792089237316195423570985008687907853269984665640564039457584007913129639912
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0x2222222222222222222222222222222222222222",
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "totalSupply",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrator",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "owner",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardData",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardDistributor",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "userRewardPerTokenPaid",
+                "input": [
+                    "0xd391922ebbe443dede748db2dce574fa0f68f86e",
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrator",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "transferOwnership",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrator",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "earned",
+                "input": [
+                    "0xd391922ebbe443dede748db2dce574fa0f68f86e",
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1097,
+            1097
+        ]
+    },
+    "StaxLPStaking:migrateStake:0:BugType.POSSIBLE_ACCESS_CONTROL_BUG": {
+        "bytecode_location": 0,
+        "function": "migrateStake",
+        "deploy": false,
+        "bug_type": "POSSIBLE_ACCESS_CONTROL",
+        "opcode": "SSTORE",
+        "input": [
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    226156424291633194186662080095093570025917938800079226639565593765455331329
+                ],
+                "value": 0,
+                "from_addr": "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1144,
+            1144
+        ]
+    },
+    "StaxLPStaking:rewardPerToken:11576:BugType.TIME_STAMP": {
+        "bytecode_location": 11576,
+        "function": "rewardPerToken",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x483a269f787386c4cf3b68eee670c887e465353b"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    115792089237316195423570985008687907853269984665640564039457584007913129639912
+                ],
+                "value": 0,
+                "from_addr": "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "totalSupply",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xaf2e69edcf580cdd577885d2da746f910e24c1af"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "totalSupply",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "owner",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "userRewardPerTokenPaid",
+                "input": [
+                    "0xaf2e69edcf580cdd577885d2da746f910e24c1af",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "renounceOwnership",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "totalSupply",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPerToken",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1097,
+            1097
+        ]
+    },
+    "StaxLPStaking:notifyRewardAmount:11560:BugType.TIME_STAMP": {
+        "bytecode_location": 11560,
+        "function": "notifyRewardAmount",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    115792089237316195423570985008687907853269984665640564039457584007913129639912
+                ],
+                "value": 0,
+                "from_addr": "0x2222222222222222222222222222222222222222"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd391922ebbe443dede748db2dce574fa0f68f86e"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xef90855a0361bb8f3754590113f4e1a828361c9a"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrator",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "userRewardPerTokenPaid",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965",
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardData",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrator",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPerToken",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardTokens",
+                "input": [
+                    1
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965",
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "balanceOf",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1094,
+            1094
+        ]
+    },
+    "StaxLPStaking:notifyRewardAmount:11576:BugType.TIME_STAMP": {
+        "bytecode_location": 11576,
+        "function": "notifyRewardAmount",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    115792089237316195423570985008687907853269984665640564039457584007913129639912
+                ],
+                "value": 0,
+                "from_addr": "0x2222222222222222222222222222222222222222"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd391922ebbe443dede748db2dce574fa0f68f86e"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xef90855a0361bb8f3754590113f4e1a828361c9a"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrator",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "userRewardPerTokenPaid",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965",
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardData",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrator",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPerToken",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardTokens",
+                "input": [
+                    1
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965",
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "balanceOf",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1097,
+            1097
+        ]
+    },
+    "StaxLPStaking:notifyRewardAmount:16025:BugType.DIVISION_BY_ZERO": {
+        "bytecode_location": 16025,
+        "function": "notifyRewardAmount",
+        "deploy": false,
+        "bug_type": "IntegerDivByZero",
+        "opcode": 4,
+        "input": [
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    115792089237316195423570985008687907853269984665640564039457584007913129639912
+                ],
+                "value": 0,
+                "from_addr": "0x2222222222222222222222222222222222222222"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd391922ebbe443dede748db2dce574fa0f68f86e"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xef90855a0361bb8f3754590113f4e1a828361c9a"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrator",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "userRewardPerTokenPaid",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965",
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardData",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrator",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPerToken",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardTokens",
+                "input": [
+                    1
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965",
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "balanceOf",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": true,
+        "line_number": [
+            506,
+            506
+        ]
+    },
+    "StaxLPStaking:notifyRewardAmount:12390:BugType.TIME_STAMP": {
+        "bytecode_location": 12390,
+        "function": "notifyRewardAmount",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    115792089237316195423570985008687907853269984665640564039457584007913129639912
+                ],
+                "value": 0,
+                "from_addr": "0x2222222222222222222222222222222222222222"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd391922ebbe443dede748db2dce574fa0f68f86e"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xef90855a0361bb8f3754590113f4e1a828361c9a"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrator",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "userRewardPerTokenPaid",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965",
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardData",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrator",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPerToken",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardTokens",
+                "input": [
+                    1
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965",
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "balanceOf",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1103,
+            1103
+        ]
+    },
+    "StaxLPStaking:notifyRewardAmount:12737:BugType.TIME_STAMP": {
+        "bytecode_location": 12737,
+        "function": "notifyRewardAmount",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    115792089237316195423570985008687907853269984665640564039457584007913129639912
+                ],
+                "value": 0,
+                "from_addr": "0x2222222222222222222222222222222222222222"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd391922ebbe443dede748db2dce574fa0f68f86e"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xef90855a0361bb8f3754590113f4e1a828361c9a"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrator",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "userRewardPerTokenPaid",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965",
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardData",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrator",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPerToken",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardTokens",
+                "input": [
+                    1
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965",
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "balanceOf",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1111,
+            1111
+        ]
+    },
+    "StaxLPStaking:notifyRewardAmount:12778:BugType.TIME_STAMP": {
+        "bytecode_location": 12778,
+        "function": "notifyRewardAmount",
+        "deploy": false,
+        "bug_type": "TimestampDependency",
+        "opcode": 66,
+        "input": [
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    115792089237316195423570985008687907853269984665640564039457584007913129639912
+                ],
+                "value": 0,
+                "from_addr": "0x2222222222222222222222222222222222222222"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd391922ebbe443dede748db2dce574fa0f68f86e"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xef90855a0361bb8f3754590113f4e1a828361c9a"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrator",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "userRewardPerTokenPaid",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965",
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardData",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrator",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPerToken",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardTokens",
+                "input": [
+                    1
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965",
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "balanceOf",
+                "input": [
+                    "0xbbc6601f43b3cf4db710451844c727a4fba92965"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1112,
+            1112
+        ]
+    },
+    "StaxLPStaking:notifyRewardAmount:12485:BugType.NUMERIC_TRUNCATION": {
+        "bytecode_location": 12485,
+        "function": "notifyRewardAmount",
+        "deploy": false,
+        "bug_type": "PossibleIntegerTruncation",
+        "opcode": 22,
+        "input": [
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd391922ebbe443dede748db2dce574fa0f68f86e"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "totalSupply",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0x5f78164b16573db89e74c9adac8192e7fda551af",
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "totalSupply",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x5f78164b16573db89e74c9adac8192e7fda551af"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    784637716923335095479473677900958302012794430558004314089
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0x5f78164b16573db89e74c9adac8192e7fda551af"
+                ],
+                "value": 0,
+                "from_addr": "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "transferOwnership",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "userRewardPerTokenPaid",
+                "input": [
+                    "0x1111111111111111111111111111111111111111",
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+            },
+            {
+                "func_name": "getRewards",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "userRewardPerTokenPaid",
+                "input": [
+                    "0x0000000000000000000000000000000000000000",
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0x2222222222222222222222222222222222222222",
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "earned",
+                "input": [
+                    "0x2222222222222222222222222222222222222222",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardData",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0x1111111111111111111111111111111111111111",
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPerToken",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x2222222222222222222222222222222222222222"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x2222222222222222222222222222222222222222"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0x2222222222222222222222222222222222222222",
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardDistributor",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getRewards",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "notifyRewardAmount",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    115792089237316195423570985008687907853269984665640564039457584007913129639935
+                ],
+                "value": 0,
+                "from_addr": "0x2222222222222222222222222222222222222222"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1104,
+            1104
+        ]
+    },
+    "StaxLPStaking:notifyRewardAmount:0:BugType.POSSIBLE_ACCESS_CONTROL_BUG": {
+        "bytecode_location": 0,
+        "function": "notifyRewardAmount",
+        "deploy": false,
+        "bug_type": "POSSIBLE_ACCESS_CONTROL",
+        "opcode": "SSTORE",
+        "input": [
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd391922ebbe443dede748db2dce574fa0f68f86e"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "totalSupply",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "setMigrator",
+                "input": [
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0x5f78164b16573db89e74c9adac8192e7fda551af",
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "totalSupply",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "addReward",
+                "input": [
+                    "0x5f78164b16573db89e74c9adac8192e7fda551af"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "migrateStake",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    784637716923335095479473677900958302012794430558004314089
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0x5f78164b16573db89e74c9adac8192e7fda551af"
+                ],
+                "value": 0,
+                "from_addr": "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "transferOwnership",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "userRewardPerTokenPaid",
+                "input": [
+                    "0x1111111111111111111111111111111111111111",
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+            },
+            {
+                "func_name": "getRewards",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "userRewardPerTokenPaid",
+                "input": [
+                    "0x0000000000000000000000000000000000000000",
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "stakingToken",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2",
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getReward",
+                "input": [
+                    "0x2222222222222222222222222222222222222222",
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "earned",
+                "input": [
+                    "0x2222222222222222222222222222222222222222",
+                    "0x2222222222222222222222222222222222222222"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardData",
+                "input": [
+                    "0xd4871505cb44f1d25f814099d4038724edb15ea2"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0x1111111111111111111111111111111111111111",
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPerToken",
+                "input": [
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardPeriodFinish",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x2222222222222222222222222222222222222222"
+            },
+            {
+                "func_name": "DURATION",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x2222222222222222222222222222222222222222"
+            },
+            {
+                "func_name": "claimableRewards",
+                "input": [
+                    "0x2222222222222222222222222222222222222222",
+                    "0x0000000000000000000000000000000000000000"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "rewardDistributor",
+                "input": [],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "getRewards",
+                "input": [
+                    "0x1111111111111111111111111111111111111111"
+                ],
+                "value": 0,
+                "from_addr": "0x1111111111111111111111111111111111111111"
+            },
+            {
+                "func_name": "notifyRewardAmount",
+                "input": [
+                    "0xbcc7686241f943babb4e22e14b5a208617662680",
+                    115792089237316195423570985008687907853269984665640564039457584007913129639935
+                ],
+                "value": 0,
+                "from_addr": "0x2222222222222222222222222222222222222222"
+            }
+        ],
+        "contract": "StaxLPStaking",
+        "is_yul": false,
+        "line_number": [
+            1115,
+            1115
+        ]
+    }
+}

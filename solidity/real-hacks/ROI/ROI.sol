@@ -182,7 +182,9 @@ contract Ownable is Context {
         _owner = address(0);
     }
 
+    /* <bug name = "AccessControl"> */
     function transferOwnership(address newOwner) public virtual {
+        /* </bug> */
         require(newOwner != address(0), "Ownable: new owner is the zero address");
         emit OwnershipTransferred(_owner, newOwner);
         _owner = newOwner;

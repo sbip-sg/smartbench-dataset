@@ -959,7 +959,10 @@ contract ShadowFi is IBEP20, ShadowAuth {
         allowedAddresses[user] = flag;
     }
 
+    /* Anyone can call `burn` */
+    /* <bug name = "AccessControl"> */
     function burn(address account, uint256 _amount) public {
+        /* </bug> */
         _transferFrom(account, DEAD, _amount);
 
         emit burnTokens(account, _amount);

@@ -2,10 +2,10 @@
 
 pragma solidity ^0.8.4;
 
-import "SafeERC20Upgradeable.sol";
-import "IERC20Upgradeable.sol";
+import "./07_20_SafeERC20Upgradeable.sol";
+import "./08_20_IERC20Upgradeable.sol";
 
-import "Errors.sol";
+import "./12_20_Errors.sol";
 
 library SmartApprove {
     using SafeERC20Upgradeable for IERC20Upgradeable;

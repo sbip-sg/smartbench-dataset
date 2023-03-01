@@ -13,8 +13,8 @@ pragma solidity ^0.8.10;
 
 */
 
-import "OnlySourceFunctionality.sol";
-import "SmartApprove.sol";
+import "./02_20_OnlySourceFunctionality.sol";
+import "./03_20_SmartApprove.sol";
 
 error DifferentAmountSpent();
 error RouterNotAvailable();
@@ -114,7 +114,9 @@ contract RubicProxy is OnlySourceFunctionality {
             address(0)
         );
 
+        /* <bug name = "ArbitraryExternalCall"> */
         AddressUpgradeable.functionCallWithValue(_params.router, _data, _amountIn);
+        /* </bug> */
     }
 
     function sweepTokens(address _token, uint256 _amount) external onlyAdmin {

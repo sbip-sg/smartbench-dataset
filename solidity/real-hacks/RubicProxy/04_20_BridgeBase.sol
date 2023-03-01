@@ -2,16 +2,16 @@
 
 pragma solidity ^0.8.4;
 
-import "AccessControlUpgradeable.sol";
-import "PausableUpgradeable.sol";
-import "SafeERC20Upgradeable.sol";
-import "IERC20Upgradeable.sol";
-import "EnumerableSetUpgradeable.sol";
-import "ReentrancyGuardUpgradeable.sol";
+import "./05_20_AccessControlUpgradeable.sol";
+import "./06_20_PausableUpgradeable.sol";
+import "./07_20_SafeERC20Upgradeable.sol";
+import "./08_20_IERC20Upgradeable.sol";
+import "./09_20_EnumerableSetUpgradeable.sol";
+import "./10_20_ReentrancyGuardUpgradeable.sol";
 
-import "FullMath.sol";
+import "./11_20_FullMath.sol";
 
-import "Errors.sol";
+import "./12_20_Errors.sol";
 
 contract BridgeBase is AccessControlUpgradeable, PausableUpgradeable, ReentrancyGuardUpgradeable {
     using EnumerableSetUpgradeable for EnumerableSetUpgradeable.AddressSet;

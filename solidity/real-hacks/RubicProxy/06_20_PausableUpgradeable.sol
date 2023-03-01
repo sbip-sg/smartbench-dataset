@@ -3,8 +3,8 @@
 
 pragma solidity ^0.8.0;
 
-import "ContextUpgradeable.sol";
-import "Initializable.sol";
+import "./14_20_ContextUpgradeable.sol";
+import "./17_20_Initializable.sol";
 
 /**
  * @dev Contract module which allows children to implement an emergency stop

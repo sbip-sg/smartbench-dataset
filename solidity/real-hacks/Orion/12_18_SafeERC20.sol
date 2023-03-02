@@ -2,9 +2,9 @@
 pragma solidity 0.7.4;
 pragma experimental ABIEncoderV2;
 
-import "IERC20.sol";
-import "SafeMath.sol";
-import "Address.sol";
+import "./01_18_IERC20.sol";
+import "./13_18_SafeMath.sol";
+import "./09_18_Address.sol";
 
 /**
  * @title SafeERC20

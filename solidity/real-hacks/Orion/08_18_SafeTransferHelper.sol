@@ -2,10 +2,10 @@
 pragma solidity 0.7.4;
 pragma experimental ABIEncoderV2;
 
-import "IWETH.sol";
-import "SafeERC20.sol";
-import "IERC20.sol";
-import "Address.sol";
+import "./05_18_IWETH.sol";
+import "./12_18_SafeERC20.sol";
+import "./01_18_IERC20.sol";
+import "./09_18_Address.sol";
 
 library SafeTransferHelper {
 

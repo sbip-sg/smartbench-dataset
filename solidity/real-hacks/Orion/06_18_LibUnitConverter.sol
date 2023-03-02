@@ -2,8 +2,8 @@
 pragma solidity 0.7.4;
 pragma experimental ABIEncoderV2;
 
-import "IERC20Simple.sol";
-import "SafeMath.sol";
+import "./02_18_IERC20Simple.sol";
+import "./13_18_SafeMath.sol";
 
 library LibUnitConverter {
 

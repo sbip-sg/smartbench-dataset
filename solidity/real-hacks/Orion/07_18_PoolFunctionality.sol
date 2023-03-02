@@ -2,17 +2,17 @@
 pragma solidity 0.7.4;
 pragma experimental ABIEncoderV2;
 
-import "IERC20.sol";
-import "SafeMath.sol";
-import "SafeERC20.sol";
-import "Ownable.sol";
+import "./01_18_IERC20.sol";
+import "./13_18_SafeMath.sol";
+import "./12_18_SafeERC20.sol";
+import "./11_18_Ownable.sol";
 
-import "IPoolFunctionality.sol";
-import "IPoolSwapCallback.sol";
-import "SafeTransferHelper.sol";
-import "OrionMultiPoolLibrary.sol";
-import "ICurvePool.sol";
-import "LibUnitConverter.sol";
+import "./03_18_IPoolFunctionality.sol";
+import "./04_18_IPoolSwapCallback.sol";
+import "./08_18_SafeTransferHelper.sol";
+import "./16_18_OrionMultiPoolLibrary.sol";
+import "./17_18_ICurvePool.sol";
+import "./06_18_LibUnitConverter.sol";
 
 contract PoolFunctionality is Ownable, IPoolFunctionality {
     using SafeMath for uint256;
@@ -75,6 +75,7 @@ contract PoolFunctionality is Ownable, IPoolFunctionality {
         return supportedFactories[a] != FactoryType.UNSUPPORTED;
     }
 
+    /* NOTE: External users can call this function */
     function doSwapThroughOrionPool(
         address user,
         address to,
@@ -103,6 +104,7 @@ contract PoolFunctionality is Ownable, IPoolFunctionality {
             )
         );
         {
+            /* NOTE: Leading to call this internal function */
         (uint256 userAmountIn, uint256 userAmountOut) = _doSwapTokens(InternalSwapData(
             user,
             amount_spend_base_units,
@@ -140,6 +142,7 @@ contract PoolFunctionality is Ownable, IPoolFunctionality {
         return OrionMultiPoolLibrary.pairFor(curFactory, tokenA, tokenB);
     }
 
+    /* NOTE: Call `_doSwapTokens`  */
     function _doSwapTokens(InternalSwapData memory swapData) internal returns (uint256 amountIn, uint256 amountOut) {
         bool isLastWETH = swapData.path[swapData.path.length - 1] == WETH;
         address toAuto = isLastWETH || swapData.curFactoryType == FactoryType.CURVE ? address(this) : swapData.to;
@@ -175,6 +178,7 @@ contract PoolFunctionality is Ownable, IPoolFunctionality {
 
             if (swapData.supportingFee) curBalance = IERC20(swapData.path[0]).balanceOf(initialTransferSource);
 
+            /* <bug name = "Reentrancy"> */
             IPoolSwapCallback(msg.sender).safeAutoTransferFrom(
                 swapData.asset_spend,
                 swapData.user,
@@ -186,6 +190,7 @@ contract PoolFunctionality is Ownable, IPoolFunctionality {
 
         {
             uint256 curBalance = IERC20(swapData.path[swapData.path.length - 1]).balanceOf(toAuto);
+            /* </bug> */
             if (swapData.curFactoryType == FactoryType.CURVE) {
                 _swapCurve(swapData.curFactory, amounts, swapData.path, swapData.supportingFee);
             } else if (swapData.curFactoryType == FactoryType.UNISWAPLIKE) {

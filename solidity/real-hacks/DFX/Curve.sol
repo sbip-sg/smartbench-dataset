@@ -650,6 +650,7 @@ contract Curve is Storage, MerkleProver, NoDelegateCall {
         if (amount0 > 0) IERC20(derivatives[0]).safeTransfer(recipient, amount0);
         if (amount1 > 0) IERC20(derivatives[1]).safeTransfer(recipient, amount1);
 
+        /* <bug name = "Reentrancy"> */
         IFlashCallback(msg.sender).flashCallback(fee0, fee1, data);
 
         uint256 balance0After = IERC20(derivatives[0]).balanceOf(address(this));
@@ -662,11 +663,12 @@ contract Curve is Storage, MerkleProver, NoDelegateCall {
         uint256 paid0 = balance0After - balance0Before;
         uint256 paid1 = balance1After - balance1Before;
 
-        IERC20(derivatives[0]).safeTransfer(owner, paid0);        
-        IERC20(derivatives[1]).safeTransfer(owner, paid1);        
+        IERC20(derivatives[0]).safeTransfer(owner, paid0);
+        IERC20(derivatives[1]).safeTransfer(owner, paid1);
+        /* <bug> */
 
         emit Flash(msg.sender, recipient, amount0, amount1, paid0, paid1);
-    }    
+    }
 
     /// @notice view the curve token balance of a given account
     /// @param _account the account to view the balance of

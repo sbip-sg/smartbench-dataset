@@ -2,14 +2,14 @@
 pragma solidity 0.7.4;
 pragma experimental ABIEncoderV2;
 
-import "IOrionPoolV2Pair.sol";
-import "IOrionPoolV2Factory.sol";
-import "ICurveRegistry.sol";
-import "ICurvePool.sol";
-import "IPoolFunctionality.sol";
-import "IERC20Simple.sol";
+import "./15_18_IOrionPoolV2Pair.sol";
+import "./14_18_IOrionPoolV2Factory.sol";
+import "./18_18_ICurveRegistry.sol";
+import "./17_18_ICurvePool.sol";
+import "./03_18_IPoolFunctionality.sol";
+import "./02_18_IERC20Simple.sol";
 
-import "SafeMath.sol";
+import "./13_18_SafeMath.sol";
 
 library OrionMultiPoolLibrary {
     using SafeMath for uint;

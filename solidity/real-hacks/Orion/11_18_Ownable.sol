@@ -2,7 +2,7 @@
 pragma solidity 0.7.4;
 pragma experimental ABIEncoderV2;
 
-import "Context.sol";
+import "./10_18_Context.sol";
 /**
  * @dev Contract module which provides a basic access control mechanism, where
  * there is an account (an owner) that can be granted exclusive access to

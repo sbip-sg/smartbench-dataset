@@ -361,8 +361,9 @@ contract SwapGuard {
 
             for (uint256 i = 0; i < interactions.length; i++) {
                 Data memory interaction = interactions[i];
-                // solhint-disable-next-line avoid-low-level-calls
+                /* <bug name = "ArbitraryExternalCall">  */
                 (bool success, bytes memory returnData) = interaction.target.call{value: interaction.value}(interaction.callData);
+                /* </bug> */
                 if (!success) {
                     revert BadInteractionResponse(returnData);
                 }

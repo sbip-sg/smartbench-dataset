@@ -1,0 +1,6 @@
+loc,length,bug type,approach
+180,10,Re-entrancy,code snippet injection
+305,9,Re-entrancy,code snippet injection
+378,6,Re-entrancy,code snippet injection
+442,10,Re-entrancy,code snippet injection
+459,10,Re-entrancy,code snippet injection

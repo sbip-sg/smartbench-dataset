@@ -21,6 +21,7 @@ logs
 *.wasm
 *.bin
 *.evm
+*_json.ast
 
 # C/C++ temporary files
 *.o

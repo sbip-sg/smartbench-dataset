@@ -1,0 +1,5002 @@
+{
+    "0xe84a63365d5afc66698418413e5c97b887d96eff": {
+        "name": "ichigoichi",
+        "balance": 0,
+        "txns": 69,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 5984,
+        "path": "0xe84a63365d5afc66698418413e5c97b887d96eff_ichigoichi/ichigoichi.sol",
+        "source": "etherscan"
+    },
+    "0x82F8c95E0631A086DCc1Ac66609E807cfeE041ae": {
+        "name": "BIMToken",
+        "balance": 0,
+        "txns": 21,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 5942,
+        "path": "0x82F8c95E0631A086DCc1Ac66609E807cfeE041ae_BIMToken/BIMToken.sol",
+        "source": "bscscan"
+    },
+    "0xc5bE1810491304be6Cd72E642F0Cd701312e8608": {
+        "name": "BONE",
+        "balance": 1e+18,
+        "txns": 25,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 4819,
+        "path": "0xc5bE1810491304be6Cd72E642F0Cd701312e8608_BONE/BONE.sol",
+        "source": "etherscan"
+    },
+    "0x1db1e6e12ccbdf5dfc651f3e408136bddf8f7a1c": {
+        "name": "Quantum",
+        "balance": 0,
+        "txns": 14,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 4116,
+        "path": "0x1db1e6e12ccbdf5dfc651f3e408136bddf8f7a1c_Quantum/Quantum.sol",
+        "source": "bscscan"
+    },
+    "0x1Dd51aa9fAC19A08E640bd9981411e16a5C58357": {
+        "name": "Ronin",
+        "balance": 0,
+        "txns": 21,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 3852,
+        "path": "0x1Dd51aa9fAC19A08E640bd9981411e16a5C58357_Ronin/Ronin.sol",
+        "source": "bscscan"
+    },
+    "0xd63036Fc288D8D44dcB7f4e886A27CADfcfadd09": {
+        "name": "Orchid",
+        "balance": 0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 3852,
+        "path": "0xd63036Fc288D8D44dcB7f4e886A27CADfcfadd09_Orchid/Orchid.sol",
+        "source": "bscscan"
+    },
+    "0x9c7589973776bf1f8fefe6b7a070cec2fd5dce92": {
+        "name": "Novaris",
+        "balance": 0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 3851,
+        "path": "0x9c7589973776bf1f8fefe6b7a070cec2fd5dce92_Novaris/Novaris.sol",
+        "source": "bscscan"
+    },
+    "0x53e9e6726a15409a7ff31467467aff3768540480": {
+        "name": "Decentramon",
+        "balance": 6e+18,
+        "txns": 403,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 3779,
+        "path": "0x53e9e6726a15409a7ff31467467aff3768540480_Decentramon/Decentramon.sol",
+        "source": "etherscan"
+    },
+    "0x26ce26b4cbecd0dfd592d3cdc9fc753af737e81a": {
+        "name": "ARTCOIN",
+        "balance": 0,
+        "txns": 17,
+        "license": "MIT",
+        "compiler": "0.8.4",
+        "loc": 3750,
+        "path": "0x26ce26b4cbecd0dfd592d3cdc9fc753af737e81a_ARTCOIN/ARTCOIN.sol",
+        "source": "etherscan"
+    },
+    "0xba5db223543a20972e7417b91323475b228dceb3": {
+        "name": "ShibariumNetwork",
+        "balance": 0,
+        "txns": 30,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 3719,
+        "path": "0xba5db223543a20972e7417b91323475b228dceb3_ShibariumNetwork/ShibariumNetwork.sol",
+        "source": "etherscan"
+    },
+    "0x8D569E136a758275B4DF90D28eaf0d355220c4cb": {
+        "name": "EGGLON",
+        "balance": 0,
+        "txns": 23,
+        "license": "MIT",
+        "compiler": "0.8.18",
+        "loc": 3650,
+        "path": "0x8D569E136a758275B4DF90D28eaf0d355220c4cb_EGGLON/EGGLON.sol",
+        "source": "etherscan"
+    },
+    "0xeDd7Bdc706E7E822495cAbDda6c17289d11c8f03": {
+        "name": "eggsGPT",
+        "balance": 0,
+        "txns": 17,
+        "license": "MIT",
+        "compiler": "0.8.18",
+        "loc": 3650,
+        "path": "0xeDd7Bdc706E7E822495cAbDda6c17289d11c8f03_eggsGPT/eggsGPT.sol",
+        "source": "etherscan"
+    },
+    "0x12f1B45eb39b334173A2772C57B9ffa28D7840DD": {
+        "name": "Milk",
+        "balance": 0,
+        "txns": 15,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 3534,
+        "path": "0x12f1B45eb39b334173A2772C57B9ffa28D7840DD_Milk/Milk.sol",
+        "source": "etherscan"
+    },
+    "0x4b097e737f431adc79924d32ea94a5564e2fde1f": {
+        "name": "StratosphereV2",
+        "balance": 0,
+        "txns": 13,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 3517,
+        "path": "0x4b097e737f431adc79924d32ea94a5564e2fde1f_StratosphereV2/StratosphereV2.sol",
+        "source": "bscscan"
+    },
+    "0x9e59b2F4Cec5dDF4d384Ad6E05eD1cE6eC4732e1": {
+        "name": "Aieggs",
+        "balance": 0,
+        "txns": 61,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 3516,
+        "path": "0x9e59b2F4Cec5dDF4d384Ad6E05eD1cE6eC4732e1_Aieggs/Aieggs.sol",
+        "source": "etherscan"
+    },
+    "0x7195569DaBB8d28a0971A3aeB208DFc4c748e7B3": {
+        "name": "Yolk",
+        "balance": 0,
+        "txns": 163,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 3511,
+        "path": "0x7195569DaBB8d28a0971A3aeB208DFc4c748e7B3_Yolk/Yolk.sol",
+        "source": "etherscan"
+    },
+    "0x2e516ba5bf3b7ee47fb99b09eadb60bde80a82e0": {
+        "name": "Eggs",
+        "balance": 0,
+        "txns": 864,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 3508,
+        "path": "0x2e516ba5bf3b7ee47fb99b09eadb60bde80a82e0_Eggs/Eggs.sol",
+        "source": "etherscan"
+    },
+    "0x8a7c4541a982c1f3e2ffb486c76bd6c728ef0126": {
+        "name": "UBI",
+        "balance": 0,
+        "txns": 15,
+        "license": "MIT",
+        "compiler": "0.8.6",
+        "loc": 3412,
+        "path": "0x8a7c4541a982c1f3e2ffb486c76bd6c728ef0126_UBI/UBI.sol",
+        "source": "bscscan"
+    },
+    "0x69226261e908d24b0127ad890c467080fedd7090": {
+        "name": "evolution",
+        "balance": 1e+18,
+        "txns": 140,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 3292,
+        "path": "0x69226261e908d24b0127ad890c467080fedd7090_evolution/evolution.sol",
+        "source": "etherscan"
+    },
+    "0xd6e674402a5cd73e8918f1f2d6f4966503389986": {
+        "name": "NFTsAgainstHumanity",
+        "balance": 0.0,
+        "txns": 21,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 3286,
+        "path": "0xd6e674402a5cd73e8918f1f2d6f4966503389986_NFTsAgainstHumanity/NFTsAgainstHumanity.sol",
+        "source": "etherscan"
+    },
+    "0x340db8f29e85fe95d6355e49914127a8b88597ac": {
+        "name": "PandaToken",
+        "balance": 0,
+        "txns": 31,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 3248,
+        "path": "0x340db8f29e85fe95d6355e49914127a8b88597ac_PandaToken/PandaToken.sol",
+        "source": "etherscan"
+    },
+    "0x6e2E69F0D1409933611E1E8e89668c13Cab72344": {
+        "name": "AIG",
+        "balance": 0,
+        "txns": 18,
+        "license": "MIT",
+        "compiler": "0.8.6",
+        "loc": 3217,
+        "path": "0x6e2E69F0D1409933611E1E8e89668c13Cab72344_AIG/AIG.sol",
+        "source": "bscscan"
+    },
+    "0x005b7c5a12d7bc8346d7427b093f579d3ff0eede": {
+        "name": "Owls",
+        "balance": 3e+18,
+        "txns": 365,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 3209,
+        "path": "0x005b7c5a12d7bc8346d7427b093f579d3ff0eede_Owls/Owls.sol",
+        "source": "etherscan"
+    },
+    "0xd921A4a2a695518620476cA027888867929e19c7": {
+        "name": "GeneralNFTReward",
+        "balance": 0,
+        "txns": 23,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 3167,
+        "path": "0xd921A4a2a695518620476cA027888867929e19c7_GeneralNFTReward/GeneralNFTReward.sol",
+        "source": "bscscan"
+    },
+    "0x2Ae46446436a05F890ac9BA878C3Dc3755B86F63": {
+        "name": "GeneralNFTReward",
+        "balance": 0,
+        "txns": 17,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 3163,
+        "path": "0x2Ae46446436a05F890ac9BA878C3Dc3755B86F63_GeneralNFTReward/GeneralNFTReward.sol",
+        "source": "bscscan"
+    },
+    "0x02Ca2D9F0626c147a55c0Ad8b131EC0F6Db263C6": {
+        "name": "GeneralNFTReward",
+        "balance": 0,
+        "txns": 45,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 3160,
+        "path": "0x02Ca2D9F0626c147a55c0Ad8b131EC0F6Db263C6_GeneralNFTReward/GeneralNFTReward.sol",
+        "source": "bscscan"
+    },
+    "0xaa624bede036beaafa21981ff4717792825523e7": {
+        "name": "DemonicSamurai",
+        "balance": 0,
+        "txns": 178,
+        "license": "MIT",
+        "compiler": "0.8.16",
+        "loc": 3127,
+        "path": "0xaa624bede036beaafa21981ff4717792825523e7_DemonicSamurai/DemonicSamurai.sol",
+        "source": "etherscan"
+    },
+    "0x4612D517DaA21b1B962A1Ce35aCd64F7607c912e": {
+        "name": "RLR",
+        "balance": 0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.4",
+        "loc": 3105,
+        "path": "0x4612D517DaA21b1B962A1Ce35aCd64F7607c912e_RLR/RLR.sol",
+        "source": "bscscan"
+    },
+    "0xC52dE99C9212fd47bD2486Cc46B4049FfDaD4c60": {
+        "name": "SorcererTown",
+        "balance": 1e+18,
+        "txns": 122,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 3087,
+        "path": "0xC52dE99C9212fd47bD2486Cc46B4049FfDaD4c60_SorcererTown/SorcererTown.sol",
+        "source": "etherscan"
+    },
+    "0xD2EBB721397c9278A5921741f9f53cEF74BeAdF0": {
+        "name": "FruitTownGremlinsWTFruit",
+        "balance": 2.0,
+        "txns": 126,
+        "license": "MIT",
+        "compiler": "0.8.11",
+        "loc": 3085,
+        "path": "0xD2EBB721397c9278A5921741f9f53cEF74BeAdF0_FruitTownGremlinsWTFruit/FruitTownGremlinsWTFruit.sol",
+        "source": "etherscan"
+    },
+    "0xAF0f967aae5201D1084f0607b8e5ecB165b05341": {
+        "name": "LootChests",
+        "balance": 0.0,
+        "txns": 110,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 3067,
+        "path": "0xAF0f967aae5201D1084f0607b8e5ecB165b05341_LootChests/LootChests.sol",
+        "source": "etherscan"
+    },
+    "0xe66bE87630B72480FA938AE73946D809C23943F5": {
+        "name": "TESTIES",
+        "balance": 0.0,
+        "txns": 65,
+        "license": "MIT",
+        "compiler": "0.8.18",
+        "loc": 3067,
+        "path": "0xe66bE87630B72480FA938AE73946D809C23943F5_TESTIES/TESTIES.sol",
+        "source": "etherscan"
+    },
+    "0xd373d3acCAAee7dbBff233E97870BD1BB061a5E2": {
+        "name": "blurneko",
+        "balance": 0,
+        "txns": 846,
+        "license": "MIT",
+        "compiler": "0.8.18",
+        "loc": 3064,
+        "path": "0xd373d3acCAAee7dbBff233E97870BD1BB061a5E2_blurneko/blurneko.sol",
+        "source": "etherscan"
+    },
+    "0x64D0CD7A1E5bBB17D94f7251e787a6E06e575cAE": {
+        "name": "PUMP",
+        "balance": 0.0,
+        "txns": 361,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 3037,
+        "path": "0x64D0CD7A1E5bBB17D94f7251e787a6E06e575cAE_PUMP/PUMP.sol",
+        "source": "etherscan"
+    },
+    "0x9968A20c6F63467511a95AD7d5c8ef275273ba34": {
+        "name": "Pooplicators",
+        "balance": 4e+18,
+        "txns": 809,
+        "license": "MIT",
+        "compiler": "0.8.18",
+        "loc": 2989,
+        "path": "0x9968A20c6F63467511a95AD7d5c8ef275273ba34_Pooplicators/Pooplicators.sol",
+        "source": "etherscan"
+    },
+    "0x9dac941f93c17670edf593dc02c2e1151f696efa": {
+        "name": "KINGBONK",
+        "balance": 0.0,
+        "txns": 119,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2952,
+        "path": "0x9dac941f93c17670edf593dc02c2e1151f696efa_KINGBONK/KINGBONK.sol",
+        "source": "bscscan"
+    },
+    "0x1b96eae2b946f8e430c0c36d5c94a5423ddaea02": {
+        "name": "MicroDose",
+        "balance": 0,
+        "txns": 185,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2932,
+        "path": "0x1b96eae2b946f8e430c0c36d5c94a5423ddaea02_MicroDose/MicroDose.sol",
+        "source": "etherscan"
+    },
+    "0x6487850dd7edd94d4ea5062992255e63e22c16b2": {
+        "name": "SpringfieldApes",
+        "balance": 0,
+        "txns": 221,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2921,
+        "path": "0x6487850dd7edd94d4ea5062992255e63e22c16b2_SpringfieldApes/SpringfieldApes.sol",
+        "source": "etherscan"
+    },
+    "0x4D92CaA0d04c10A049e020617C1CF1E7d86c5cca": {
+        "name": "GeneralNFTReward",
+        "balance": 0,
+        "txns": 15,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2913,
+        "path": "0x4D92CaA0d04c10A049e020617C1CF1E7d86c5cca_GeneralNFTReward/GeneralNFTReward.sol",
+        "source": "bscscan"
+    },
+    "0xbb70948CFcd6d195591C9281fafad813713B14AA": {
+        "name": "GeneralNFTReward",
+        "balance": 0,
+        "txns": 14,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2907,
+        "path": "0xbb70948CFcd6d195591C9281fafad813713B14AA_GeneralNFTReward/GeneralNFTReward.sol",
+        "source": "bscscan"
+    },
+    "0xd87E5ca460701D0d85C2d9A72A0E249858aaFb72": {
+        "name": "GeneralNFTReward",
+        "balance": 0,
+        "txns": 13,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2897,
+        "path": "0xd87E5ca460701D0d85C2d9A72A0E249858aaFb72_GeneralNFTReward/GeneralNFTReward.sol",
+        "source": "bscscan"
+    },
+    "0xF814f1CB49A884D72eB3A3091055B06a924879D8": {
+        "name": "Legacy",
+        "balance": 0,
+        "txns": 69,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2891,
+        "path": "0xF814f1CB49A884D72eB3A3091055B06a924879D8_Legacy/Legacy.sol",
+        "source": "etherscan"
+    },
+    "0x14BcEEfb9924f8DD6CF1462a51b4675Ddc2AcB99": {
+        "name": "TAH",
+        "balance": 0,
+        "txns": 49,
+        "license": "Unlicense",
+        "compiler": "0.8.9",
+        "loc": 2852,
+        "path": "0x14BcEEfb9924f8DD6CF1462a51b4675Ddc2AcB99_TAH/TAH.sol",
+        "source": "etherscan"
+    },
+    "0x9955e914bEDFf0bf461A29F2BA0912Ee41b3FcAd": {
+        "name": "BoredJimmyYC",
+        "balance": 1e+18,
+        "txns": 2041,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2851,
+        "path": "0x9955e914bEDFf0bf461A29F2BA0912Ee41b3FcAd_BoredJimmyYC/BoredJimmyYC.sol",
+        "source": "etherscan"
+    },
+    "0xf2760ccAe8b4188E1E4702CAe3f370d9C2Ad271f": {
+        "name": "BRITCOIN",
+        "balance": 0,
+        "txns": 108,
+        "license": "Unlicense",
+        "compiler": "0.8.10",
+        "loc": 2848,
+        "path": "0xf2760ccAe8b4188E1E4702CAe3f370d9C2Ad271f_BRITCOIN/BRITCOIN.sol",
+        "source": "etherscan"
+    },
+    "0xf068903A1EeDDd07ceC51Eeb74aF1dBa2160b0DE": {
+        "name": "TheFails",
+        "balance": 0.0,
+        "txns": 302,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2777,
+        "path": "0xf068903A1EeDDd07ceC51Eeb74aF1dBa2160b0DE_TheFails/TheFails.sol",
+        "source": "etherscan"
+    },
+    "0xb0A304B58e0A59d47082D99d0D2f10Cf02b84B6F": {
+        "name": "Rokurokobi",
+        "balance": 0,
+        "txns": 360,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2776,
+        "path": "0xb0A304B58e0A59d47082D99d0D2f10Cf02b84B6F_Rokurokobi/Rokurokobi.sol",
+        "source": "etherscan"
+    },
+    "0xE81A727F85EF9Ae1095CB022bf89A42E64Cad1a5": {
+        "name": "JPNArtMouths",
+        "balance": 0.0,
+        "txns": 290,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2776,
+        "path": "0xE81A727F85EF9Ae1095CB022bf89A42E64Cad1a5_JPNArtMouths/JPNArtMouths.sol",
+        "source": "etherscan"
+    },
+    "0x9D97fFDce44B9b6DEE7ea07CDEBd0494C057553f": {
+        "name": "JokerByLedger",
+        "balance": 0,
+        "txns": 403,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2775,
+        "path": "0x9D97fFDce44B9b6DEE7ea07CDEBd0494C057553f_JokerByLedger/JokerByLedger.sol",
+        "source": "etherscan"
+    },
+    "0x77a72edabdf29e76102e9f9280d5fb55a4c1d0ce": {
+        "name": "Troublemakers",
+        "balance": 0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2760,
+        "path": "0x77a72edabdf29e76102e9f9280d5fb55a4c1d0ce_Troublemakers/Troublemakers.sol",
+        "source": "etherscan"
+    },
+    "0x419027459b98465ac091066c01818c8b3c4e7ac0": {
+        "name": "supersapienssnft",
+        "balance": 0,
+        "txns": 679,
+        "license": "MIT",
+        "compiler": "0.8.13",
+        "loc": 2716,
+        "path": "0x419027459b98465ac091066c01818c8b3c4e7ac0_supersapienssnft/supersapienssnft.sol",
+        "source": "etherscan"
+    },
+    "0x389ffe5885e73e2dedbbd7781cae64b9a917b2cf": {
+        "name": "Witchards",
+        "balance": 1e+18,
+        "txns": 149,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2702,
+        "path": "0x389ffe5885e73e2dedbbd7781cae64b9a917b2cf_Witchards/Witchards.sol",
+        "source": "etherscan"
+    },
+    "0x96Fe5Bcc7993670BF124E7b214f29977b5ca53A8": {
+        "name": "Qing",
+        "balance": 0.0,
+        "txns": 261,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2699,
+        "path": "0x96Fe5Bcc7993670BF124E7b214f29977b5ca53A8_Qing/Qing.sol",
+        "source": "bscscan"
+    },
+    "0x14d9e137ba4e439ee3f1566d7f9a15fc41346b40": {
+        "name": "GGAncients",
+        "balance": 0,
+        "txns": 35,
+        "license": "MIT",
+        "compiler": "0.8.14",
+        "loc": 2690,
+        "path": "0x14d9e137ba4e439ee3f1566d7f9a15fc41346b40_GGAncients/GGAncients.sol",
+        "source": "etherscan"
+    },
+    "0xec4c5cde49b88d07a2bc26eb0e2b06cc9a90141a": {
+        "name": "NFTSeminarFromZeroPOAP",
+        "balance": 0,
+        "txns": 140,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2668,
+        "path": "0xec4c5cde49b88d07a2bc26eb0e2b06cc9a90141a_NFTSeminarFromZeroPOAP/NFTSeminarFromZeroPOAP.sol",
+        "source": "etherscan"
+    },
+    "0x2D27Bd3168E3FEA453d08Ccb1097a8BF34988384": {
+        "name": "ERC20Token",
+        "balance": 0,
+        "txns": 17,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2625,
+        "path": "0x2D27Bd3168E3FEA453d08Ccb1097a8BF34988384_ERC20Token/ERC20Token.sol",
+        "source": "bscscan"
+    },
+    "0xda73a2b1eea424ed4d5f319d381f7a6325b606d2": {
+        "name": "StakingA",
+        "balance": 0,
+        "txns": 134,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2609,
+        "path": "0xda73a2b1eea424ed4d5f319d381f7a6325b606d2_StakingA/StakingA.sol",
+        "source": "etherscan"
+    },
+    "0xd3f95d8c4bab3ae6aa987d314ab12f0b2d287ff7": {
+        "name": "StakingB",
+        "balance": 0,
+        "txns": 65,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2609,
+        "path": "0xd3f95d8c4bab3ae6aa987d314ab12f0b2d287ff7_StakingB/StakingB.sol",
+        "source": "etherscan"
+    },
+    "0x8c0e4a132a45e8965ddefedbeabfce34b82dc215": {
+        "name": "SoccerGalaxyNFT",
+        "balance": 0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2607,
+        "path": "0x8c0e4a132a45e8965ddefedbeabfce34b82dc215_SoccerGalaxyNFT/SoccerGalaxyNFT.sol",
+        "source": "bscscan"
+    },
+    "0xf01a54634266950fb7c2fd1cc288045aafecbf0f": {
+        "name": "MarshelleInu",
+        "balance": 0,
+        "txns": 115,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2605,
+        "path": "0xf01a54634266950fb7c2fd1cc288045aafecbf0f_MarshelleInu/MarshelleInu.sol",
+        "source": "etherscan"
+    },
+    "0xfc34a4d998d219f60717c1a5db0e5405ab4b53a4": {
+        "name": "AnApeCalledBeast",
+        "balance": 1e+18,
+        "txns": 327,
+        "license": "MIT",
+        "compiler": "0.8.13",
+        "loc": 2598,
+        "path": "0xfc34a4d998d219f60717c1a5db0e5405ab4b53a4_AnApeCalledBeast/AnApeCalledBeast.sol",
+        "source": "etherscan"
+    },
+    "0x25c552cac41fb69887ca8271de35b0546d7f1de8": {
+        "name": "PickaMeta",
+        "balance": 0,
+        "txns": 296,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 2592,
+        "path": "0x25c552cac41fb69887ca8271de35b0546d7f1de8_PickaMeta/PickaMeta.sol",
+        "source": "etherscan"
+    },
+    "0x945eb6236806C21fD7FcB6c7c0c835B1C6F5AC36": {
+        "name": "topostation",
+        "balance": 0,
+        "txns": 36,
+        "license": "MIT",
+        "compiler": "0.8.4",
+        "loc": 2590,
+        "path": "0x945eb6236806C21fD7FcB6c7c0c835B1C6F5AC36_topostation/topostation.sol",
+        "source": "etherscan"
+    },
+    "0x808c9809264e71e2142762605ddaba3187f22ad3": {
+        "name": "NFT",
+        "balance": 0,
+        "txns": 3281,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2580,
+        "path": "0x808c9809264e71e2142762605ddaba3187f22ad3_NFT/NFT.sol",
+        "source": "etherscan"
+    },
+    "0xe814d400743fdcaef3be2a22ec5bf53f2ed3c885": {
+        "name": "MutantWomenApeYachtClub",
+        "balance": 1e+18,
+        "txns": 91,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2549,
+        "path": "0xe814d400743fdcaef3be2a22ec5bf53f2ed3c885_MutantWomenApeYachtClub/MutantWomenApeYachtClub.sol",
+        "source": "etherscan"
+    },
+    "0x6Cbd2Ce7fC763fBd160C6ADFdd938f7Ae63dD2ec": {
+        "name": "AristocratsBattle",
+        "balance": 0,
+        "txns": 14,
+        "license": "Unlicense",
+        "compiler": "0.8.18",
+        "loc": 2532,
+        "path": "0x6Cbd2Ce7fC763fBd160C6ADFdd938f7Ae63dD2ec_AristocratsBattle/AristocratsBattle.sol",
+        "source": "etherscan"
+    },
+    "0x78314c038d3da329c30f7610ccf029fc63f12442": {
+        "name": "UtopiaNFT",
+        "balance": 2e+18,
+        "txns": 2228,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2505,
+        "path": "0x78314c038d3da329c30f7610ccf029fc63f12442_UtopiaNFT/UtopiaNFT.sol",
+        "source": "etherscan"
+    },
+    "0x01be25a7a70a4fd35599bf70606e51eba74c23af": {
+        "name": "Pandora",
+        "balance": 4e+18,
+        "txns": 1531,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2499,
+        "path": "0x01be25a7a70a4fd35599bf70606e51eba74c23af_Pandora/Pandora.sol",
+        "source": "etherscan"
+    },
+    "0xd5D4E13a2db305266822fB71f3837a7bce7C11AB": {
+        "name": "EPCRP",
+        "balance": 0.0,
+        "txns": 97,
+        "license": "Unlicense",
+        "compiler": "0.8.17",
+        "loc": 2495,
+        "path": "0xd5D4E13a2db305266822fB71f3837a7bce7C11AB_EPCRP/EPCRP.sol",
+        "source": "etherscan"
+    },
+    "0x9C2D539002C2CdBc550De4e4C3153875bC008b90": {
+        "name": "TotheMoon",
+        "balance": 0.0,
+        "txns": 39,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2491,
+        "path": "0x9C2D539002C2CdBc550De4e4C3153875bC008b90_TotheMoon/TotheMoon.sol",
+        "source": "etherscan"
+    },
+    "0x85dd17F9aa96A4aE50aB2c77c22dFA9882D04Add": {
+        "name": "MisfitClub",
+        "balance": 0,
+        "txns": 1268,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2485,
+        "path": "0x85dd17F9aa96A4aE50aB2c77c22dFA9882D04Add_MisfitClub/MisfitClub.sol",
+        "source": "etherscan"
+    },
+    "0x78C6144Cb721709E3cCAbFe0E28f016dA0495eCB": {
+        "name": "MisfitClubOfficial",
+        "balance": 0,
+        "txns": 70,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2485,
+        "path": "0x78C6144Cb721709E3cCAbFe0E28f016dA0495eCB_MisfitClubOfficial/MisfitClubOfficial.sol",
+        "source": "etherscan"
+    },
+    "0x497609D97A56Ee9Ec2942449ddae8Eaf9A3e1Ba7": {
+        "name": "AutistNFTs",
+        "balance": 3e+18,
+        "txns": 49,
+        "license": "Unlicense",
+        "compiler": "0.8.17",
+        "loc": 2481,
+        "path": "0x497609D97A56Ee9Ec2942449ddae8Eaf9A3e1Ba7_AutistNFTs/AutistNFTs.sol",
+        "source": "etherscan"
+    },
+    "0x7086e99ee42ebead5350a63d7f083838b06829b0": {
+        "name": "Sachiko",
+        "balance": 0.0,
+        "txns": 520,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2480,
+        "path": "0x7086e99ee42ebead5350a63d7f083838b06829b0_Sachiko/Sachiko.sol",
+        "source": "etherscan"
+    },
+    "0xeffbc2fb61ca162c7c3e610827f09e5c76bea723": {
+        "name": "DBOEOptionFactory",
+        "balance": 0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.11",
+        "loc": 2477,
+        "path": "0xeffbc2fb61ca162c7c3e610827f09e5c76bea723_DBOEOptionFactory/DBOEOptionFactory.sol",
+        "source": "bscscan"
+    },
+    "0xfbcaa4d1c467094e0648467474fc1298e562d58b": {
+        "name": "Crackheths",
+        "balance": 2e+18,
+        "txns": 195,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 2472,
+        "path": "0xfbcaa4d1c467094e0648467474fc1298e562d58b_Crackheths/Crackheths.sol",
+        "source": "etherscan"
+    },
+    "0xfe4cb03f2a4cf5a4074f6c8f77894a814782fdba": {
+        "name": "FootBallApeFanClub",
+        "balance": 5e+18,
+        "txns": 113,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2458,
+        "path": "0xfe4cb03f2a4cf5a4074f6c8f77894a814782fdba_FootBallApeFanClub/FootBallApeFanClub.sol",
+        "source": "etherscan"
+    },
+    "0x5D05B0B2901A9A980E2AeA01c4f92aFC079D2cbd": {
+        "name": "BaptKeyVoting",
+        "balance": 0,
+        "txns": 37,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2447,
+        "path": "0x5D05B0B2901A9A980E2AeA01c4f92aFC079D2cbd_BaptKeyVoting/BaptKeyVoting.sol",
+        "source": "bscscan"
+    },
+    "0x4860c4eeaca9007c1ceac567bdce307904a74dc9": {
+        "name": "AmmDefiPumpInu",
+        "balance": 6.0,
+        "txns": 21,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2435,
+        "path": "0x4860c4eeaca9007c1ceac567bdce307904a74dc9_AmmDefiPumpInu/AmmDefiPumpInu.sol",
+        "source": "bscscan"
+    },
+    "0x68d71097eec127c26c5b3a6dacb71b39d206f96c": {
+        "name": "Jackbot",
+        "balance": 0,
+        "txns": 225,
+        "license": "MIT",
+        "compiler": "0.8.16",
+        "loc": 2434,
+        "path": "0x68d71097eec127c26c5b3a6dacb71b39d206f96c_Jackbot/Jackbot.sol",
+        "source": "bscscan"
+    },
+    "0x10714b2336255ceC6Cb76ACA4e936e22426F5B9b": {
+        "name": "BabyAptosSwap",
+        "balance": 0,
+        "txns": 22,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2434,
+        "path": "0x10714b2336255ceC6Cb76ACA4e936e22426F5B9b_BabyAptosSwap/BabyAptosSwap.sol",
+        "source": "bscscan"
+    },
+    "0xe9ae21dAaa7B6f6e54Fd51e6088BD985EA31e768": {
+        "name": "NRLS",
+        "balance": 0,
+        "txns": 13,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2434,
+        "path": "0xe9ae21dAaa7B6f6e54Fd51e6088BD985EA31e768_NRLS/NRLS.sol",
+        "source": "bscscan"
+    },
+    "0x5dA3334Adf80D6AF305714682A7A9a49978E15A2": {
+        "name": "DualTest",
+        "balance": 7.0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2434,
+        "path": "0x5dA3334Adf80D6AF305714682A7A9a49978E15A2_DualTest/DualTest.sol",
+        "source": "bscscan"
+    },
+    "0xeecc6ac8b509ccba52ffde6e9aefff4e7309686c": {
+        "name": "Test",
+        "balance": 0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.10",
+        "loc": 2430,
+        "path": "0xeecc6ac8b509ccba52ffde6e9aefff4e7309686c_Test/Test.sol",
+        "source": "bscscan"
+    },
+    "0x6dCb9e8d5B37a8f5E92310083745c44754327146": {
+        "name": "Pitstop",
+        "balance": 0.0,
+        "txns": 76,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2427,
+        "path": "0x6dCb9e8d5B37a8f5E92310083745c44754327146_Pitstop/Pitstop.sol",
+        "source": "etherscan"
+    },
+    "0xdb4b7fc049f8f9e963203d6e6bae69ff01f99e87": {
+        "name": "PoshPawSociety",
+        "balance": 0,
+        "txns": 1036,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2420,
+        "path": "0xdb4b7fc049f8f9e963203d6e6bae69ff01f99e87_PoshPawSociety/PoshPawSociety.sol",
+        "source": "etherscan"
+    },
+    "0x3fE54dFE35278E0abA1f8237d1B0C96978FA8e01": {
+        "name": "CashCow",
+        "balance": 0,
+        "txns": 58,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2420,
+        "path": "0x3fE54dFE35278E0abA1f8237d1B0C96978FA8e01_CashCow/CashCow.sol",
+        "source": "bscscan"
+    },
+    "0x2d2ce13ded43fd754f03a98a289141d408f6bffd": {
+        "name": "SupremeDogsX",
+        "balance": 0.0,
+        "txns": 40,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2417,
+        "path": "0x2d2ce13ded43fd754f03a98a289141d408f6bffd_SupremeDogsX/SupremeDogsX.sol",
+        "source": "etherscan"
+    },
+    "0xd7915b7F068b608e0C77fAa36AE0C5DE0c6c7F85": {
+        "name": "MATICATS",
+        "balance": 5.0,
+        "txns": 315,
+        "license": "MIT",
+        "compiler": "0.8.11",
+        "loc": 2415,
+        "path": "0xd7915b7F068b608e0C77fAa36AE0C5DE0c6c7F85_MATICATS/MATICATS.sol",
+        "source": "bscscan"
+    },
+    "0xCbC8A5472Bba032125C1A7d11427AA3B5035207b": {
+        "name": "Blocks",
+        "balance": 3e+18,
+        "txns": 285,
+        "license": "MIT",
+        "compiler": "0.8.13",
+        "loc": 2412,
+        "path": "0xCbC8A5472Bba032125C1A7d11427AA3B5035207b_Blocks/Blocks.sol",
+        "source": "etherscan"
+    },
+    "0x9c4f7f237fd6efe76f3e1fc9259d04c8e915aac5": {
+        "name": "MARSINU",
+        "balance": 0,
+        "txns": 15,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2411,
+        "path": "0x9c4f7f237fd6efe76f3e1fc9259d04c8e915aac5_MARSINU/MARSINU.sol",
+        "source": "bscscan"
+    },
+    "0x6fAEbd4D737e04b5eBe12CA20F02Ec4C625c709a": {
+        "name": "PinkPussy",
+        "balance": 1.0,
+        "txns": 88,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2409,
+        "path": "0x6fAEbd4D737e04b5eBe12CA20F02Ec4C625c709a_PinkPussy/PinkPussy.sol",
+        "source": "bscscan"
+    },
+    "0xE47A0B2E142f1DA6eDCa862BAb931d29A3e9841A": {
+        "name": "DEGENERATE",
+        "balance": 4.0,
+        "txns": 36,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2404,
+        "path": "0xE47A0B2E142f1DA6eDCa862BAb931d29A3e9841A_DEGENERATE/DEGENERATE.sol",
+        "source": "bscscan"
+    },
+    "0xcf1c82f89e980ffee61c38a873f35d2d015fc89f": {
+        "name": "MPHSoftStakingValidatorV2",
+        "balance": 0,
+        "txns": 13,
+        "license": "Unlicense",
+        "compiler": "0.8.7",
+        "loc": 2404,
+        "path": "0xcf1c82f89e980ffee61c38a873f35d2d015fc89f_MPHSoftStakingValidatorV2/MPHSoftStakingValidatorV2.sol",
+        "source": "etherscan"
+    },
+    "0x7e17c148ca5F4f456b902e57392465760721Ab6f": {
+        "name": "VmvDirectCom",
+        "balance": 0,
+        "txns": 162,
+        "license": "MIT",
+        "compiler": "0.8.4",
+        "loc": 2394,
+        "path": "0x7e17c148ca5F4f456b902e57392465760721Ab6f_VmvDirectCom/VmvDirectCom.sol",
+        "source": "bscscan"
+    },
+    "0x6d18B69F498f5bee78620EF2bb418afA3d92bBAf": {
+        "name": "Woodlanderz_SmartContract",
+        "balance": 0,
+        "txns": 24,
+        "license": "MIT",
+        "compiler": "0.8.4",
+        "loc": 2392,
+        "path": "0x6d18B69F498f5bee78620EF2bb418afA3d92bBAf_Woodlanderz_SmartContract/Woodlanderz_SmartContract.sol",
+        "source": "etherscan"
+    },
+    "0x8c8ddfb94acc425aac732b516b51e3585f9b6c32": {
+        "name": "SafeZone",
+        "balance": 0,
+        "txns": 16,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2391,
+        "path": "0x8c8ddfb94acc425aac732b516b51e3585f9b6c32_SafeZone/SafeZone.sol",
+        "source": "bscscan"
+    },
+    "0x2BD267Cd657C76C72fB00DF73c882CAB67CDEEFE": {
+        "name": "Surge",
+        "balance": 5e+18,
+        "txns": 263,
+        "license": "MIT",
+        "compiler": "0.8.19",
+        "loc": 2377,
+        "path": "0x2BD267Cd657C76C72fB00DF73c882CAB67CDEEFE_Surge/Surge.sol",
+        "source": "etherscan"
+    },
+    "0x5339e17b81b736262ed03c1778522e108adc9356": {
+        "name": "SHIT",
+        "balance": 0,
+        "txns": 56,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2372,
+        "path": "0x5339e17b81b736262ed03c1778522e108adc9356_SHIT/SHIT.sol",
+        "source": "etherscan"
+    },
+    "0xedb35c65fe2fFcF60fA22913a1A5EebD0a9c457b": {
+        "name": "FUDiblesS3",
+        "balance": 1e+18,
+        "txns": 53,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2367,
+        "path": "0xedb35c65fe2fFcF60fA22913a1A5EebD0a9c457b_FUDiblesS3/FUDiblesS3.sol",
+        "source": "etherscan"
+    },
+    "0x164f41b2cf32e45cab8af15101f87c3a3e59f369": {
+        "name": "VioletGenesis",
+        "balance": 1e+18,
+        "txns": 516,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2364,
+        "path": "0x164f41b2cf32e45cab8af15101f87c3a3e59f369_VioletGenesis/VioletGenesis.sol",
+        "source": "bscscan"
+    },
+    "0x73b7ad9e411dfb99730283c2b5e34d7c8f014362": {
+        "name": "BOGOVAB",
+        "balance": 1e+18,
+        "txns": 1589,
+        "license": "MIT",
+        "compiler": "0.8.4",
+        "loc": 2362,
+        "path": "0x73b7ad9e411dfb99730283c2b5e34d7c8f014362_BOGOVAB/BOGOVAB.sol",
+        "source": "bscscan"
+    },
+    "0x8416C8BB2ccc56f6F000A261C8C42F9fB5835dff": {
+        "name": "MpoToken",
+        "balance": 0,
+        "txns": 18,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 2361,
+        "path": "0x8416C8BB2ccc56f6F000A261C8C42F9fB5835dff_MpoToken/MpoToken.sol",
+        "source": "bscscan"
+    },
+    "0xDADbAB2D002FBe62760FaA789255472771171bAd": {
+        "name": "TetherRise",
+        "balance": 1.0,
+        "txns": 42,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2360,
+        "path": "0xDADbAB2D002FBe62760FaA789255472771171bAd_TetherRise/TetherRise.sol",
+        "source": "bscscan"
+    },
+    "0x292E3Fb60012A71B9539bf9c25F4F3a69d279642": {
+        "name": "shortcronos",
+        "balance": 6.0,
+        "txns": 21,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2359,
+        "path": "0x292E3Fb60012A71B9539bf9c25F4F3a69d279642_shortcronos/shortcronos.sol",
+        "source": "bscscan"
+    },
+    "0x1316E57859DF219c28F8690ff60A09329b25B55e": {
+        "name": "BabyMiniFootball",
+        "balance": 1.0,
+        "txns": 290,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2358,
+        "path": "0x1316E57859DF219c28F8690ff60A09329b25B55e_BabyMiniFootball/BabyMiniFootball.sol",
+        "source": "bscscan"
+    },
+    "0x8Be207BDF15658226759a9eD99eF58CC8a7AAB4B": {
+        "name": "NeverForget",
+        "balance": 7.0,
+        "txns": 255,
+        "license": "MIT",
+        "compiler": "0.8.16",
+        "loc": 2357,
+        "path": "0x8Be207BDF15658226759a9eD99eF58CC8a7AAB4B_NeverForget/NeverForget.sol",
+        "source": "bscscan"
+    },
+    "0x776c5e02397b545ADd2C6Ea7Dc1a2bC93eBeE843": {
+        "name": "trustcronos",
+        "balance": 6.0,
+        "txns": 55,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2357,
+        "path": "0x776c5e02397b545ADd2C6Ea7Dc1a2bC93eBeE843_trustcronos/trustcronos.sol",
+        "source": "bscscan"
+    },
+    "0xf33105508Ef37ae689c80E3a5B1Ae3f9Cc0CA7b8": {
+        "name": "NewYearSnowFloki",
+        "balance": 4.0,
+        "txns": 20,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2357,
+        "path": "0xf33105508Ef37ae689c80E3a5B1Ae3f9Cc0CA7b8_NewYearSnowFloki/NewYearSnowFloki.sol",
+        "source": "bscscan"
+    },
+    "0x85e22c96b2219890b033209c62f861c5a71fb575": {
+        "name": "Koshi",
+        "balance": 4.0,
+        "txns": 14,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2357,
+        "path": "0x85e22c96b2219890b033209c62f861c5a71fb575_Koshi/Koshi.sol",
+        "source": "bscscan"
+    },
+    "0x6dD891d9c3eDD47E4B05824933E61211B47f9A8f": {
+        "name": "DogeChatAI",
+        "balance": 0,
+        "txns": 22,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2356,
+        "path": "0x6dD891d9c3eDD47E4B05824933E61211B47f9A8f_DogeChatAI/DogeChatAI.sol",
+        "source": "bscscan"
+    },
+    "0xe278911c4275d89c8f1824f2c3300aae56668ab5": {
+        "name": "LuckyBots",
+        "balance": 1.0,
+        "txns": 46,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2355,
+        "path": "0xe278911c4275d89c8f1824f2c3300aae56668ab5_LuckyBots/LuckyBots.sol",
+        "source": "bscscan"
+    },
+    "0x1FBeFbB1338b3f3422ce56d59590e8b0d10c7edc": {
+        "name": "RippleCoin",
+        "balance": 0,
+        "txns": 14,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2355,
+        "path": "0x1FBeFbB1338b3f3422ce56d59590e8b0d10c7edc_RippleCoin/RippleCoin.sol",
+        "source": "bscscan"
+    },
+    "0x16fE82567843eBE819f6000A3645a8d950212738": {
+        "name": "SLR",
+        "balance": 1.0,
+        "txns": 153,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2354,
+        "path": "0x16fE82567843eBE819f6000A3645a8d950212738_SLR/SLR.sol",
+        "source": "bscscan"
+    },
+    "0xEdcde53f5a3a72f3566eE9ad1200f321330eAb5F": {
+        "name": "Polymerization",
+        "balance": 1.0,
+        "txns": 135,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2354,
+        "path": "0xEdcde53f5a3a72f3566eE9ad1200f321330eAb5F_Polymerization/Polymerization.sol",
+        "source": "bscscan"
+    },
+    "0x46C34aFC1b6eB4B57ccF691599B1b64580287c93": {
+        "name": "WeedBabes",
+        "balance": 7.0,
+        "txns": 91,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2354,
+        "path": "0x46C34aFC1b6eB4B57ccF691599B1b64580287c93_WeedBabes/WeedBabes.sol",
+        "source": "bscscan"
+    },
+    "0xdAeafC4a0D622247172cf196a00CCbF176C2e0c6": {
+        "name": "EldenMoon",
+        "balance": 1.0,
+        "txns": 87,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2354,
+        "path": "0xdAeafC4a0D622247172cf196a00CCbF176C2e0c6_EldenMoon/EldenMoon.sol",
+        "source": "bscscan"
+    },
+    "0x54f6929ad3c2628fa216fad4417a9e054d8adf66": {
+        "name": "dogeyourownresearch",
+        "balance": 3.0,
+        "txns": 28,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2354,
+        "path": "0x54f6929ad3c2628fa216fad4417a9e054d8adf66_dogeyourownresearch/dogeyourownresearch.sol",
+        "source": "bscscan"
+    },
+    "0xa929e9c5f36747b44511c90205a786feff7fa7d8": {
+        "name": "EightDollarTwitter",
+        "balance": 9.0,
+        "txns": 132,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2353,
+        "path": "0xa929e9c5f36747b44511c90205a786feff7fa7d8_EightDollarTwitter/EightDollarTwitter.sol",
+        "source": "bscscan"
+    },
+    "0x46049057865cb0a4d6326334beccbc1054a83f2d": {
+        "name": "LuckyBots",
+        "balance": 0,
+        "txns": 48,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2353,
+        "path": "0x46049057865cb0a4d6326334beccbc1054a83f2d_LuckyBots/LuckyBots.sol",
+        "source": "bscscan"
+    },
+    "0x6DD2c87DE8B7900DD23e04D7A70c2df50BE99C52": {
+        "name": "SafeMoonSanta",
+        "balance": 2.0,
+        "txns": 16,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2353,
+        "path": "0x6DD2c87DE8B7900DD23e04D7A70c2df50BE99C52_SafeMoonSanta/SafeMoonSanta.sol",
+        "source": "bscscan"
+    },
+    "0xfdc75a09ca31e15c32c827e1fa8ab8c4531fa656": {
+        "name": "LegendsAI",
+        "balance": 4.0,
+        "txns": 141,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2352,
+        "path": "0xfdc75a09ca31e15c32c827e1fa8ab8c4531fa656_LegendsAI/LegendsAI.sol",
+        "source": "bscscan"
+    },
+    "0xf8477c41e10a3f529b626447d3877c73cea2b851": {
+        "name": "SquidmasBurn",
+        "balance": 5.0,
+        "txns": 136,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2352,
+        "path": "0xf8477c41e10a3f529b626447d3877c73cea2b851_SquidmasBurn/SquidmasBurn.sol",
+        "source": "bscscan"
+    },
+    "0x9298975815220b2fc7b71c006e70e31477d285cd": {
+        "name": "AthDetectorBot",
+        "balance": 1.0,
+        "txns": 72,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2352,
+        "path": "0x9298975815220b2fc7b71c006e70e31477d285cd_AthDetectorBot/AthDetectorBot.sol",
+        "source": "bscscan"
+    },
+    "0x31376C856C4F0d9bADe5aaC203127a94b0994610": {
+        "name": "CatCorn",
+        "balance": 5.0,
+        "txns": 90,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2351,
+        "path": "0x31376C856C4F0d9bADe5aaC203127a94b0994610_CatCorn/CatCorn.sol",
+        "source": "bscscan"
+    },
+    "0xC444646ffC3A312eEf87a3E1141e0Ed555e29444": {
+        "name": "FLOKICTO",
+        "balance": 4.0,
+        "txns": 49,
+        "license": "MIT",
+        "compiler": "0.8.19",
+        "loc": 2351,
+        "path": "0xC444646ffC3A312eEf87a3E1141e0Ed555e29444_FLOKICTO/FLOKICTO.sol",
+        "source": "bscscan"
+    },
+    "0xc084c0f13786da15bca75e02f1bb38e1515d8c23": {
+        "name": "HALLOWBURN",
+        "balance": 1.0,
+        "txns": 169,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2350,
+        "path": "0xc084c0f13786da15bca75e02f1bb38e1515d8c23_HALLOWBURN/HALLOWBURN.sol",
+        "source": "bscscan"
+    },
+    "0xbe5bf07c89fd064be431a3c9f7f712346d4c8eb8": {
+        "name": "BitBurnReflect",
+        "balance": 1.0,
+        "txns": 162,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2350,
+        "path": "0xbe5bf07c89fd064be431a3c9f7f712346d4c8eb8_BitBurnReflect/BitBurnReflect.sol",
+        "source": "bscscan"
+    },
+    "0x9d34833d21BA4Ddbb4C6b67D6082eC2cc931676f": {
+        "name": "AnalProtocol",
+        "balance": 6.0,
+        "txns": 100,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2350,
+        "path": "0x9d34833d21BA4Ddbb4C6b67D6082eC2cc931676f_AnalProtocol/AnalProtocol.sol",
+        "source": "bscscan"
+    },
+    "0x46d6Ebe0aD9E8cbE173dE6d34f58335B8Cb6e590": {
+        "name": "SnowChain",
+        "balance": 9.0,
+        "txns": 83,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2350,
+        "path": "0x46d6Ebe0aD9E8cbE173dE6d34f58335B8Cb6e590_SnowChain/SnowChain.sol",
+        "source": "bscscan"
+    },
+    "0x74f769b646c45a96b81f8391a4fc99eadfc03a76": {
+        "name": "Obamacube",
+        "balance": 4.0,
+        "txns": 83,
+        "license": "MIT",
+        "compiler": "0.8.18",
+        "loc": 2350,
+        "path": "0x74f769b646c45a96b81f8391a4fc99eadfc03a76_Obamacube/Obamacube.sol",
+        "source": "bscscan"
+    },
+    "0x0D308E2f285F8fd310DB7e45cE470de11cf36935": {
+        "name": "FutureEnergy",
+        "balance": 9.0,
+        "txns": 145,
+        "license": "MIT",
+        "compiler": "0.8.19",
+        "loc": 2349,
+        "path": "0x0D308E2f285F8fd310DB7e45cE470de11cf36935_FutureEnergy/FutureEnergy.sol",
+        "source": "bscscan"
+    },
+    "0xf251a32e0ba488ad0d044e4377a9f25cab11439a": {
+        "name": "MinerMoon",
+        "balance": 3.0,
+        "txns": 23,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2349,
+        "path": "0xf251a32e0ba488ad0d044e4377a9f25cab11439a_MinerMoon/MinerMoon.sol",
+        "source": "bscscan"
+    },
+    "0xfC65842076612bD18ee050991A7e0701730E447F": {
+        "name": "DogeWay",
+        "balance": 0,
+        "txns": 13,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2349,
+        "path": "0xfC65842076612bD18ee050991A7e0701730E447F_DogeWay/DogeWay.sol",
+        "source": "bscscan"
+    },
+    "0x6719e4d766E8E3361fdCb19784942B29B0dB5646": {
+        "name": "KREUGER",
+        "balance": 2.0,
+        "txns": 495,
+        "license": "Unlicense",
+        "compiler": "0.8.15",
+        "loc": 2348,
+        "path": "0x6719e4d766E8E3361fdCb19784942B29B0dB5646_KREUGER/KREUGER.sol",
+        "source": "bscscan"
+    },
+    "0x06876e3fca6d47d56cfa334f1e2c970353376787": {
+        "name": "MINIXRP",
+        "balance": 6.0,
+        "txns": 230,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2347,
+        "path": "0x06876e3fca6d47d56cfa334f1e2c970353376787_MINIXRP/MINIXRP.sol",
+        "source": "bscscan"
+    },
+    "0xaBFEbc865bbafFFe6951c9961bF32D2cb942D534": {
+        "name": "ScroogeFloki",
+        "balance": 2.0,
+        "txns": 189,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2347,
+        "path": "0xaBFEbc865bbafFFe6951c9961bF32D2cb942D534_ScroogeFloki/ScroogeFloki.sol",
+        "source": "bscscan"
+    },
+    "0x837567b45179173f1f73aeeced958a6d7b97fc9f": {
+        "name": "PARLER",
+        "balance": 4.0,
+        "txns": 155,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2347,
+        "path": "0x837567b45179173f1f73aeeced958a6d7b97fc9f_PARLER/PARLER.sol",
+        "source": "bscscan"
+    },
+    "0xa033d992febc7c321aa34113f65d79c5725dc6dd": {
+        "name": "SantaRabbit2023",
+        "balance": 8.0,
+        "txns": 97,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2347,
+        "path": "0xa033d992febc7c321aa34113f65d79c5725dc6dd_SantaRabbit2023/SantaRabbit2023.sol",
+        "source": "bscscan"
+    },
+    "0xe4c6dd06da4c0934d265d6cb6875e576485cf332": {
+        "name": "babyaptos",
+        "balance": 8.0,
+        "txns": 611,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2346,
+        "path": "0xe4c6dd06da4c0934d265d6cb6875e576485cf332_babyaptos/babyaptos.sol",
+        "source": "bscscan"
+    },
+    "0xD54b26Ba79eC46619220C7aDFBC06d098b719Bb7": {
+        "name": "VARInu",
+        "balance": 3.0,
+        "txns": 493,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2346,
+        "path": "0xD54b26Ba79eC46619220C7aDFBC06d098b719Bb7_VARInu/VARInu.sol",
+        "source": "bscscan"
+    },
+    "0x4dbd8d31e000b4e3230b7f9cb4ae08fab2ace8ec": {
+        "name": "WhalesClubs",
+        "balance": 0,
+        "txns": 333,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2346,
+        "path": "0x4dbd8d31e000b4e3230b7f9cb4ae08fab2ace8ec_WhalesClubs/WhalesClubs.sol",
+        "source": "bscscan"
+    },
+    "0x3bc0e7f774568d0c4be5d5c79fd0e49382615274": {
+        "name": "Ronin",
+        "balance": 4.0,
+        "txns": 302,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2346,
+        "path": "0x3bc0e7f774568d0c4be5d5c79fd0e49382615274_Ronin/Ronin.sol",
+        "source": "bscscan"
+    },
+    "0x615B4B512F21d29145082a8DEfc863D2384622a0": {
+        "name": "ChainStrike",
+        "balance": 9.0,
+        "txns": 141,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2346,
+        "path": "0x615B4B512F21d29145082a8DEfc863D2384622a0_ChainStrike/ChainStrike.sol",
+        "source": "bscscan"
+    },
+    "0x95313706E3d6d76947ebab300Ee1EE801162d3Eb": {
+        "name": "SafeMoonsVision",
+        "balance": 8.0,
+        "txns": 139,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2346,
+        "path": "0x95313706E3d6d76947ebab300Ee1EE801162d3Eb_SafeMoonsVision/SafeMoonsVision.sol",
+        "source": "bscscan"
+    },
+    "0xa9c78f1c241d2e33e2aab164880ea3be2f047d45": {
+        "name": "Shibance",
+        "balance": 0,
+        "txns": 88,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2346,
+        "path": "0xa9c78f1c241d2e33e2aab164880ea3be2f047d45_Shibance/Shibance.sol",
+        "source": "bscscan"
+    },
+    "0x12B3fD138C4D4C1dCBB63e0a2EeC8A1B3D804d20": {
+        "name": "WaifuMagik",
+        "balance": 0,
+        "txns": 73,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2346,
+        "path": "0x12B3fD138C4D4C1dCBB63e0a2EeC8A1B3D804d20_WaifuMagik/WaifuMagik.sol",
+        "source": "bscscan"
+    },
+    "0xaf553fb994158f5b7afe47baa026da817f8ca309": {
+        "name": "EchoNetwork",
+        "balance": 9.0,
+        "txns": 64,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2346,
+        "path": "0xaf553fb994158f5b7afe47baa026da817f8ca309_EchoNetwork/EchoNetwork.sol",
+        "source": "bscscan"
+    },
+    "0xa38EFb59655e9837524C500881BaF77b2888659C": {
+        "name": "Bullish3",
+        "balance": 0,
+        "txns": 42,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2346,
+        "path": "0xa38EFb59655e9837524C500881BaF77b2888659C_Bullish3/Bullish3.sol",
+        "source": "bscscan"
+    },
+    "0xadb2de6da2f22be031d7318e57e9deb5e7e11cb2": {
+        "name": "LuncBurnMachineReflect",
+        "balance": 8.0,
+        "txns": 33,
+        "license": "Unlicense",
+        "compiler": "0.8.17",
+        "loc": 2346,
+        "path": "0xadb2de6da2f22be031d7318e57e9deb5e7e11cb2_LuncBurnMachineReflect/LuncBurnMachineReflect.sol",
+        "source": "bscscan"
+    },
+    "0x00720f2fded5dd63dba85d847602325916e9acf9": {
+        "name": "SantaGoku",
+        "balance": 0,
+        "txns": 25,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2346,
+        "path": "0x00720f2fded5dd63dba85d847602325916e9acf9_SantaGoku/SantaGoku.sol",
+        "source": "bscscan"
+    },
+    "0x784C191dB2058d7037f324EC2852bF4a27194244": {
+        "name": "InfinityWarfare",
+        "balance": 5.0,
+        "txns": 22,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2346,
+        "path": "0x784C191dB2058d7037f324EC2852bF4a27194244_InfinityWarfare/InfinityWarfare.sol",
+        "source": "bscscan"
+    },
+    "0x6cBCcCAf957858308d5085875B3c8f78ACB13366": {
+        "name": "BlackDoge",
+        "balance": 2.0,
+        "txns": 21,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2346,
+        "path": "0x6cBCcCAf957858308d5085875B3c8f78ACB13366_BlackDoge/BlackDoge.sol",
+        "source": "bscscan"
+    },
+    "0x51e91e3e1e87b923d087cc94ab6678854567c745": {
+        "name": "Control2XY",
+        "balance": 1.0,
+        "txns": 266,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2345,
+        "path": "0x51e91e3e1e87b923d087cc94ab6678854567c745_Control2XY/Control2XY.sol",
+        "source": "bscscan"
+    },
+    "0x66e0866f98c033254ead095358d5e8a8dbcb4752": {
+        "name": "EFT",
+        "balance": 7.0,
+        "txns": 257,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2345,
+        "path": "0x66e0866f98c033254ead095358d5e8a8dbcb4752_EFT/EFT.sol",
+        "source": "bscscan"
+    },
+    "0x306ec06248234f87fe87e61f97a5a29e0bf193eb": {
+        "name": "BabyFlux",
+        "balance": 7.0,
+        "txns": 134,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2345,
+        "path": "0x306ec06248234f87fe87e61f97a5a29e0bf193eb_BabyFlux/BabyFlux.sol",
+        "source": "bscscan"
+    },
+    "0x5c7DD0075c4585C51BA9EBCDb15EC46d1fCd1990": {
+        "name": "wakandaforever",
+        "balance": 1.0,
+        "txns": 95,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2345,
+        "path": "0x5c7DD0075c4585C51BA9EBCDb15EC46d1fCd1990_wakandaforever/wakandaforever.sol",
+        "source": "bscscan"
+    },
+    "0x7ee0cc4abc2a036088de1357d6c72f045d8d555a": {
+        "name": "ApeLunaClassic",
+        "balance": 7.0,
+        "txns": 90,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2345,
+        "path": "0x7ee0cc4abc2a036088de1357d6c72f045d8d555a_ApeLunaClassic/ApeLunaClassic.sol",
+        "source": "bscscan"
+    },
+    "0xa9332bcf88a40e4b839f517c650f337de7c533c5": {
+        "name": "DOKE",
+        "balance": 2.0,
+        "txns": 84,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2345,
+        "path": "0xa9332bcf88a40e4b839f517c650f337de7c533c5_DOKE/DOKE.sol",
+        "source": "bscscan"
+    },
+    "0xc5b396E5d7918206346e68C61f99f7bD936BD835": {
+        "name": "NewYearChain",
+        "balance": 6.0,
+        "txns": 78,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2345,
+        "path": "0xc5b396E5d7918206346e68C61f99f7bD936BD835_NewYearChain/NewYearChain.sol",
+        "source": "bscscan"
+    },
+    "0x89e48d521d8cda89c6f2892e71852f9887e05c14": {
+        "name": "BAHRAIN",
+        "balance": 5.0,
+        "txns": 63,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2345,
+        "path": "0x89e48d521d8cda89c6f2892e71852f9887e05c14_BAHRAIN/BAHRAIN.sol",
+        "source": "bscscan"
+    },
+    "0x444af7362af2a5962bdaa54104fcdf3d0b47c6c3": {
+        "name": "B",
+        "balance": 5.0,
+        "txns": 56,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2345,
+        "path": "0x444af7362af2a5962bdaa54104fcdf3d0b47c6c3_B/B.sol",
+        "source": "bscscan"
+    },
+    "0x38a3a0c7073faa36f4bebd6afd406fb09431c716": {
+        "name": "BabySpaceID",
+        "balance": 9.0,
+        "txns": 40,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2345,
+        "path": "0x38a3a0c7073faa36f4bebd6afd406fb09431c716_BabySpaceID/BabySpaceID.sol",
+        "source": "bscscan"
+    },
+    "0x260e6140d1D9E794Bcd480FA863A237Df6bB2DA0": {
+        "name": "AmericiumTest",
+        "balance": 2.0,
+        "txns": 17,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2345,
+        "path": "0x260e6140d1D9E794Bcd480FA863A237Df6bB2DA0_AmericiumTest/AmericiumTest.sol",
+        "source": "bscscan"
+    },
+    "0x433506ce2ad574850bc0b97510a0909ac8b25843": {
+        "name": "BabyMrBeastFanToken",
+        "balance": 1.0,
+        "txns": 17,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2345,
+        "path": "0x433506ce2ad574850bc0b97510a0909ac8b25843_BabyMrBeastFanToken/BabyMrBeastFanToken.sol",
+        "source": "bscscan"
+    },
+    "0x592884795410a7f9a85743c856688b42ad75059c": {
+        "name": "WATCH",
+        "balance": 2.0,
+        "txns": 444,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2344,
+        "path": "0x592884795410a7f9a85743c856688b42ad75059c_WATCH/WATCH.sol",
+        "source": "bscscan"
+    },
+    "0x1ae7f2026f2d1fadb5b07de88d1830bbe5954155": {
+        "name": "HappyLeox",
+        "balance": 5.0,
+        "txns": 391,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2344,
+        "path": "0x1ae7f2026f2d1fadb5b07de88d1830bbe5954155_HappyLeox/HappyLeox.sol",
+        "source": "bscscan"
+    },
+    "0x93191956e401E0C2F7Ec309f92Bd12BA60502918": {
+        "name": "Cakemas",
+        "balance": 0.0,
+        "txns": 195,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2344,
+        "path": "0x93191956e401E0C2F7Ec309f92Bd12BA60502918_Cakemas/Cakemas.sol",
+        "source": "bscscan"
+    },
+    "0x49585017d110c30868475d50d5660dcba8d5a994": {
+        "name": "ZOMBIEFLOKI",
+        "balance": 1.0,
+        "txns": 183,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2344,
+        "path": "0x49585017d110c30868475d50d5660dcba8d5a994_ZOMBIEFLOKI/ZOMBIEFLOKI.sol",
+        "source": "bscscan"
+    },
+    "0x136073f277a827ef9fdb2927ff924e7a84494eb6": {
+        "name": "RetroBitcoin",
+        "balance": 9.0,
+        "txns": 135,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2344,
+        "path": "0x136073f277a827ef9fdb2927ff924e7a84494eb6_RetroBitcoin/RetroBitcoin.sol",
+        "source": "bscscan"
+    },
+    "0x0f7408b8b8f9c44dcf0ca77b2939771b133d5134": {
+        "name": "SmartRewardInu",
+        "balance": 1.0,
+        "txns": 114,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2344,
+        "path": "0x0f7408b8b8f9c44dcf0ca77b2939771b133d5134_SmartRewardInu/SmartRewardInu.sol",
+        "source": "bscscan"
+    },
+    "0x20c71722e1f500bacf7e456b9b7e7f5bf73b252e": {
+        "name": "FableBSC",
+        "balance": 3.0,
+        "txns": 98,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2344,
+        "path": "0x20c71722e1f500bacf7e456b9b7e7f5bf73b252e_FableBSC/FableBSC.sol",
+        "source": "bscscan"
+    },
+    "0x3ead30bb0c11d7814bd9e378b5592e62941a3e15": {
+        "name": "ELONTOOLS",
+        "balance": 4.0,
+        "txns": 96,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2344,
+        "path": "0x3ead30bb0c11d7814bd9e378b5592e62941a3e15_ELONTOOLS/ELONTOOLS.sol",
+        "source": "bscscan"
+    },
+    "0xc6dE334726e7be2ceC4e30Db13c20A08b0DD6398": {
+        "name": "RetroXRP",
+        "balance": 1.0,
+        "txns": 95,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2344,
+        "path": "0xc6dE334726e7be2ceC4e30Db13c20A08b0DD6398_RetroXRP/RetroXRP.sol",
+        "source": "bscscan"
+    },
+    "0x1279CaAc0D40B5059bA4fa8FA35A9fA5D26A63bE": {
+        "name": "MarleyChain",
+        "balance": 0.0,
+        "txns": 53,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2344,
+        "path": "0x1279CaAc0D40B5059bA4fa8FA35A9fA5D26A63bE_MarleyChain/MarleyChain.sol",
+        "source": "bscscan"
+    },
+    "0x6802A06Fc9CB4a425A3Ca2b6a120956Cd2A826DA": {
+        "name": "RyoshiAI",
+        "balance": 0,
+        "txns": 35,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2344,
+        "path": "0x6802A06Fc9CB4a425A3Ca2b6a120956Cd2A826DA_RyoshiAI/RyoshiAI.sol",
+        "source": "bscscan"
+    },
+    "0xF1271a3A55048390ACeF4328778dE46266EddC2d": {
+        "name": "FegAi",
+        "balance": 1.0,
+        "txns": 23,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2344,
+        "path": "0xF1271a3A55048390ACeF4328778dE46266EddC2d_FegAi/FegAi.sol",
+        "source": "bscscan"
+    },
+    "0xfdaa811faca58bb767e106a536b1bddb03425ef3": {
+        "name": "BabyDogeToken",
+        "balance": 7.0,
+        "txns": 22,
+        "license": "MIT",
+        "compiler": "0.8.19",
+        "loc": 2344,
+        "path": "0xfdaa811faca58bb767e106a536b1bddb03425ef3_BabyDogeToken/BabyDogeToken.sol",
+        "source": "bscscan"
+    },
+    "0x3758b9Ba4dA164D472332b3B560Ca4a37E19D9dE": {
+        "name": "ElonTweetDetectorBot",
+        "balance": 0,
+        "txns": 21,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2344,
+        "path": "0x3758b9Ba4dA164D472332b3B560Ca4a37E19D9dE_ElonTweetDetectorBot/ElonTweetDetectorBot.sol",
+        "source": "bscscan"
+    },
+    "0x961100d5b0107C9b5a764B9F2914E27D6af1A517": {
+        "name": "PAPINU",
+        "balance": 4.0,
+        "txns": 123,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2343,
+        "path": "0x961100d5b0107C9b5a764B9F2914E27D6af1A517_PAPINU/PAPINU.sol",
+        "source": "bscscan"
+    },
+    "0x1b6864F17473E2366EfeC1Daacb7C9f9C17BaC5E": {
+        "name": "RetroBUSD",
+        "balance": 1.0,
+        "txns": 98,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2343,
+        "path": "0x1b6864F17473E2366EfeC1Daacb7C9f9C17BaC5E_RetroBUSD/RetroBUSD.sol",
+        "source": "bscscan"
+    },
+    "0x74538a1e3a8f67b72bb6f1365d102e07eaa7391d": {
+        "name": "LunCRise",
+        "balance": 0,
+        "txns": 82,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2343,
+        "path": "0x74538a1e3a8f67b72bb6f1365d102e07eaa7391d_LunCRise/LunCRise.sol",
+        "source": "bscscan"
+    },
+    "0x51f3127f1578508e31ce2fb34560c265e23a536f": {
+        "name": "FlokiHero",
+        "balance": 1.0,
+        "txns": 56,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2343,
+        "path": "0x51f3127f1578508e31ce2fb34560c265e23a536f_FlokiHero/FlokiHero.sol",
+        "source": "bscscan"
+    },
+    "0xB789A54011A3AE44d13092A14676d0dCf6bF21eb": {
+        "name": "Uprise",
+        "balance": 5.0,
+        "txns": 44,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2343,
+        "path": "0xB789A54011A3AE44d13092A14676d0dCf6bF21eb_Uprise/Uprise.sol",
+        "source": "bscscan"
+    },
+    "0xf3a41d1b91096394c45878a415352d78412c8761": {
+        "name": "UFODOGE",
+        "balance": 0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2343,
+        "path": "0xf3a41d1b91096394c45878a415352d78412c8761_UFODOGE/UFODOGE.sol",
+        "source": "bscscan"
+    },
+    "0x77282df2e846a641530f08cf3988602884218d39": {
+        "name": "RippleBurnReflect",
+        "balance": 9.0,
+        "txns": 403,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2342,
+        "path": "0x77282df2e846a641530f08cf3988602884218d39_RippleBurnReflect/RippleBurnReflect.sol",
+        "source": "bscscan"
+    },
+    "0x2f0e98410DfAB1496012fD99903745bB60C97fCC": {
+        "name": "Tulsaking",
+        "balance": 2.0,
+        "txns": 190,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2342,
+        "path": "0x2f0e98410DfAB1496012fD99903745bB60C97fCC_Tulsaking/Tulsaking.sol",
+        "source": "bscscan"
+    },
+    "0x21d67361dE52c3F77ce9111275d92E9b653f9F7B": {
+        "name": "StealthUSDT",
+        "balance": 9.0,
+        "txns": 155,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2342,
+        "path": "0x21d67361dE52c3F77ce9111275d92E9b653f9F7B_StealthUSDT/StealthUSDT.sol",
+        "source": "bscscan"
+    },
+    "0xd0149266983be1d303c13dbb5a4d38bb406daede": {
+        "name": "SantaGoku",
+        "balance": 1.0,
+        "txns": 67,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2342,
+        "path": "0xd0149266983be1d303c13dbb5a4d38bb406daede_SantaGoku/SantaGoku.sol",
+        "source": "bscscan"
+    },
+    "0x0aEB3cA055A72E3e52190CA4cF6cB3120469B067": {
+        "name": "PrayForKanye",
+        "balance": 3.0,
+        "txns": 65,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2342,
+        "path": "0x0aEB3cA055A72E3e52190CA4cF6cB3120469B067_PrayForKanye/PrayForKanye.sol",
+        "source": "bscscan"
+    },
+    "0x57645c276cd18e19a2fe84d24b0d7c5ecee3424d": {
+        "name": "BitBurnReflect",
+        "balance": 4.0,
+        "txns": 55,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2342,
+        "path": "0x57645c276cd18e19a2fe84d24b0d7c5ecee3424d_BitBurnReflect/BitBurnReflect.sol",
+        "source": "bscscan"
+    },
+    "0x5B6d26284a93Bb27980846B05a102FdB5e74498c": {
+        "name": "BearishAI",
+        "balance": 1.0,
+        "txns": 29,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2342,
+        "path": "0x5B6d26284a93Bb27980846B05a102FdB5e74498c_BearishAI/BearishAI.sol",
+        "source": "bscscan"
+    },
+    "0x0AaF7C332e2dbD6286424C55072844D90Fe4d3b5": {
+        "name": "FomoDetectorBOT",
+        "balance": 1.0,
+        "txns": 15,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2342,
+        "path": "0x0AaF7C332e2dbD6286424C55072844D90Fe4d3b5_FomoDetectorBOT/FomoDetectorBOT.sol",
+        "source": "bscscan"
+    },
+    "0x55908b97e3aeae7f49ec9e71e47003f6d1d7c6d0": {
+        "name": "AngryDogNFT",
+        "balance": 1e+18,
+        "txns": 3932,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2341,
+        "path": "0x55908b97e3aeae7f49ec9e71e47003f6d1d7c6d0_AngryDogNFT/AngryDogNFT.sol",
+        "source": "etherscan"
+    },
+    "0xa207aea543dda55477a2bdb3fe0c3d354cb0e3f2": {
+        "name": "ShibGoldSachs",
+        "balance": 7.0,
+        "txns": 198,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2340,
+        "path": "0xa207aea543dda55477a2bdb3fe0c3d354cb0e3f2_ShibGoldSachs/ShibGoldSachs.sol",
+        "source": "bscscan"
+    },
+    "0x325136fda59f6d8b441eda8d72475c63142daa30": {
+        "name": "BotFood",
+        "balance": 0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2340,
+        "path": "0x325136fda59f6d8b441eda8d72475c63142daa30_BotFood/BotFood.sol",
+        "source": "bscscan"
+    },
+    "0xd0ab6E97Af3A33afe337899C9fA54df70fe67be4": {
+        "name": "ETHINU",
+        "balance": 2.0,
+        "txns": 259,
+        "license": "Unlicense",
+        "compiler": "0.8.17",
+        "loc": 2338,
+        "path": "0xd0ab6E97Af3A33afe337899C9fA54df70fe67be4_ETHINU/ETHINU.sol",
+        "source": "bscscan"
+    },
+    "0x5c791d28853d5f562bcff91ed7998ee45b602cb1": {
+        "name": "LMJ",
+        "balance": 1.0,
+        "txns": 104,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2338,
+        "path": "0x5c791d28853d5f562bcff91ed7998ee45b602cb1_LMJ/LMJ.sol",
+        "source": "bscscan"
+    },
+    "0xc4a68ea96E4e70F4c77D2Cb6A7c3e53dE69916b2": {
+        "name": "Dragon",
+        "balance": 8.0,
+        "txns": 102,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2338,
+        "path": "0xc4a68ea96E4e70F4c77D2Cb6A7c3e53dE69916b2_Dragon/Dragon.sol",
+        "source": "bscscan"
+    },
+    "0xCB11B1d2424E4126053a756DD8DC9479d608aca6": {
+        "name": "PEPE",
+        "balance": 0,
+        "txns": 46,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2338,
+        "path": "0xCB11B1d2424E4126053a756DD8DC9479d608aca6_PEPE/PEPE.sol",
+        "source": "bscscan"
+    },
+    "0x329e850bf9be06b6e2452e98449a8af74d9e74dc": {
+        "name": "SaintRobotica",
+        "balance": 3e+18,
+        "txns": 202,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2337,
+        "path": "0x329e850bf9be06b6e2452e98449a8af74d9e74dc_SaintRobotica/SaintRobotica.sol",
+        "source": "etherscan"
+    },
+    "0x51A65E34E5252A435A5D8c8C01C3e25073b18B23": {
+        "name": "BABYPEPE",
+        "balance": 0,
+        "txns": 23,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2337,
+        "path": "0x51A65E34E5252A435A5D8c8C01C3e25073b18B23_BABYPEPE/BABYPEPE.sol",
+        "source": "bscscan"
+    },
+    "0x8c0a75e3a0bf2f0b530575dfccacf0b85715736f": {
+        "name": "Pepespeepee",
+        "balance": 0.0,
+        "txns": 163,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2328,
+        "path": "0x8c0a75e3a0bf2f0b530575dfccacf0b85715736f_Pepespeepee/Pepespeepee.sol",
+        "source": "etherscan"
+    },
+    "0xcCBB90a0ceA44850BedeBa8BeB689F7270fD2acd": {
+        "name": "Kanyudunks",
+        "balance": 1e+18,
+        "txns": 48,
+        "license": "MIT",
+        "compiler": "0.8.19",
+        "loc": 2328,
+        "path": "0xcCBB90a0ceA44850BedeBa8BeB689F7270fD2acd_Kanyudunks/Kanyudunks.sol",
+        "source": "etherscan"
+    },
+    "0x96d592C946f7B13b27FE730A4d4458b3e600537A": {
+        "name": "BLOCKS",
+        "balance": 0,
+        "txns": 1082,
+        "license": "MIT",
+        "compiler": "0.8.18",
+        "loc": 2325,
+        "path": "0x96d592C946f7B13b27FE730A4d4458b3e600537A_BLOCKS/BLOCKS.sol",
+        "source": "etherscan"
+    },
+    "0x8f14778feb8cc049e227d01a2417a888dabb2abc": {
+        "name": "y00tsCanineClub",
+        "balance": 0.0,
+        "txns": 325,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2324,
+        "path": "0x8f14778feb8cc049e227d01a2417a888dabb2abc_y00tsCanineClub/y00tsCanineClub.sol",
+        "source": "etherscan"
+    },
+    "0xd9b7f02c090d2a8ccc531401022dabc1c878248c": {
+        "name": "B_A_BUGATTI_CLUB",
+        "balance": 0,
+        "txns": 28,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2322,
+        "path": "0xd9b7f02c090d2a8ccc531401022dabc1c878248c_B_A_BUGATTI_CLUB/B_A_BUGATTI_CLUB.sol",
+        "source": "etherscan"
+    },
+    "0x9e7372D8132b853b7DE93a01AB422d6a9CbFC0b1": {
+        "name": "RATSCII",
+        "balance": 0,
+        "txns": 2254,
+        "license": "MIT",
+        "compiler": "0.8.18",
+        "loc": 2319,
+        "path": "0x9e7372D8132b853b7DE93a01AB422d6a9CbFC0b1_RATSCII/RATSCII.sol",
+        "source": "etherscan"
+    },
+    "0x54c9DAeA501bd5FcF6e4584fF619Cd85706F0404": {
+        "name": "lettrs",
+        "balance": 0.0,
+        "txns": 52,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2318,
+        "path": "0x54c9DAeA501bd5FcF6e4584fF619Cd85706F0404_lettrs/lettrs.sol",
+        "source": "etherscan"
+    },
+    "0x7796595bc4626ba6688542cfb2f49c6a4afba5a9": {
+        "name": "Bpt",
+        "balance": 0,
+        "txns": 49,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2318,
+        "path": "0x7796595bc4626ba6688542cfb2f49c6a4afba5a9_Bpt/Bpt.sol",
+        "source": "bscscan"
+    },
+    "0x99baaf260ce8862dc8e53ed6de7d3b9689787eaf": {
+        "name": "Durt",
+        "balance": 0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2318,
+        "path": "0x99baaf260ce8862dc8e53ed6de7d3b9689787eaf_Durt/Durt.sol",
+        "source": "bscscan"
+    },
+    "0x9ABadB629b9D67a46387E82c69D9a6eA4e93866c": {
+        "name": "BlingApes",
+        "balance": 0.0,
+        "txns": 54,
+        "license": "MIT",
+        "compiler": "0.8.18",
+        "loc": 2317,
+        "path": "0x9ABadB629b9D67a46387E82c69D9a6eA4e93866c_BlingApes/BlingApes.sol",
+        "source": "etherscan"
+    },
+    "0x379c4D7D55539C70fEfEc76F0a0a302EcDcD4Dc4": {
+        "name": "ONAITRIP",
+        "balance": 0.0,
+        "txns": 32,
+        "license": "MIT",
+        "compiler": "0.8.19",
+        "loc": 2316,
+        "path": "0x379c4D7D55539C70fEfEc76F0a0a302EcDcD4Dc4_ONAITRIP/ONAITRIP.sol",
+        "source": "etherscan"
+    },
+    "0x402e2D982A8772014201B8724CB85f502Aac05f8": {
+        "name": "NanoTest3",
+        "balance": 3.0,
+        "txns": 14,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2315,
+        "path": "0x402e2D982A8772014201B8724CB85f502Aac05f8_NanoTest3/NanoTest3.sol",
+        "source": "bscscan"
+    },
+    "0x71814e10ed002184ab4f33b8e57ad354db88c7a8": {
+        "name": "GODHATESTWOBOYS",
+        "balance": 2e+18,
+        "txns": 1229,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2313,
+        "path": "0x71814e10ed002184ab4f33b8e57ad354db88c7a8_GODHATESTWOBOYS/GODHATESTWOBOYS.sol",
+        "source": "etherscan"
+    },
+    "0x38ad34fdef977cece9b23123f4b033536a331938": {
+        "name": "DigiApeDaigakuClub",
+        "balance": 0.0,
+        "txns": 77,
+        "license": "MIT",
+        "compiler": "0.8.4",
+        "loc": 2309,
+        "path": "0x38ad34fdef977cece9b23123f4b033536a331938_DigiApeDaigakuClub/DigiApeDaigakuClub.sol",
+        "source": "etherscan"
+    },
+    "0x33b39f6163611587f0afaa9b5657f1d70c5df8b5": {
+        "name": "outofwork",
+        "balance": 5e+18,
+        "txns": 820,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2308,
+        "path": "0x33b39f6163611587f0afaa9b5657f1d70c5df8b5_outofwork/outofwork.sol",
+        "source": "etherscan"
+    },
+    "0xaac2662e23e5d442db49e1340aae0f4830ca29fa": {
+        "name": "r0gp0ll",
+        "balance": 4e+18,
+        "txns": 12833,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2307,
+        "path": "0xaac2662e23e5d442db49e1340aae0f4830ca29fa_r0gp0ll/r0gp0ll.sol",
+        "source": "etherscan"
+    },
+    "0xf81dcdadd9461bf0dd6444875b1767e90f3a6bb4": {
+        "name": "HOTD",
+        "balance": 0,
+        "txns": 495,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 2305,
+        "path": "0xf81dcdadd9461bf0dd6444875b1767e90f3a6bb4_HOTD/HOTD.sol",
+        "source": "etherscan"
+    },
+    "0xb5659dba729c69d9e24d1ba65d8dc6ac6dd64dd9": {
+        "name": "Santa",
+        "balance": 0,
+        "txns": 142,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2305,
+        "path": "0xb5659dba729c69d9e24d1ba65d8dc6ac6dd64dd9_Santa/Santa.sol",
+        "source": "etherscan"
+    },
+    "0x395e65993f20be438bf3db2a1b1233485c978558": {
+        "name": "SproutAcademy",
+        "balance": 0,
+        "txns": 80,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2305,
+        "path": "0x395e65993f20be438bf3db2a1b1233485c978558_SproutAcademy/SproutAcademy.sol",
+        "source": "etherscan"
+    },
+    "0x5f561f52a49eb243910bf0471d692d6908def385": {
+        "name": "UndeadApeYachtClub",
+        "balance": 4e+18,
+        "txns": 2505,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2304,
+        "path": "0x5f561f52a49eb243910bf0471d692d6908def385_UndeadApeYachtClub/UndeadApeYachtClub.sol",
+        "source": "etherscan"
+    },
+    "0xbfc1d46f2dc06552e6cd1bd7b18df7431dd9857b": {
+        "name": "FTXHUB",
+        "balance": 0.0,
+        "txns": 53,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2303,
+        "path": "0xbfc1d46f2dc06552e6cd1bd7b18df7431dd9857b_FTXHUB/FTXHUB.sol",
+        "source": "etherscan"
+    },
+    "0xcc9d888f9c7956c379f791ed96e7b1e7f899bd12": {
+        "name": "jesterers",
+        "balance": 0.0,
+        "txns": 664,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2301,
+        "path": "0xcc9d888f9c7956c379f791ed96e7b1e7f899bd12_jesterers/jesterers.sol",
+        "source": "etherscan"
+    },
+    "0xa9c10de582e253a12a5ff483d1c36a15d1b528ea": {
+        "name": "Colors",
+        "balance": 0,
+        "txns": 19,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2301,
+        "path": "0xa9c10de582e253a12a5ff483d1c36a15d1b528ea_Colors/Colors.sol",
+        "source": "etherscan"
+    },
+    "0x5B6eD1d405FbB522567793c9E8d2cB101DC17526": {
+        "name": "Necropolis",
+        "balance": 2e+18,
+        "txns": 4485,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2300,
+        "path": "0x5B6eD1d405FbB522567793c9E8d2cB101DC17526_Necropolis/Necropolis.sol",
+        "source": "etherscan"
+    },
+    "0xc5787a00e5c2601ad455a6f5faae26419fa7b3b8": {
+        "name": "daemones",
+        "balance": 0,
+        "txns": 1611,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2300,
+        "path": "0xc5787a00e5c2601ad455a6f5faae26419fa7b3b8_daemones/daemones.sol",
+        "source": "etherscan"
+    },
+    "0xfbf6dd488ecaf22f64b1f57aeaf65b6f440f2595": {
+        "name": "CitizensofBlockchain",
+        "balance": 0.0,
+        "txns": 950,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0xfbf6dd488ecaf22f64b1f57aeaf65b6f440f2595_CitizensofBlockchain/CitizensofBlockchain.sol",
+        "source": "etherscan"
+    },
+    "0x4135fd5e1cb2d32727c92498446a5170f7d19393": {
+        "name": "AlphaCryptoKongs",
+        "balance": 0,
+        "txns": 862,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0x4135fd5e1cb2d32727c92498446a5170f7d19393_AlphaCryptoKongs/AlphaCryptoKongs.sol",
+        "source": "etherscan"
+    },
+    "0xbcece786f7bd417b28a0da21f7f31eb3f2ed87bd": {
+        "name": "Bullrunwtf",
+        "balance": 0,
+        "txns": 838,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2299,
+        "path": "0xbcece786f7bd417b28a0da21f7f31eb3f2ed87bd_Bullrunwtf/Bullrunwtf.sol",
+        "source": "etherscan"
+    },
+    "0xd15912c7b180875099878b5d8ecbff68ec08765d": {
+        "name": "TheFishTank",
+        "balance": 0.0,
+        "txns": 486,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0xd15912c7b180875099878b5d8ecbff68ec08765d_TheFishTank/TheFishTank.sol",
+        "source": "etherscan"
+    },
+    "0xb4697686f6323a24c01ee0b555325748582aa807": {
+        "name": "MOK",
+        "balance": 0.0,
+        "txns": 472,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0xb4697686f6323a24c01ee0b555325748582aa807_MOK/MOK.sol",
+        "source": "etherscan"
+    },
+    "0xc222edc23cc39df0172106be15053021df7d1401": {
+        "name": "Pirates",
+        "balance": 0.0,
+        "txns": 431,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0xc222edc23cc39df0172106be15053021df7d1401_Pirates/Pirates.sol",
+        "source": "etherscan"
+    },
+    "0xddd8a703a2b35dedeb60a1285611d83f0d2e2654": {
+        "name": "SpacePunks",
+        "balance": 0,
+        "txns": 394,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0xddd8a703a2b35dedeb60a1285611d83f0d2e2654_SpacePunks/SpacePunks.sol",
+        "source": "etherscan"
+    },
+    "0x10421d26c8614d732c4f34d58ea3480c9838c412": {
+        "name": "EternalFriends",
+        "balance": 0.0,
+        "txns": 394,
+        "license": "Unlicense",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0x10421d26c8614d732c4f34d58ea3480c9838c412_EternalFriends/EternalFriends.sol",
+        "source": "etherscan"
+    },
+    "0xcc0c55e0ba03b2b65e1f9465c3916062cd09afb7": {
+        "name": "ArtWars",
+        "balance": 0.0,
+        "txns": 382,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0xcc0c55e0ba03b2b65e1f9465c3916062cd09afb7_ArtWars/ArtWars.sol",
+        "source": "etherscan"
+    },
+    "0x9041c731ee866cfb76812d3358af2e1ab40fb9a9": {
+        "name": "WalkingDoods",
+        "balance": 0.0,
+        "txns": 371,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0x9041c731ee866cfb76812d3358af2e1ab40fb9a9_WalkingDoods/WalkingDoods.sol",
+        "source": "etherscan"
+    },
+    "0xc17aafee4f760d6c24ddc0c409ed0e28357f6a1c": {
+        "name": "Strangers",
+        "balance": 0.0,
+        "txns": 339,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0xc17aafee4f760d6c24ddc0c409ed0e28357f6a1c_Strangers/Strangers.sol",
+        "source": "etherscan"
+    },
+    "0x41025e50e9316784e63ac165c9cda483c209d99a": {
+        "name": "Greengos",
+        "balance": 0.0,
+        "txns": 316,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0x41025e50e9316784e63ac165c9cda483c209d99a_Greengos/Greengos.sol",
+        "source": "etherscan"
+    },
+    "0x47fee1b42589a1e4a0676b7e6a5d2511f48cacb1": {
+        "name": "BadassGirls",
+        "balance": 0.0,
+        "txns": 309,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0x47fee1b42589a1e4a0676b7e6a5d2511f48cacb1_BadassGirls/BadassGirls.sol",
+        "source": "etherscan"
+    },
+    "0xbd31d4027b4ce7a3cb4398a60b85c963e016ee1a": {
+        "name": "CryptoPortfolio",
+        "balance": 0.0,
+        "txns": 287,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0xbd31d4027b4ce7a3cb4398a60b85c963e016ee1a_CryptoPortfolio/CryptoPortfolio.sol",
+        "source": "etherscan"
+    },
+    "0x68ea03f6ce60ac121ae9f9bbb758b6ad2e488fbc": {
+        "name": "TheDeities",
+        "balance": 0.0,
+        "txns": 273,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0x68ea03f6ce60ac121ae9f9bbb758b6ad2e488fbc_TheDeities/TheDeities.sol",
+        "source": "etherscan"
+    },
+    "0x347f66817571e909a8f0d9734dc7ae4c3aa48677": {
+        "name": "MCC",
+        "balance": 0.0,
+        "txns": 233,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0x347f66817571e909a8f0d9734dc7ae4c3aa48677_MCC/MCC.sol",
+        "source": "etherscan"
+    },
+    "0xab83cdc1f484ececdc59f248afa5ec8a9f7add09": {
+        "name": "TheMetaColonialists",
+        "balance": 0.0,
+        "txns": 204,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0xab83cdc1f484ececdc59f248afa5ec8a9f7add09_TheMetaColonialists/TheMetaColonialists.sol",
+        "source": "etherscan"
+    },
+    "0x853235a418b67a788ee3d78d9f837b31dd1a48e2": {
+        "name": "TheWalkerApes",
+        "balance": 0.0,
+        "txns": 153,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0x853235a418b67a788ee3d78d9f837b31dd1a48e2_TheWalkerApes/TheWalkerApes.sol",
+        "source": "etherscan"
+    },
+    "0x65cf3368f95d85fbd4cd4b17e5bb6a8638a6f799": {
+        "name": "GuardiansoftheGalaxy",
+        "balance": 0.0,
+        "txns": 130,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2299,
+        "path": "0x65cf3368f95d85fbd4cd4b17e5bb6a8638a6f799_GuardiansoftheGalaxy/GuardiansoftheGalaxy.sol",
+        "source": "etherscan"
+    },
+    "0xeca6349907535d1b0b8dd3d58b5914e0316d34b7": {
+        "name": "YourMom",
+        "balance": 0,
+        "txns": 7765,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2298,
+        "path": "0xeca6349907535d1b0b8dd3d58b5914e0316d34b7_YourMom/YourMom.sol",
+        "source": "etherscan"
+    },
+    "0xf53bb7d247670452409b13f2e0522b0cd4f6b63b": {
+        "name": "GenuineUndeadApes",
+        "balance": 0,
+        "txns": 6185,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2298,
+        "path": "0xf53bb7d247670452409b13f2e0522b0cd4f6b63b_GenuineUndeadApes/GenuineUndeadApes.sol",
+        "source": "etherscan"
+    },
+    "0x2e353f0ea600880465256ad8f212ce28d63de60a": {
+        "name": "TheCartoonFrens",
+        "balance": 0,
+        "txns": 1659,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2298,
+        "path": "0x2e353f0ea600880465256ad8f212ce28d63de60a_TheCartoonFrens/TheCartoonFrens.sol",
+        "source": "etherscan"
+    },
+    "0x05973b34c0dfe801cb662ecb3dcb53366746de8c": {
+        "name": "ProofOfEthereum",
+        "balance": 0,
+        "txns": 192,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2298,
+        "path": "0x05973b34c0dfe801cb662ecb3dcb53366746de8c_ProofOfEthereum/ProofOfEthereum.sol",
+        "source": "etherscan"
+    },
+    "0xe9d6f23489c2bbeca15284fb3906e7cd3b599900": {
+        "name": "Poops",
+        "balance": 0.0,
+        "txns": 118,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2298,
+        "path": "0xe9d6f23489c2bbeca15284fb3906e7cd3b599900_Poops/Poops.sol",
+        "source": "etherscan"
+    },
+    "0x4957b6268cbecf4a3edc5ad5469da4de1ec7e4ed": {
+        "name": "sartoshiisback",
+        "balance": 0,
+        "txns": 81,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2298,
+        "path": "0x4957b6268cbecf4a3edc5ad5469da4de1ec7e4ed_sartoshiisback/sartoshiisback.sol",
+        "source": "etherscan"
+    },
+    "0xeb0a011a68e854a8acce43cb076fb639a5e69492": {
+        "name": "BunnyBeside",
+        "balance": 0,
+        "txns": 50,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2298,
+        "path": "0xeb0a011a68e854a8acce43cb076fb639a5e69492_BunnyBeside/BunnyBeside.sol",
+        "source": "etherscan"
+    },
+    "0xb6d947e8392195b05656e8ed9a4430c6d4482bf8": {
+        "name": "AestheticBearz",
+        "balance": 0,
+        "txns": 28,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2298,
+        "path": "0xb6d947e8392195b05656e8ed9a4430c6d4482bf8_AestheticBearz/AestheticBearz.sol",
+        "source": "etherscan"
+    },
+    "0x4f95e6928ef0fb9cb76a230bc3a4b015dbcfe896": {
+        "name": "chr0m4s",
+        "balance": 0.0,
+        "txns": 2693,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2297,
+        "path": "0x4f95e6928ef0fb9cb76a230bc3a4b015dbcfe896_chr0m4s/chr0m4s.sol",
+        "source": "etherscan"
+    },
+    "0x1b054bfc2ce3100f7e22331776be878cef926d27": {
+        "name": "blockchainrocks",
+        "balance": 0.0,
+        "txns": 319,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2297,
+        "path": "0x1b054bfc2ce3100f7e22331776be878cef926d27_blockchainrocks/blockchainrocks.sol",
+        "source": "etherscan"
+    },
+    "0x245c104fe9ef28b7d29ba9c39b4e1c67043fec92": {
+        "name": "halloweenbeings",
+        "balance": 0.0,
+        "txns": 117,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2297,
+        "path": "0x245c104fe9ef28b7d29ba9c39b4e1c67043fec92_halloweenbeings/halloweenbeings.sol",
+        "source": "etherscan"
+    },
+    "0x2705a83a182c8ec8ad4501182dc052d0c2cb7a62": {
+        "name": "GeorgeWashingtonDigitalTradingCards",
+        "balance": 0.0,
+        "txns": 69,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2297,
+        "path": "0x2705a83a182c8ec8ad4501182dc052d0c2cb7a62_GeorgeWashingtonDigitalTradingCards/GeorgeWashingtonDigitalTradingCards.sol",
+        "source": "etherscan"
+    },
+    "0x5123f8c3edbc38e05157a5eb5fa702df5e0f75f2": {
+        "name": "ImPoSers",
+        "balance": 0.0,
+        "txns": 1323,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2296,
+        "path": "0x5123f8c3edbc38e05157a5eb5fa702df5e0f75f2_ImPoSers/ImPoSers.sol",
+        "source": "etherscan"
+    },
+    "0x789eb34eba38cb096685a72c192eec8814219fce": {
+        "name": "BoredGrinchYachtClub",
+        "balance": 0.0,
+        "txns": 404,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2296,
+        "path": "0x789eb34eba38cb096685a72c192eec8814219fce_BoredGrinchYachtClub/BoredGrinchYachtClub.sol",
+        "source": "etherscan"
+    },
+    "0x2f2bf605a92cb450740985611bb9414fb4aa7e2d": {
+        "name": "Piratez",
+        "balance": 0.0,
+        "txns": 501,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2295,
+        "path": "0x2f2bf605a92cb450740985611bb9414fb4aa7e2d_Piratez/Piratez.sol",
+        "source": "etherscan"
+    },
+    "0x3d0830aa84dae5bb64ea091a943dfbeb0719ec52": {
+        "name": "Punkillaz",
+        "balance": 7e+18,
+        "txns": 6526,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2294,
+        "path": "0x3d0830aa84dae5bb64ea091a943dfbeb0719ec52_Punkillaz/Punkillaz.sol",
+        "source": "etherscan"
+    },
+    "0x09d6d10827cc9f4a3546230c54126ba165a3db5b": {
+        "name": "Catocalypse",
+        "balance": 0,
+        "txns": 5268,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2294,
+        "path": "0x09d6d10827cc9f4a3546230c54126ba165a3db5b_Catocalypse/Catocalypse.sol",
+        "source": "etherscan"
+    },
+    "0xb72c5677e3b30ed9695c3c6e19ae013aaa9d31a5": {
+        "name": "proofofmonke",
+        "balance": 0,
+        "txns": 1626,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2294,
+        "path": "0xb72c5677e3b30ed9695c3c6e19ae013aaa9d31a5_proofofmonke/proofofmonke.sol",
+        "source": "etherscan"
+    },
+    "0xe0f4888af71de10bcd3ce09d011d7ac88844b5cf": {
+        "name": "BonkInu",
+        "balance": 0.0,
+        "txns": 19,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2294,
+        "path": "0xe0f4888af71de10bcd3ce09d011d7ac88844b5cf_BonkInu/BonkInu.sol",
+        "source": "etherscan"
+    },
+    "0xBF2092AEad134a103B8B0dc9bbA43BD5B556B763": {
+        "name": "TheFluffiez",
+        "balance": 0.0,
+        "txns": 14,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2294,
+        "path": "0xBF2092AEad134a103B8B0dc9bbA43BD5B556B763_TheFluffiez/TheFluffiez.sol",
+        "source": "etherscan"
+    },
+    "0x4e7f872b703a8f3b32173c345dbf297509236149": {
+        "name": "BillionaireRabbit",
+        "balance": 0,
+        "txns": 13,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2294,
+        "path": "0x4e7f872b703a8f3b32173c345dbf297509236149_BillionaireRabbit/BillionaireRabbit.sol",
+        "source": "etherscan"
+    },
+    "0x42aE17821b15fE4B3D92E6A462121FdC2D2eFbeC": {
+        "name": "BlurLoot",
+        "balance": 0.0,
+        "txns": 36,
+        "license": "MIT",
+        "compiler": "0.8.18",
+        "loc": 2292,
+        "path": "0x42aE17821b15fE4B3D92E6A462121FdC2D2eFbeC_BlurLoot/BlurLoot.sol",
+        "source": "etherscan"
+    },
+    "0x3059955684071b412bd8e6f1506577ac11ddd692": {
+        "name": "MutantY00tsYachtClub",
+        "balance": 1e+18,
+        "txns": 1109,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2291,
+        "path": "0x3059955684071b412bd8e6f1506577ac11ddd692_MutantY00tsYachtClub/MutantY00tsYachtClub.sol",
+        "source": "etherscan"
+    },
+    "0x933a8f865682567f404f0c7798d5b2578ada6392": {
+        "name": "MechaPoS",
+        "balance": 0,
+        "txns": 1032,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2291,
+        "path": "0x933a8f865682567f404f0c7798d5b2578ada6392_MechaPoS/MechaPoS.sol",
+        "source": "etherscan"
+    },
+    "0xd716062748197F6b7fe6f7B77Ee7172096F7A46f": {
+        "name": "TheFinalMoment",
+        "balance": 0.0,
+        "txns": 767,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2291,
+        "path": "0xd716062748197F6b7fe6f7B77Ee7172096F7A46f_TheFinalMoment/TheFinalMoment.sol",
+        "source": "etherscan"
+    },
+    "0x13e8c163Df680368040f33fc892b80252053862f": {
+        "name": "Blockmaths",
+        "balance": 0,
+        "txns": 2182,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2290,
+        "path": "0x13e8c163Df680368040f33fc892b80252053862f_Blockmaths/Blockmaths.sol",
+        "source": "etherscan"
+    },
+    "0xd562a450cd703924190c8fb38239734c9e33290b": {
+        "name": "BashiInu",
+        "balance": 0.0,
+        "txns": 195,
+        "license": "MIT",
+        "compiler": "0.8.10",
+        "loc": 2290,
+        "path": "0xd562a450cd703924190c8fb38239734c9e33290b_BashiInu/BashiInu.sol",
+        "source": "etherscan"
+    },
+    "0x2009efd90dcc9935628983fdcde263743840060e": {
+        "name": "EchoBubble",
+        "balance": 0.0,
+        "txns": 101,
+        "license": "MIT",
+        "compiler": "0.8.10",
+        "loc": 2290,
+        "path": "0x2009efd90dcc9935628983fdcde263743840060e_EchoBubble/EchoBubble.sol",
+        "source": "etherscan"
+    },
+    "0x312F762Ab6EEfb4AEc0A520F70E2D62aA875373E": {
+        "name": "XmasXRP",
+        "balance": 1.0,
+        "txns": 79,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2290,
+        "path": "0x312F762Ab6EEfb4AEc0A520F70E2D62aA875373E_XmasXRP/XmasXRP.sol",
+        "source": "bscscan"
+    },
+    "0xe1d4503d8f729cce30818ee21491cbdb2242bfdb": {
+        "name": "Betcoin",
+        "balance": 0,
+        "txns": 215,
+        "license": "MIT",
+        "compiler": "0.8.10",
+        "loc": 2289,
+        "path": "0xe1d4503d8f729cce30818ee21491cbdb2242bfdb_Betcoin/Betcoin.sol",
+        "source": "etherscan"
+    },
+    "0x180b3d44e2894f6cdf5fc588caa09ae24ee00113": {
+        "name": "TPKC",
+        "balance": 0,
+        "txns": 393,
+        "license": "MIT",
+        "compiler": "0.8.16",
+        "loc": 2286,
+        "path": "0x180b3d44e2894f6cdf5fc588caa09ae24ee00113_TPKC/TPKC.sol",
+        "source": "etherscan"
+    },
+    "0x087995c2a3e663cb71dd74314883406ac987e516": {
+        "name": "gardenoflamps",
+        "balance": 0,
+        "txns": 245,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2286,
+        "path": "0x087995c2a3e663cb71dd74314883406ac987e516_gardenoflamps/gardenoflamps.sol",
+        "source": "etherscan"
+    },
+    "0x54041bbf04ed7994cb5ac0e3ca421cef5b8ef8b4": {
+        "name": "GreenRoomV2",
+        "balance": 0.0,
+        "txns": 47,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2286,
+        "path": "0x54041bbf04ed7994cb5ac0e3ca421cef5b8ef8b4_GreenRoomV2/GreenRoomV2.sol",
+        "source": "etherscan"
+    },
+    "0x800862605349294ca694231f194c373bc40c7089": {
+        "name": "cryptosesnseis",
+        "balance": 0.0,
+        "txns": 801,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2284,
+        "path": "0x800862605349294ca694231f194c373bc40c7089_cryptosesnseis/cryptosesnseis.sol",
+        "source": "etherscan"
+    },
+    "0xe507ebbc7c746ca841039ca854063daed06c7dce": {
+        "name": "Room420",
+        "balance": 0,
+        "txns": 205,
+        "license": "MIT",
+        "compiler": "0.8.13",
+        "loc": 2284,
+        "path": "0xe507ebbc7c746ca841039ca854063daed06c7dce_Room420/Room420.sol",
+        "source": "etherscan"
+    },
+    "0xb4c0ba3247dd20f3dd08e50cfb60e4f9433000c7": {
+        "name": "AnP",
+        "balance": 0.0,
+        "txns": 66,
+        "license": "MIT",
+        "compiler": "0.8.10",
+        "loc": 2283,
+        "path": "0xb4c0ba3247dd20f3dd08e50cfb60e4f9433000c7_AnP/AnP.sol",
+        "source": "etherscan"
+    },
+    "0xae963784fb1e3e480df66ef6a3bc26e219c1fbf5": {
+        "name": "AtlasNaviBsc",
+        "balance": 1.0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2282,
+        "path": "0xae963784fb1e3e480df66ef6a3bc26e219c1fbf5_AtlasNaviBsc/AtlasNaviBsc.sol",
+        "source": "bscscan"
+    },
+    "0x382FE70E0a6af362971D7B8E14715F41d32572C4": {
+        "name": "LuckyGreenWitch",
+        "balance": 0.0,
+        "txns": 201,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2277,
+        "path": "0x382FE70E0a6af362971D7B8E14715F41d32572C4_LuckyGreenWitch/LuckyGreenWitch.sol",
+        "source": "etherscan"
+    },
+    "0xa5abffe89a7be2df47a49898628c8a91f5571a00": {
+        "name": "SacrificedShibaCrypt",
+        "balance": 0,
+        "txns": 15,
+        "license": "MIT",
+        "compiler": "0.8.13",
+        "loc": 2277,
+        "path": "0xa5abffe89a7be2df47a49898628c8a91f5571a00_SacrificedShibaCrypt/SacrificedShibaCrypt.sol",
+        "source": "etherscan"
+    },
+    "0x54c87b4538e47bbca50152e694aff1e17fc2d9fc": {
+        "name": "femaliens",
+        "balance": 0.0,
+        "txns": 282,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2270,
+        "path": "0x54c87b4538e47bbca50152e694aff1e17fc2d9fc_femaliens/femaliens.sol",
+        "source": "etherscan"
+    },
+    "0x2181f002a7c3f85377ea24515f18bf4d4fb770d4": {
+        "name": "b0tverse",
+        "balance": 0.0,
+        "txns": 219,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2270,
+        "path": "0x2181f002a7c3f85377ea24515f18bf4d4fb770d4_b0tverse/b0tverse.sol",
+        "source": "etherscan"
+    },
+    "0x099ffcfd9ca4b6b60b4a0eced161b38159a754eb": {
+        "name": "AP3S",
+        "balance": 0,
+        "txns": 199,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2270,
+        "path": "0x099ffcfd9ca4b6b60b4a0eced161b38159a754eb_AP3S/AP3S.sol",
+        "source": "etherscan"
+    },
+    "0x1EC6f9a4921B817897f6b99692F1f8994261ad17": {
+        "name": "TheNFTWar",
+        "balance": 0.0,
+        "txns": 791,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2269,
+        "path": "0x1EC6f9a4921B817897f6b99692F1f8994261ad17_TheNFTWar/TheNFTWar.sol",
+        "source": "etherscan"
+    },
+    "0x8448891D97e458af405CC689c128797ceb8621cc": {
+        "name": "BOGOVMV",
+        "balance": 0.0,
+        "txns": 284,
+        "license": "MIT",
+        "compiler": "0.8.4",
+        "loc": 2268,
+        "path": "0x8448891D97e458af405CC689c128797ceb8621cc_BOGOVMV/BOGOVMV.sol",
+        "source": "bscscan"
+    },
+    "0x8078F81f0FB234301bFf7cBeBA6c94e664d04587": {
+        "name": "Ethplus",
+        "balance": 0,
+        "txns": 41,
+        "license": "Unlicense",
+        "compiler": "0.8.10",
+        "loc": 2268,
+        "path": "0x8078F81f0FB234301bFf7cBeBA6c94e664d04587_Ethplus/Ethplus.sol",
+        "source": "etherscan"
+    },
+    "0xcbbd39b7c7256321cc5ff4a0d65c5f1ce9440689": {
+        "name": "neonsenseis",
+        "balance": 0,
+        "txns": 616,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2267,
+        "path": "0xcbbd39b7c7256321cc5ff4a0d65c5f1ce9440689_neonsenseis/neonsenseis.sol",
+        "source": "etherscan"
+    },
+    "0xda1c5957a756854ee7ee9812c43850399319bdd0": {
+        "name": "Musiverse",
+        "balance": 0,
+        "txns": 67,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 2266,
+        "path": "0xda1c5957a756854ee7ee9812c43850399319bdd0_Musiverse/Musiverse.sol",
+        "source": "etherscan"
+    },
+    "0x8D6C8D94c8F93C1986E0dF3F17E2F90a45ff76E3": {
+        "name": "PorscheInu",
+        "balance": 1.0,
+        "txns": 28,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2266,
+        "path": "0x8D6C8D94c8F93C1986E0dF3F17E2F90a45ff76E3_PorscheInu/PorscheInu.sol",
+        "source": "bscscan"
+    },
+    "0x430a03d5dcc391abf4b96b7fb6d21ed447bc3f40": {
+        "name": "BlockAbstraction",
+        "balance": 0.0,
+        "txns": 18,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2265,
+        "path": "0x430a03d5dcc391abf4b96b7fb6d21ed447bc3f40_BlockAbstraction/BlockAbstraction.sol",
+        "source": "etherscan"
+    },
+    "0xb5E76f213a39b0A294e563EdFf69ca9Db2dE78bf": {
+        "name": "Chickens",
+        "balance": 0,
+        "txns": 5736,
+        "license": "Unlicense",
+        "compiler": "0.8.18",
+        "loc": 2261,
+        "path": "0xb5E76f213a39b0A294e563EdFf69ca9Db2dE78bf_Chickens/Chickens.sol",
+        "source": "etherscan"
+    },
+    "0x97595bbce8946cad633aef67aa5002f3989f84f6": {
+        "name": "CoolPFPs",
+        "balance": 0.0,
+        "txns": 165,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2253,
+        "path": "0x97595bbce8946cad633aef67aa5002f3989f84f6_CoolPFPs/CoolPFPs.sol",
+        "source": "etherscan"
+    },
+    "0x20f5046fbdbedad97560e6a27260217ede6f31e4": {
+        "name": "InfinityRise",
+        "balance": 1.0,
+        "txns": 115,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2252,
+        "path": "0x20f5046fbdbedad97560e6a27260217ede6f31e4_InfinityRise/InfinityRise.sol",
+        "source": "bscscan"
+    },
+    "0xcd687Cb9097B1Bd92B188cCcFA85065Deb0141c0": {
+        "name": "OldXRP",
+        "balance": 1.0,
+        "txns": 166,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2251,
+        "path": "0xcd687Cb9097B1Bd92B188cCcFA85065Deb0141c0_OldXRP/OldXRP.sol",
+        "source": "bscscan"
+    },
+    "0xe7b03a52abe0f03ee8cd38ceb50508d920482ae3": {
+        "name": "TheGodlyReborn",
+        "balance": 0.0,
+        "txns": 60,
+        "license": "MIT",
+        "compiler": "0.8.10",
+        "loc": 2250,
+        "path": "0xe7b03a52abe0f03ee8cd38ceb50508d920482ae3_TheGodlyReborn/TheGodlyReborn.sol",
+        "source": "etherscan"
+    },
+    "0x28353ee51a2faebada97a2cd46751e6a888b694f": {
+        "name": "StackSpaceships",
+        "balance": 2e+18,
+        "txns": 242,
+        "license": "MIT",
+        "compiler": "0.8.14",
+        "loc": 2248,
+        "path": "0x28353ee51a2faebada97a2cd46751e6a888b694f_StackSpaceships/StackSpaceships.sol",
+        "source": "etherscan"
+    },
+    "0x55924fb01a0005c71d350b84572bf98f9f535eb6": {
+        "name": "MythicJourney",
+        "balance": 0,
+        "txns": 39,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2248,
+        "path": "0x55924fb01a0005c71d350b84572bf98f9f535eb6_MythicJourney/MythicJourney.sol",
+        "source": "etherscan"
+    },
+    "0x79E4278CeF7586eb7b84F3c139C29573597c9F13": {
+        "name": "BoneSwap",
+        "balance": 1.0,
+        "txns": 135,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2244,
+        "path": "0x79E4278CeF7586eb7b84F3c139C29573597c9F13_BoneSwap/BoneSwap.sol",
+        "source": "bscscan"
+    },
+    "0xf3926d31f927800dcc59d10510c9549fa128616a": {
+        "name": "Jackbot",
+        "balance": 0.0,
+        "txns": 22,
+        "license": "MIT",
+        "compiler": "0.8.16",
+        "loc": 2242,
+        "path": "0xf3926d31f927800dcc59d10510c9549fa128616a_Jackbot/Jackbot.sol",
+        "source": "bscscan"
+    },
+    "0x5e70e2d30edb9823187f9c0025fb81e27b8ea1de": {
+        "name": "POANFT",
+        "balance": 0,
+        "txns": 1142,
+        "license": "Unlicense",
+        "compiler": "0.8.9",
+        "loc": 2237,
+        "path": "0x5e70e2d30edb9823187f9c0025fb81e27b8ea1de_POANFT/POANFT.sol",
+        "source": "etherscan"
+    },
+    "0x4fEA85cd2De7c4FCa058769C350b9e0589945022": {
+        "name": "MiceContract",
+        "balance": 0,
+        "txns": 19,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 2237,
+        "path": "0x4fEA85cd2De7c4FCa058769C350b9e0589945022_MiceContract/MiceContract.sol",
+        "source": "etherscan"
+    },
+    "0xba3b1b86ae330d2118e868b4906cc954a4207835": {
+        "name": "ApeLiquidMembershipForge",
+        "balance": 0,
+        "txns": 122,
+        "license": "MIT",
+        "compiler": "0.8.10",
+        "loc": 2234,
+        "path": "0xba3b1b86ae330d2118e868b4906cc954a4207835_ApeLiquidMembershipForge/ApeLiquidMembershipForge.sol",
+        "source": "etherscan"
+    },
+    "0xdd83045ff34e84f3766cc946aac18cb5e5de341f": {
+        "name": "Jackbot",
+        "balance": 0,
+        "txns": 38,
+        "license": "MIT",
+        "compiler": "0.8.16",
+        "loc": 2234,
+        "path": "0xdd83045ff34e84f3766cc946aac18cb5e5de341f_Jackbot/Jackbot.sol",
+        "source": "bscscan"
+    },
+    "0x8e38c42021772958d35f49aaeae3468670f9cf0c": {
+        "name": "CryptoChicksForge",
+        "balance": 0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.10",
+        "loc": 2233,
+        "path": "0x8e38c42021772958d35f49aaeae3468670f9cf0c_CryptoChicksForge/CryptoChicksForge.sol",
+        "source": "etherscan"
+    },
+    "0x20722cb30d1ce931cd879afb6383094cc6f1e25d": {
+        "name": "OthersideForge",
+        "balance": 0,
+        "txns": 11,
+        "license": "MIT",
+        "compiler": "0.8.10",
+        "loc": 2233,
+        "path": "0x20722cb30d1ce931cd879afb6383094cc6f1e25d_OthersideForge/OthersideForge.sol",
+        "source": "etherscan"
+    },
+    "0x34d5aaf9d4f4d25c528da1b7d3137c03cc064f65": {
+        "name": "YwainClub",
+        "balance": 0.0,
+        "txns": 495,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2232,
+        "path": "0x34d5aaf9d4f4d25c528da1b7d3137c03cc064f65_YwainClub/YwainClub.sol",
+        "source": "etherscan"
+    },
+    "0xfac7c08702db5bf16ebf170edf92cf121da443a4": {
+        "name": "TreatOrJeet",
+        "balance": 3e+18,
+        "txns": 248,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2230,
+        "path": "0xfac7c08702db5bf16ebf170edf92cf121da443a4_TreatOrJeet/TreatOrJeet.sol",
+        "source": "bscscan"
+    },
+    "0x8E0c8A1F927f59963151cbac4Bc4BB7C656adC79": {
+        "name": "ContractName",
+        "balance": 0,
+        "txns": 99,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2228,
+        "path": "0x8E0c8A1F927f59963151cbac4Bc4BB7C656adC79_ContractName/ContractName.sol",
+        "source": "bscscan"
+    },
+    "0xB0b7387eF6005B408c33d11c2F2B80d9085D092B": {
+        "name": "Sukipets",
+        "balance": 0,
+        "txns": 48,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2225,
+        "path": "0xB0b7387eF6005B408c33d11c2F2B80d9085D092B_Sukipets/Sukipets.sol",
+        "source": "etherscan"
+    },
+    "0xded3074545732c4723e73cbc747cba1f1e520045": {
+        "name": "SusMfersByDoomscroller",
+        "balance": 0.0,
+        "txns": 48,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2225,
+        "path": "0xded3074545732c4723e73cbc747cba1f1e520045_SusMfersByDoomscroller/SusMfersByDoomscroller.sol",
+        "source": "etherscan"
+    },
+    "0xd3876647cd0fe954c4e7544cbd033eb01ffba99d": {
+        "name": "Elysium",
+        "balance": 0,
+        "txns": 24,
+        "license": "MIT",
+        "compiler": "0.8.13",
+        "loc": 2220,
+        "path": "0xd3876647cd0fe954c4e7544cbd033eb01ffba99d_Elysium/Elysium.sol",
+        "source": "etherscan"
+    },
+    "0x00fad1da8e2dca3c9e62853f3814e7f822fa9544": {
+        "name": "PartyApesClub",
+        "balance": 2e+18,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2215,
+        "path": "0x00fad1da8e2dca3c9e62853f3814e7f822fa9544_PartyApesClub/PartyApesClub.sol",
+        "source": "etherscan"
+    },
+    "0x8efc99918af856699b53db659533396822f52941": {
+        "name": "JellyBots",
+        "balance": 0.0,
+        "txns": 49,
+        "license": "MIT",
+        "compiler": "0.8.12",
+        "loc": 2213,
+        "path": "0x8efc99918af856699b53db659533396822f52941_JellyBots/JellyBots.sol",
+        "source": "etherscan"
+    },
+    "0x3576ba5fab1fd89306267a77f9508fde655aad77": {
+        "name": "SharkCats",
+        "balance": 0.0,
+        "txns": 42,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2211,
+        "path": "0x3576ba5fab1fd89306267a77f9508fde655aad77_SharkCats/SharkCats.sol",
+        "source": "bscscan"
+    },
+    "0xbccfd796b3460253074be33a8cee262338ec532f": {
+        "name": "HerosXVillains",
+        "balance": 0.0,
+        "txns": 58,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2202,
+        "path": "0xbccfd796b3460253074be33a8cee262338ec532f_HerosXVillains/HerosXVillains.sol",
+        "source": "etherscan"
+    },
+    "0x5536945ada3fd8548dadc21e45c37b2d39373fbf": {
+        "name": "PotatoCaptainz",
+        "balance": 0,
+        "txns": 411,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2192,
+        "path": "0x5536945ada3fd8548dadc21e45c37b2d39373fbf_PotatoCaptainz/PotatoCaptainz.sol",
+        "source": "etherscan"
+    },
+    "0x78cb48E9792CB7b2ddbb1c23B9E0a049D0fc57F5": {
+        "name": "CHABAIDAO",
+        "balance": 0.0,
+        "txns": 17,
+        "license": "MIT",
+        "compiler": "0.8.4",
+        "loc": 2192,
+        "path": "0x78cb48E9792CB7b2ddbb1c23B9E0a049D0fc57F5_CHABAIDAO/CHABAIDAO.sol",
+        "source": "bscscan"
+    },
+    "0x85122C25C9c5865AAE40E33D4b72Af5432abDB5B": {
+        "name": "Palettes",
+        "balance": 0,
+        "txns": 121,
+        "license": "MIT",
+        "compiler": "0.8.19",
+        "loc": 2190,
+        "path": "0x85122C25C9c5865AAE40E33D4b72Af5432abDB5B_Palettes/Palettes.sol",
+        "source": "etherscan"
+    },
+    "0x17734e2cb57d1726a0a0e2be4d1f281eab603a2d": {
+        "name": "Cattietation",
+        "balance": 0,
+        "txns": 986,
+        "license": "MIT",
+        "compiler": "0.8.13",
+        "loc": 2189,
+        "path": "0x17734e2cb57d1726a0a0e2be4d1f281eab603a2d_Cattietation/Cattietation.sol",
+        "source": "etherscan"
+    },
+    "0x52B9C67586F966446C100Ec4743250553f332908": {
+        "name": "SunDayZoo",
+        "balance": 1e+18,
+        "txns": 550,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2189,
+        "path": "0x52B9C67586F966446C100Ec4743250553f332908_SunDayZoo/SunDayZoo.sol",
+        "source": "etherscan"
+    },
+    "0xb2815f55f35a33aeefd7f872a883bfd854e863d1": {
+        "name": "PNightmareP",
+        "balance": 0,
+        "txns": 102,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2186,
+        "path": "0xb2815f55f35a33aeefd7f872a883bfd854e863d1_PNightmareP/PNightmareP.sol",
+        "source": "etherscan"
+    },
+    "0x8092847e2d39774d3a602bc57ed1dbf06acc16de": {
+        "name": "ApeBitGenesis",
+        "balance": 0.0,
+        "txns": 13,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2186,
+        "path": "0x8092847e2d39774d3a602bc57ed1dbf06acc16de_ApeBitGenesis/ApeBitGenesis.sol",
+        "source": "etherscan"
+    },
+    "0x4389168956e23Ba8394747cCfaaf9E0Bb820CB4e": {
+        "name": "BnbRise",
+        "balance": 4.0,
+        "txns": 65,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2185,
+        "path": "0x4389168956e23Ba8394747cCfaaf9E0Bb820CB4e_BnbRise/BnbRise.sol",
+        "source": "bscscan"
+    },
+    "0x3783a4F162f5E5Cf2d0e0A6af61Ca9dA424E7058": {
+        "name": "ClassicBakedBean",
+        "balance": 6.0,
+        "txns": 18,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2185,
+        "path": "0x3783a4F162f5E5Cf2d0e0A6af61Ca9dA424E7058_ClassicBakedBean/ClassicBakedBean.sol",
+        "source": "bscscan"
+    },
+    "0x4816e406253be53733e1087256029cb256b794f4": {
+        "name": "BEP20",
+        "balance": 0,
+        "txns": 18,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2176,
+        "path": "0x4816e406253be53733e1087256029cb256b794f4_BEP20/BEP20.sol",
+        "source": "bscscan"
+    },
+    "0x357dba6999bd070eed7ca9cb73a1c581d2d5b402": {
+        "name": "StarshipX",
+        "balance": 0.0,
+        "txns": 306,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2171,
+        "path": "0x357dba6999bd070eed7ca9cb73a1c581d2d5b402_StarshipX/StarshipX.sol",
+        "source": "etherscan"
+    },
+    "0xd154c90c4d32b3c89d83633a0c960be984e9887b": {
+        "name": "Cattonap",
+        "balance": 0.0,
+        "txns": 316,
+        "license": "MIT",
+        "compiler": "0.8.13",
+        "loc": 2168,
+        "path": "0xd154c90c4d32b3c89d83633a0c960be984e9887b_Cattonap/Cattonap.sol",
+        "source": "etherscan"
+    },
+    "0xe5b83eff7ee203134302163ea302a5e8fd12da60": {
+        "name": "AnEnd",
+        "balance": 0,
+        "txns": 881,
+        "license": "MIT",
+        "compiler": "0.8.13",
+        "loc": 2167,
+        "path": "0xe5b83eff7ee203134302163ea302a5e8fd12da60_AnEnd/AnEnd.sol",
+        "source": "etherscan"
+    },
+    "0xe3bd92960aef3135dfd7141d3ad82d91dd9499a3": {
+        "name": "Planetas",
+        "balance": 0.0,
+        "txns": 240,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2167,
+        "path": "0xe3bd92960aef3135dfd7141d3ad82d91dd9499a3_Planetas/Planetas.sol",
+        "source": "etherscan"
+    },
+    "0xcdd9f1a7bfb0266bd2c36b988d9f49a96be10f9e": {
+        "name": "LivingWithPixelsByAnon",
+        "balance": 0,
+        "txns": 217,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2166,
+        "path": "0xcdd9f1a7bfb0266bd2c36b988d9f49a96be10f9e_LivingWithPixelsByAnon/LivingWithPixelsByAnon.sol",
+        "source": "etherscan"
+    },
+    "0xd96e5a399348b5a49942d3517eb14c84ed6ba50c": {
+        "name": "NFTsAgainstHumanity",
+        "balance": 0,
+        "txns": 57,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2166,
+        "path": "0xd96e5a399348b5a49942d3517eb14c84ed6ba50c_NFTsAgainstHumanity/NFTsAgainstHumanity.sol",
+        "source": "etherscan"
+    },
+    "0xb7dd9e32539a331d5273887738aef570b276856c": {
+        "name": "BabyAptosStakingPool",
+        "balance": 0,
+        "txns": 18,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2166,
+        "path": "0xb7dd9e32539a331d5273887738aef570b276856c_BabyAptosStakingPool/BabyAptosStakingPool.sol",
+        "source": "bscscan"
+    },
+    "0x8d85d243f02581b9ca08ba49f33f3fb431b981f3": {
+        "name": "ConnectionsByAnon",
+        "balance": 0,
+        "txns": 465,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2165,
+        "path": "0x8d85d243f02581b9ca08ba49f33f3fb431b981f3_ConnectionsByAnon/ConnectionsByAnon.sol",
+        "source": "etherscan"
+    },
+    "0x4fa4ffc66541198a5aeaa7c89ff6c1702be14762": {
+        "name": "SPACEByAnon",
+        "balance": 0.0,
+        "txns": 137,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2165,
+        "path": "0x4fa4ffc66541198a5aeaa7c89ff6c1702be14762_SPACEByAnon/SPACEByAnon.sol",
+        "source": "etherscan"
+    },
+    "0x1e38ac7c99d7713075c3f563b70b2a024fe5d7c3": {
+        "name": "FreakOutByLSD",
+        "balance": 0,
+        "txns": 69,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2165,
+        "path": "0x1e38ac7c99d7713075c3f563b70b2a024fe5d7c3_FreakOutByLSD/FreakOutByLSD.sol",
+        "source": "etherscan"
+    },
+    "0x81f0456fa0bd06491fdc4d63f0ac5d5864ec98dd": {
+        "name": "Fields",
+        "balance": 0,
+        "txns": 81,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2162,
+        "path": "0x81f0456fa0bd06491fdc4d63f0ac5d5864ec98dd_Fields/Fields.sol",
+        "source": "etherscan"
+    },
+    "0xd7201dfef5628ba4370a56047cb209f86d55f2d0": {
+        "name": "MergeBoy",
+        "balance": 0,
+        "txns": 80,
+        "license": "MIT",
+        "compiler": "0.8.8",
+        "loc": 2161,
+        "path": "0xd7201dfef5628ba4370a56047cb209f86d55f2d0_MergeBoy/MergeBoy.sol",
+        "source": "bscscan"
+    },
+    "0x2a85d1cd165d90422dcb529dfc4f24923fa098d3": {
+        "name": "BNBBACK",
+        "balance": 0,
+        "txns": 13,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2153,
+        "path": "0x2a85d1cd165d90422dcb529dfc4f24923fa098d3_BNBBACK/BNBBACK.sol",
+        "source": "etherscan"
+    },
+    "0x97bf9756d60bdc1068e3d8293d67d131a0ce02de": {
+        "name": "GenesisAiRM",
+        "balance": 4e+18,
+        "txns": 63,
+        "license": "MIT",
+        "compiler": "0.8.16",
+        "loc": 2150,
+        "path": "0x97bf9756d60bdc1068e3d8293d67d131a0ce02de_GenesisAiRM/GenesisAiRM.sol",
+        "source": "etherscan"
+    },
+    "0xea076bf43ae2eb7725dc8de2429d2f6a7a5d537c": {
+        "name": "NFT721A",
+        "balance": 0.0,
+        "txns": 218,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2148,
+        "path": "0xea076bf43ae2eb7725dc8de2429d2f6a7a5d537c_NFT721A/NFT721A.sol",
+        "source": "etherscan"
+    },
+    "0xEF922b4a61773cCe84444e86A57594E25461ca79": {
+        "name": "pepebooty",
+        "balance": 0.0,
+        "txns": 142,
+        "license": "MIT",
+        "compiler": "0.8.18",
+        "loc": 2145,
+        "path": "0xEF922b4a61773cCe84444e86A57594E25461ca79_pepebooty/pepebooty.sol",
+        "source": "etherscan"
+    },
+    "0x40c2cc31236635608771920b7043c04c0d4569d5": {
+        "name": "y33ts",
+        "balance": 0.0,
+        "txns": 317,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2141,
+        "path": "0x40c2cc31236635608771920b7043c04c0d4569d5_y33ts/y33ts.sol",
+        "source": "etherscan"
+    },
+    "0x01da91bda65fb272a8b415e6bea4b746773979d7": {
+        "name": "PepePortraitofaMeme",
+        "balance": 0,
+        "txns": 90,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2140,
+        "path": "0x01da91bda65fb272a8b415e6bea4b746773979d7_PepePortraitofaMeme/PepePortraitofaMeme.sol",
+        "source": "etherscan"
+    },
+    "0x3729e9edcbce4d7fbc56f305374e30f6a57266d5": {
+        "name": "Cataro",
+        "balance": 0.0,
+        "txns": 23,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2140,
+        "path": "0x3729e9edcbce4d7fbc56f305374e30f6a57266d5_Cataro/Cataro.sol",
+        "source": "etherscan"
+    },
+    "0x803e34acda0d211a10562d1adfdd38f805162c7d": {
+        "name": "RealRunners",
+        "balance": 0.0,
+        "txns": 13,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2140,
+        "path": "0x803e34acda0d211a10562d1adfdd38f805162c7d_RealRunners/RealRunners.sol",
+        "source": "etherscan"
+    },
+    "0xdbb7d4dcd1e21a970c10caff10bfc06ad0c7e6b3": {
+        "name": "RealRENGA",
+        "balance": 1e+18,
+        "txns": 1846,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2137,
+        "path": "0xdbb7d4dcd1e21a970c10caff10bfc06ad0c7e6b3_RealRENGA/RealRENGA.sol",
+        "source": "etherscan"
+    },
+    "0x519b37da080730c99f056f834b900409c51c53e5": {
+        "name": "DigiRENGA",
+        "balance": 0,
+        "txns": 1585,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2137,
+        "path": "0x519b37da080730c99f056f834b900409c51c53e5_DigiRENGA/DigiRENGA.sol",
+        "source": "etherscan"
+    },
+    "0xd1160a356031028f251ef26919bba21100917433": {
+        "name": "HMAI",
+        "balance": 0.0,
+        "txns": 39,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2133,
+        "path": "0xd1160a356031028f251ef26919bba21100917433_HMAI/HMAI.sol",
+        "source": "etherscan"
+    },
+    "0xc06b0c48a51719ea6512b581ec3f10ec6adbb08d": {
+        "name": "ElizabethPortraitsOfaQueen",
+        "balance": 0.0,
+        "txns": 27,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2133,
+        "path": "0xc06b0c48a51719ea6512b581ec3f10ec6adbb08d_ElizabethPortraitsOfaQueen/ElizabethPortraitsOfaQueen.sol",
+        "source": "etherscan"
+    },
+    "0xeaf101970c7cb6f82e9bb51f0879f93ed56d4f50": {
+        "name": "TheMergeAI",
+        "balance": 0,
+        "txns": 2367,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2130,
+        "path": "0xeaf101970c7cb6f82e9bb51f0879f93ed56d4f50_TheMergeAI/TheMergeAI.sol",
+        "source": "etherscan"
+    },
+    "0x42bfe8c8eb5e87b58c9edeeba73a1d5b45325647": {
+        "name": "VitalikDaigaku",
+        "balance": 2e+18,
+        "txns": 2086,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2130,
+        "path": "0x42bfe8c8eb5e87b58c9edeeba73a1d5b45325647_VitalikDaigaku/VitalikDaigaku.sol",
+        "source": "etherscan"
+    },
+    "0xe7693ff9fe3fc349759dda1f64132405f6421c39": {
+        "name": "TheMindofVitalik",
+        "balance": 0.0,
+        "txns": 60,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2130,
+        "path": "0xe7693ff9fe3fc349759dda1f64132405f6421c39_TheMindofVitalik/TheMindofVitalik.sol",
+        "source": "etherscan"
+    },
+    "0x1847b986f86737221bd6d10ded626141fd58a47b": {
+        "name": "UNFT",
+        "balance": 0,
+        "txns": 18,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2128,
+        "path": "0x1847b986f86737221bd6d10ded626141fd58a47b_UNFT/UNFT.sol",
+        "source": "etherscan"
+    },
+    "0xd7072720ad0241fc5aea4d9004459d4d87e6f266": {
+        "name": "TheSanctum_DormRooms",
+        "balance": 0,
+        "txns": 88,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2123,
+        "path": "0xd7072720ad0241fc5aea4d9004459d4d87e6f266_TheSanctum_DormRooms/TheSanctum_DormRooms.sol",
+        "source": "etherscan"
+    },
+    "0x6cf3c4a467c90f6606ef1a237b22a484cb8a4e89": {
+        "name": "SHIBADRAGON",
+        "balance": 0.0,
+        "txns": 146,
+        "license": "MIT",
+        "compiler": "0.8.12",
+        "loc": 2116,
+        "path": "0x6cf3c4a467c90f6606ef1a237b22a484cb8a4e89_SHIBADRAGON/SHIBADRAGON.sol",
+        "source": "bscscan"
+    },
+    "0x22b446ac53d52f52f3ed3f308b53cf048bef7079": {
+        "name": "Pllum",
+        "balance": 0,
+        "txns": 872,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2115,
+        "path": "0x22b446ac53d52f52f3ed3f308b53cf048bef7079_Pllum/Pllum.sol",
+        "source": "etherscan"
+    },
+    "0xffbb942db242f62e107e031db9b4fe26320df6ae": {
+        "name": "SaiboguHei",
+        "balance": 0,
+        "txns": 679,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2113,
+        "path": "0xffbb942db242f62e107e031db9b4fe26320df6ae_SaiboguHei/SaiboguHei.sol",
+        "source": "etherscan"
+    },
+    "0xa2a281d5b58db9f82220f51f45118117ce6f1ed4": {
+        "name": "TwoBitSnakes",
+        "balance": 0,
+        "txns": 36,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 2113,
+        "path": "0xa2a281d5b58db9f82220f51f45118117ce6f1ed4_TwoBitSnakes/TwoBitSnakes.sol",
+        "source": "etherscan"
+    },
+    "0xbadad1ebfa38ea6d226e591233fb1f148d0c413b": {
+        "name": "CatsGang2023",
+        "balance": 3e+18,
+        "txns": 153,
+        "license": "MIT",
+        "compiler": "0.8.13",
+        "loc": 2112,
+        "path": "0xbadad1ebfa38ea6d226e591233fb1f148d0c413b_CatsGang2023/CatsGang2023.sol",
+        "source": "etherscan"
+    },
+    "0x6a21381124f5d28dfc07416506e035914e222d15": {
+        "name": "MovementBlurs",
+        "balance": 0.0,
+        "txns": 18,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2105,
+        "path": "0x6a21381124f5d28dfc07416506e035914e222d15_MovementBlurs/MovementBlurs.sol",
+        "source": "etherscan"
+    },
+    "0xc3d21cbdaab40ae576402c66a49b40f8f862aa96": {
+        "name": "TwoBitSnakes",
+        "balance": 0.0,
+        "txns": 84,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2103,
+        "path": "0xc3d21cbdaab40ae576402c66a49b40f8f862aa96_TwoBitSnakes/TwoBitSnakes.sol",
+        "source": "etherscan"
+    },
+    "0xd590aaf48eae15c9ba0e893692e0d639869272ba": {
+        "name": "Notaland",
+        "balance": 0,
+        "txns": 3872,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2101,
+        "path": "0xd590aaf48eae15c9ba0e893692e0d639869272ba_Notaland/Notaland.sol",
+        "source": "etherscan"
+    },
+    "0xA2b78762B8eB81dc45C924b5416582871437C683": {
+        "name": "YourSignOnChain",
+        "balance": 0.0,
+        "txns": 955,
+        "license": "MIT",
+        "compiler": "0.8.18",
+        "loc": 2101,
+        "path": "0xA2b78762B8eB81dc45C924b5416582871437C683_YourSignOnChain/YourSignOnChain.sol",
+        "source": "etherscan"
+    },
+    "0x194907124bca1c320edd156fd4f9ca3086eeeccb": {
+        "name": "GundamFloki",
+        "balance": 2e+18,
+        "txns": 126,
+        "license": "MIT",
+        "compiler": "0.8.12",
+        "loc": 2100,
+        "path": "0x194907124bca1c320edd156fd4f9ca3086eeeccb_GundamFloki/GundamFloki.sol",
+        "source": "bscscan"
+    },
+    "0x72313034c0d7df13406cbef5e40ffbb6ec66abd4": {
+        "name": "BigPapaBSC",
+        "balance": 0,
+        "txns": 408,
+        "license": "MIT",
+        "compiler": "0.8.12",
+        "loc": 2098,
+        "path": "0x72313034c0d7df13406cbef5e40ffbb6ec66abd4_BigPapaBSC/BigPapaBSC.sol",
+        "source": "bscscan"
+    },
+    "0xfe68b9495c1622c0231ee32eaad0228805830ece": {
+        "name": "BinanceBurnLunc",
+        "balance": 0.0,
+        "txns": 402,
+        "license": "MIT",
+        "compiler": "0.8.12",
+        "loc": 2097,
+        "path": "0xfe68b9495c1622c0231ee32eaad0228805830ece_BinanceBurnLunc/BinanceBurnLunc.sol",
+        "source": "bscscan"
+    },
+    "0xea222e428a4e964d4f8a27c94ffada5e41ff02d5": {
+        "name": "Twogenomics",
+        "balance": 0,
+        "txns": 308,
+        "license": "MIT",
+        "compiler": "0.8.12",
+        "loc": 2097,
+        "path": "0xea222e428a4e964d4f8a27c94ffada5e41ff02d5_Twogenomics/Twogenomics.sol",
+        "source": "bscscan"
+    },
+    "0x3524ba3a2a66bf7e89e01976ab5a73f9f2ec73f7": {
+        "name": "SuperBNB2",
+        "balance": 0.0,
+        "txns": 210,
+        "license": "MIT",
+        "compiler": "0.8.12",
+        "loc": 2097,
+        "path": "0x3524ba3a2a66bf7e89e01976ab5a73f9f2ec73f7_SuperBNB2/SuperBNB2.sol",
+        "source": "bscscan"
+    },
+    "0xcfddcfe150176e7fa1729fdda28518cb2418a29a": {
+        "name": "EloDogeCZ",
+        "balance": 0.0,
+        "txns": 73,
+        "license": "MIT",
+        "compiler": "0.8.12",
+        "loc": 2097,
+        "path": "0xcfddcfe150176e7fa1729fdda28518cb2418a29a_EloDogeCZ/EloDogeCZ.sol",
+        "source": "bscscan"
+    },
+    "0xc6ed112acf020a1d415b945e21fdf348358109cb": {
+        "name": "MorthamMartyrs",
+        "balance": 0,
+        "txns": 1705,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2093,
+        "path": "0xc6ed112acf020a1d415b945e21fdf348358109cb_MorthamMartyrs/MorthamMartyrs.sol",
+        "source": "etherscan"
+    },
+    "0x19B3d0091762dD24627dd8AcBC6C22892970940B": {
+        "name": "LavaLamp",
+        "balance": 0,
+        "txns": 1082,
+        "license": "MIT",
+        "compiler": "0.8.19",
+        "loc": 2093,
+        "path": "0x19B3d0091762dD24627dd8AcBC6C22892970940B_LavaLamp/LavaLamp.sol",
+        "source": "etherscan"
+    },
+    "0x6Ccc42559A8fDEBfeD5408a0385f2871A05d3013": {
+        "name": "UPGRADEFI",
+        "balance": 0,
+        "txns": 141,
+        "license": "MIT",
+        "compiler": "0.8.16",
+        "loc": 2091,
+        "path": "0x6Ccc42559A8fDEBfeD5408a0385f2871A05d3013_UPGRADEFI/UPGRADEFI.sol",
+        "source": "etherscan"
+    },
+    "0x1154bbb05cae084795c496aa215fd94f38f22e66": {
+        "name": "GriefWojakYachtClub",
+        "balance": 2e+18,
+        "txns": 4472,
+        "license": "MIT",
+        "compiler": "0.8.13",
+        "loc": 2089,
+        "path": "0x1154bbb05cae084795c496aa215fd94f38f22e66_GriefWojakYachtClub/GriefWojakYachtClub.sol",
+        "source": "etherscan"
+    },
+    "0xae686ee6df5ca086ad8c7ebd6adfe9c9ab01398a": {
+        "name": "TittyPunks",
+        "balance": 5e+18,
+        "txns": 372,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2089,
+        "path": "0xae686ee6df5ca086ad8c7ebd6adfe9c9ab01398a_TittyPunks/TittyPunks.sol",
+        "source": "etherscan"
+    },
+    "0x071afc08fd4d085f06e0d893453c4720a48cd881": {
+        "name": "StarReavers",
+        "balance": 0,
+        "txns": 247,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2078,
+        "path": "0x071afc08fd4d085f06e0d893453c4720a48cd881_StarReavers/StarReavers.sol",
+        "source": "etherscan"
+    },
+    "0x76D970fAd7Fe75B3021475658F5f79EbDF61994d": {
+        "name": "EggheadsUnleashed",
+        "balance": 0,
+        "txns": 20,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2078,
+        "path": "0x76D970fAd7Fe75B3021475658F5f79EbDF61994d_EggheadsUnleashed/EggheadsUnleashed.sol",
+        "source": "etherscan"
+    },
+    "0x9E5b68aCc2a5d5F84fd60fCa8898f2cd77B6f519": {
+        "name": "ArcaneFactory",
+        "balance": 0,
+        "txns": 56,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2076,
+        "path": "0x9E5b68aCc2a5d5F84fd60fCa8898f2cd77B6f519_ArcaneFactory/ArcaneFactory.sol",
+        "source": "bscscan"
+    },
+    "0x906b8a9ec15b2182eec1e1cf2ef3d0c7cd30375a": {
+        "name": "ItsFrance",
+        "balance": 0,
+        "txns": 2656,
+        "license": "MIT",
+        "compiler": "0.8.14",
+        "loc": 2073,
+        "path": "0x906b8a9ec15b2182eec1e1cf2ef3d0c7cd30375a_ItsFrance/ItsFrance.sol",
+        "source": "etherscan"
+    },
+    "0x5D5f45042a350Ccfa3633641D4d3d479a721e934": {
+        "name": "DoriByDream",
+        "balance": 0,
+        "txns": 353,
+        "license": "MIT",
+        "compiler": "0.8.14",
+        "loc": 2073,
+        "path": "0x5D5f45042a350Ccfa3633641D4d3d479a721e934_DoriByDream/DoriByDream.sol",
+        "source": "etherscan"
+    },
+    "0x45941d5515b5a57afe270e295aeeec2c0c181fca": {
+        "name": "PotHeads",
+        "balance": 5e+18,
+        "txns": 210,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2073,
+        "path": "0x45941d5515b5a57afe270e295aeeec2c0c181fca_PotHeads/PotHeads.sol",
+        "source": "etherscan"
+    },
+    "0x5A0250FAD012fa783AEE2EdC97DB98ED7d67B3d4": {
+        "name": "WalhallaRAYC",
+        "balance": 0,
+        "txns": 94,
+        "license": "MIT",
+        "compiler": "0.8.14",
+        "loc": 2073,
+        "path": "0x5A0250FAD012fa783AEE2EdC97DB98ED7d67B3d4_WalhallaRAYC/WalhallaRAYC.sol",
+        "source": "etherscan"
+    },
+    "0xc72b79b1cb9d8486fb250d92e1fb300a2392f066": {
+        "name": "pepoos",
+        "balance": 0,
+        "txns": 1512,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2068,
+        "path": "0xc72b79b1cb9d8486fb250d92e1fb300a2392f066_pepoos/pepoos.sol",
+        "source": "etherscan"
+    },
+    "0xa75B551863A3D127De01a529D58ecF65a734acD5": {
+        "name": "Gamblify",
+        "balance": 0.0,
+        "txns": 81,
+        "license": "MIT",
+        "compiler": "0.8.14",
+        "loc": 2065,
+        "path": "0xa75B551863A3D127De01a529D58ecF65a734acD5_Gamblify/Gamblify.sol",
+        "source": "etherscan"
+    },
+    "0x0ce0c1d18b5448b2be2ac4aed1997ba358e7409b": {
+        "name": "OrbitalShadows",
+        "balance": 0,
+        "txns": 49,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 2065,
+        "path": "0x0ce0c1d18b5448b2be2ac4aed1997ba358e7409b_OrbitalShadows/OrbitalShadows.sol",
+        "source": "etherscan"
+    },
+    "0x341e34cd885cdbd6b1ecbd9ef24782ec07643d47": {
+        "name": "InuStudioGenesis",
+        "balance": 0,
+        "txns": 43,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 2065,
+        "path": "0x341e34cd885cdbd6b1ecbd9ef24782ec07643d47_InuStudioGenesis/InuStudioGenesis.sol",
+        "source": "etherscan"
+    },
+    "0xd7d874d80eaa6fbffcd77372ffcfe9dceecba00c": {
+        "name": "QuantumQuasisbyNocturne",
+        "balance": 0,
+        "txns": 35,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 2065,
+        "path": "0xd7d874d80eaa6fbffcd77372ffcfe9dceecba00c_QuantumQuasisbyNocturne/QuantumQuasisbyNocturne.sol",
+        "source": "etherscan"
+    },
+    "0xe559e5e071aea244c4c0b0f2029787139b558b51": {
+        "name": "NihonnoYusha",
+        "balance": 0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 2065,
+        "path": "0xe559e5e071aea244c4c0b0f2029787139b558b51_NihonnoYusha/NihonnoYusha.sol",
+        "source": "etherscan"
+    },
+    "0x8afeba21d287c8c87d75c2350318badf46ca479a": {
+        "name": "FeetPix",
+        "balance": 0,
+        "txns": 183,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2062,
+        "path": "0x8afeba21d287c8c87d75c2350318badf46ca479a_FeetPix/FeetPix.sol",
+        "source": "etherscan"
+    },
+    "0x67ba6b9fe26c6459e9c5d7799d6a0bc4280a25bf": {
+        "name": "MPHSoftStakingValidator",
+        "balance": 0,
+        "txns": 15,
+        "license": "Unlicense",
+        "compiler": "0.8.7",
+        "loc": 2062,
+        "path": "0x67ba6b9fe26c6459e9c5d7799d6a0bc4280a25bf_MPHSoftStakingValidator/MPHSoftStakingValidator.sol",
+        "source": "etherscan"
+    },
+    "0xc091dc93041b3cd5f5930236d6af739ca7dd027d": {
+        "name": "MemeCaptainz",
+        "balance": 0.0,
+        "txns": 73,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2057,
+        "path": "0xc091dc93041b3cd5f5930236d6af739ca7dd027d_MemeCaptainz/MemeCaptainz.sol",
+        "source": "etherscan"
+    },
+    "0x5dAd98a86c298B2D7175561fA2c01195A8F33d56": {
+        "name": "Bluechipzone",
+        "balance": 0,
+        "txns": 72,
+        "license": "MIT",
+        "compiler": "0.8.10",
+        "loc": 2050,
+        "path": "0x5dAd98a86c298B2D7175561fA2c01195A8F33d56_Bluechipzone/Bluechipzone.sol",
+        "source": "etherscan"
+    },
+    "0xed020b28d5fb3b8badb04839387adc6490e6579f": {
+        "name": "OC_Fantasy_Football",
+        "balance": 0.0,
+        "txns": 50,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2050,
+        "path": "0xed020b28d5fb3b8badb04839387adc6490e6579f_OC_Fantasy_Football/OC_Fantasy_Football.sol",
+        "source": "etherscan"
+    },
+    "0xe6963c35e3a75c0cd53d834261a504d2380beda6": {
+        "name": "MergePortals",
+        "balance": 0.0,
+        "txns": 691,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2047,
+        "path": "0xe6963c35e3a75c0cd53d834261a504d2380beda6_MergePortals/MergePortals.sol",
+        "source": "etherscan"
+    },
+    "0xe0d2ace5debc43d3e0e758577d111c4859df6f7e": {
+        "name": "GangApeBlingClub",
+        "balance": 0.0,
+        "txns": 1591,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2043,
+        "path": "0xe0d2ace5debc43d3e0e758577d111c4859df6f7e_GangApeBlingClub/GangApeBlingClub.sol",
+        "source": "etherscan"
+    },
+    "0x2dc3af5974C08dbC385D22d5D3AED86d1C1eD879": {
+        "name": "HVCBurns",
+        "balance": 0,
+        "txns": 51,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2042,
+        "path": "0x2dc3af5974C08dbC385D22d5D3AED86d1C1eD879_HVCBurns/HVCBurns.sol",
+        "source": "etherscan"
+    },
+    "0xf87135ea28a870565bb8e69b0c0c475c42632397": {
+        "name": "Rookiez",
+        "balance": 0,
+        "txns": 249,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 2041,
+        "path": "0xf87135ea28a870565bb8e69b0c0c475c42632397_Rookiez/Rookiez.sol",
+        "source": "etherscan"
+    },
+    "0xf951ead486490bd64193fd2ea475697a9fd5d582": {
+        "name": "ANNT",
+        "balance": 0,
+        "txns": 86,
+        "license": "MIT",
+        "compiler": "0.8.4",
+        "loc": 2041,
+        "path": "0xf951ead486490bd64193fd2ea475697a9fd5d582_ANNT/ANNT.sol",
+        "source": "bscscan"
+    },
+    "0x8d5e6d5076f01c066a8bace83e081d3bf4d71d3e": {
+        "name": "JourneyEventTrigger",
+        "balance": 0,
+        "txns": 41,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2039,
+        "path": "0x8d5e6d5076f01c066a8bace83e081d3bf4d71d3e_JourneyEventTrigger/JourneyEventTrigger.sol",
+        "source": "etherscan"
+    },
+    "0xe7963103aeaf766a5ddd1a678d350c50976e61c3": {
+        "name": "Y00tsUniverse",
+        "balance": 0,
+        "txns": 19,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2036,
+        "path": "0xe7963103aeaf766a5ddd1a678d350c50976e61c3_Y00tsUniverse/Y00tsUniverse.sol",
+        "source": "etherscan"
+    },
+    "0x7844e958a601eb854d09f42d22543940dbcd92b9": {
+        "name": "DARKy00ts",
+        "balance": 0.0,
+        "txns": 1333,
+        "license": "MIT",
+        "compiler": "0.8.1",
+        "loc": 2035,
+        "path": "0x7844e958a601eb854d09f42d22543940dbcd92b9_DARKy00ts/DARKy00ts.sol",
+        "source": "etherscan"
+    },
+    "0x24292a345506fe89f3ed7f93ddca2560549cbe62": {
+        "name": "chunkymonkeys",
+        "balance": 1e+18,
+        "txns": 2085,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2034,
+        "path": "0x24292a345506fe89f3ed7f93ddca2560549cbe62_chunkymonkeys/chunkymonkeys.sol",
+        "source": "etherscan"
+    },
+    "0xF936Cba7509BE358FF3c3364559f04c7b29Dc666": {
+        "name": "MiloStaking",
+        "balance": 0,
+        "txns": 250,
+        "license": "MIT",
+        "compiler": "0.8.16",
+        "loc": 2034,
+        "path": "0xF936Cba7509BE358FF3c3364559f04c7b29Dc666_MiloStaking/MiloStaking.sol",
+        "source": "bscscan"
+    },
+    "0x4734df37070e2e847f45b9cde5160b099bea76ae": {
+        "name": "JourneyEventTrigger",
+        "balance": 0,
+        "txns": 89,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2034,
+        "path": "0x4734df37070e2e847f45b9cde5160b099bea76ae_JourneyEventTrigger/JourneyEventTrigger.sol",
+        "source": "etherscan"
+    },
+    "0x9e7a90e80676a18f5822918b1d68c44b5eda3a2e": {
+        "name": "Medusa",
+        "balance": 0,
+        "txns": 20,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2029,
+        "path": "0x9e7a90e80676a18f5822918b1d68c44b5eda3a2e_Medusa/Medusa.sol",
+        "source": "etherscan"
+    },
+    "0x49a5cfcf202dcea6e71627e35d05ca9a8458b387": {
+        "name": "Monstrespoilus",
+        "balance": 0,
+        "txns": 13,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2029,
+        "path": "0x49a5cfcf202dcea6e71627e35d05ca9a8458b387_Monstrespoilus/Monstrespoilus.sol",
+        "source": "etherscan"
+    },
+    "0xb59a871acf88149b1260396e94c2dbf30a73f160": {
+        "name": "ProofOfPresent",
+        "balance": 0.0,
+        "txns": 138,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 2028,
+        "path": "0xb59a871acf88149b1260396e94c2dbf30a73f160_ProofOfPresent/ProofOfPresent.sol",
+        "source": "etherscan"
+    },
+    "0x9d1Da4Adb61c97239F4802f9d576e1Def15Ee403": {
+        "name": "BlvckHoles",
+        "balance": 0,
+        "txns": 25,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2027,
+        "path": "0x9d1Da4Adb61c97239F4802f9d576e1Def15Ee403_BlvckHoles/BlvckHoles.sol",
+        "source": "etherscan"
+    },
+    "0xF08C046A626AB5E8e68a1708E1CD0AAbb1D7A079": {
+        "name": "OxOwls",
+        "balance": 1e+18,
+        "txns": 295,
+        "license": "MIT",
+        "compiler": "0.8.18",
+        "loc": 2026,
+        "path": "0xF08C046A626AB5E8e68a1708E1CD0AAbb1D7A079_OxOwls/OxOwls.sol",
+        "source": "etherscan"
+    },
+    "0xad3D4B99f23C3D4a60FeB19478951B984d4D385B": {
+        "name": "ZRXNft",
+        "balance": 3e+18,
+        "txns": 1844,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2025,
+        "path": "0xad3D4B99f23C3D4a60FeB19478951B984d4D385B_ZRXNft/ZRXNft.sol",
+        "source": "etherscan"
+    },
+    "0x76d6A798311C05BcF651172E3936a4D7a51f802B": {
+        "name": "PepeClosedEditionsByNotMattFurie",
+        "balance": 0,
+        "txns": 18,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2024,
+        "path": "0x76d6A798311C05BcF651172E3936a4D7a51f802B_PepeClosedEditionsByNotMattFurie/PepeClosedEditionsByNotMattFurie.sol",
+        "source": "etherscan"
+    },
+    "0x7a7a47bfb1cca6ee90b8e3bb8a7e56ce3b097f90": {
+        "name": "Biden",
+        "balance": 0,
+        "txns": 3168,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2023,
+        "path": "0x7a7a47bfb1cca6ee90b8e3bb8a7e56ce3b097f90_Biden/Biden.sol",
+        "source": "etherscan"
+    },
+    "0x3b2d1d690534be26b2d955e5338623ccee80fdea": {
+        "name": "AngelsTakeoverByAnnaSpalter",
+        "balance": 0.0,
+        "txns": 114,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2023,
+        "path": "0x3b2d1d690534be26b2d955e5338623ccee80fdea_AngelsTakeoverByAnnaSpalter/AngelsTakeoverByAnnaSpalter.sol",
+        "source": "etherscan"
+    },
+    "0xae1a679cc71919b6f35a98275a0822a94784a598": {
+        "name": "TheGreenPill",
+        "balance": 0.0,
+        "txns": 33,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2023,
+        "path": "0xae1a679cc71919b6f35a98275a0822a94784a598_TheGreenPill/TheGreenPill.sol",
+        "source": "etherscan"
+    },
+    "0xaA07976D0da7984CAc5520e414E40232309efeA7": {
+        "name": "KillerAcid",
+        "balance": 0,
+        "txns": 28,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2023,
+        "path": "0xaA07976D0da7984CAc5520e414E40232309efeA7_KillerAcid/KillerAcid.sol",
+        "source": "etherscan"
+    },
+    "0x4DeEEC5C60A24D0F6dc05Ca736c9586E618526eF": {
+        "name": "WhoIsBanksyV2",
+        "balance": 0,
+        "txns": 666,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2019,
+        "path": "0x4DeEEC5C60A24D0F6dc05Ca736c9586E618526eF_WhoIsBanksyV2/WhoIsBanksyV2.sol",
+        "source": "etherscan"
+    },
+    "0xf1f6d0dfe369f6fc6fa92b8da735deaf05b1116e": {
+        "name": "PixelMories",
+        "balance": 0.0,
+        "txns": 52,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2019,
+        "path": "0xf1f6d0dfe369f6fc6fa92b8da735deaf05b1116e_PixelMories/PixelMories.sol",
+        "source": "etherscan"
+    },
+    "0x31f0334be726831430f4b6880403ebce1aa6ba86": {
+        "name": "ChristmasMonster",
+        "balance": 0,
+        "txns": 462,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2014,
+        "path": "0x31f0334be726831430f4b6880403ebce1aa6ba86_ChristmasMonster/ChristmasMonster.sol",
+        "source": "etherscan"
+    },
+    "0xd9b5BF577F6602a5E1491B0fA381a90d91301197": {
+        "name": "PlanetAyxis",
+        "balance": 1e+18,
+        "txns": 96,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2010,
+        "path": "0xd9b5BF577F6602a5E1491B0fA381a90d91301197_PlanetAyxis/PlanetAyxis.sol",
+        "source": "etherscan"
+    },
+    "0xd6E3f957dbf8bF70B910072f09b88B7666806DC6": {
+        "name": "TheShrapes",
+        "balance": 0,
+        "txns": 1571,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2009,
+        "path": "0xd6E3f957dbf8bF70B910072f09b88B7666806DC6_TheShrapes/TheShrapes.sol",
+        "source": "etherscan"
+    },
+    "0x69278ae5126642adc5f17f49e6094902afd556d5": {
+        "name": "YingYangBirds",
+        "balance": 0,
+        "txns": 170,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 2006,
+        "path": "0x69278ae5126642adc5f17f49e6094902afd556d5_YingYangBirds/YingYangBirds.sol",
+        "source": "etherscan"
+    },
+    "0x867fad997fd02658050e50a5349c740c8a9a0586": {
+        "name": "AnastasisLimitedEdition",
+        "balance": 0,
+        "txns": 88,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2005,
+        "path": "0x867fad997fd02658050e50a5349c740c8a9a0586_AnastasisLimitedEdition/AnastasisLimitedEdition.sol",
+        "source": "etherscan"
+    },
+    "0x12E730D93D11AB06548AFDd4Ded1c2F9f137984A": {
+        "name": "ENSWTF",
+        "balance": 0.0,
+        "txns": 82,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2005,
+        "path": "0x12E730D93D11AB06548AFDd4Ded1c2F9f137984A_ENSWTF/ENSWTF.sol",
+        "source": "etherscan"
+    },
+    "0xfd37e55e078861098103eaa9202035e4afd1809f": {
+        "name": "RisingLands",
+        "balance": 0,
+        "txns": 46,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2005,
+        "path": "0xfd37e55e078861098103eaa9202035e4afd1809f_RisingLands/RisingLands.sol",
+        "source": "etherscan"
+    },
+    "0x95af96a60dc6b1b4ec53f095291188197309370c": {
+        "name": "RobotsByLsdContract",
+        "balance": 0,
+        "txns": 175,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 2001,
+        "path": "0x95af96a60dc6b1b4ec53f095291188197309370c_RobotsByLsdContract/RobotsByLsdContract.sol",
+        "source": "etherscan"
+    },
+    "0xa6bab5c303a82fc7cda8b10ceecacb2821fca670": {
+        "name": "Ape",
+        "balance": 0.0,
+        "txns": 1622,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 2000,
+        "path": "0xa6bab5c303a82fc7cda8b10ceecacb2821fca670_Ape/Ape.sol",
+        "source": "etherscan"
+    },
+    "0x83de3f00228f079998f79f3ada875e400ef9d996": {
+        "name": "QATARBOXINGINU",
+        "balance": 0,
+        "txns": 85,
+        "license": "MIT",
+        "compiler": "0.8.4",
+        "loc": 2000,
+        "path": "0x83de3f00228f079998f79f3ada875e400ef9d996_QATARBOXINGINU/QATARBOXINGINU.sol",
+        "source": "etherscan"
+    },
+    "0xfe8915850d655997f4511a5bc65f1fbabcca063d": {
+        "name": "CORE",
+        "balance": 0,
+        "txns": 22,
+        "license": "MIT",
+        "compiler": "0.8.4",
+        "loc": 2000,
+        "path": "0xfe8915850d655997f4511a5bc65f1fbabcca063d_CORE/CORE.sol",
+        "source": "bscscan"
+    },
+    "0x274e920503d5abfc8113a273bdbf2069c729c9cd": {
+        "name": "Chublins",
+        "balance": 0,
+        "txns": 3228,
+        "license": "MIT",
+        "compiler": "0.8.16",
+        "loc": 1999,
+        "path": "0x274e920503d5abfc8113a273bdbf2069c729c9cd_Chublins/Chublins.sol",
+        "source": "etherscan"
+    },
+    "0xc0AcF4F023A6de521da939Ef2982f37d7fD14A45": {
+        "name": "HighIdentity",
+        "balance": 0,
+        "txns": 280,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1999,
+        "path": "0xc0AcF4F023A6de521da939Ef2982f37d7fD14A45_HighIdentity/HighIdentity.sol",
+        "source": "etherscan"
+    },
+    "0x4db200b939ff485335ba638792ff64be2830cdd7": {
+        "name": "LEYELABS20",
+        "balance": 0,
+        "txns": 16,
+        "license": "Unlicense",
+        "compiler": "0.8.17",
+        "loc": 1999,
+        "path": "0x4db200b939ff485335ba638792ff64be2830cdd7_LEYELABS20/LEYELABS20.sol",
+        "source": "bscscan"
+    },
+    "0x21295fd71c4f01ed0ebdb7895c14eb470e4aa71e": {
+        "name": "DragonFATE",
+        "balance": 0,
+        "txns": 20,
+        "license": "MIT",
+        "compiler": "0.8.4",
+        "loc": 1998,
+        "path": "0x21295fd71c4f01ed0ebdb7895c14eb470e4aa71e_DragonFATE/DragonFATE.sol",
+        "source": "etherscan"
+    },
+    "0xfbE1F25de686FE598a53b497E91265B0a19cA15d": {
+        "name": "EduNameService",
+        "balance": 0.0,
+        "txns": 41,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1996,
+        "path": "0xfbE1F25de686FE598a53b497E91265B0a19cA15d_EduNameService/EduNameService.sol",
+        "source": "etherscan"
+    },
+    "0x53E4d1373D8AE01381f17b0f3882a55AfAB50C8A": {
+        "name": "ArcaneFactory",
+        "balance": 0,
+        "txns": 78,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1994,
+        "path": "0x53E4d1373D8AE01381f17b0f3882a55AfAB50C8A_ArcaneFactory/ArcaneFactory.sol",
+        "source": "bscscan"
+    },
+    "0x79480f30c79b60581bb3276dd433679e931a1000": {
+        "name": "LIVE_LIKE_A_DOG",
+        "balance": 0.0,
+        "txns": 40,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1994,
+        "path": "0x79480f30c79b60581bb3276dd433679e931a1000_LIVE_LIKE_A_DOG/LIVE_LIKE_A_DOG.sol",
+        "source": "etherscan"
+    },
+    "0x4629530bcce7ae3b20561ca717b9a47e9c244cdb": {
+        "name": "NFTmint",
+        "balance": 0.0,
+        "txns": 21,
+        "license": "MIT",
+        "compiler": "0.8.14",
+        "loc": 1994,
+        "path": "0x4629530bcce7ae3b20561ca717b9a47e9c244cdb_NFTmint/NFTmint.sol",
+        "source": "etherscan"
+    },
+    "0xefee5725cce5673b75b82ea9498fa435fef7fbd0": {
+        "name": "TopG",
+        "balance": 0,
+        "txns": 457,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 1993,
+        "path": "0xefee5725cce5673b75b82ea9498fa435fef7fbd0_TopG/TopG.sol",
+        "source": "etherscan"
+    },
+    "0xb058a347c9e7381a10572201c1381bfbf856b417": {
+        "name": "Elon",
+        "balance": 0,
+        "txns": 2377,
+        "license": "MIT",
+        "compiler": "0.8.15",
+        "loc": 1991,
+        "path": "0xb058a347c9e7381a10572201c1381bfbf856b417_Elon/Elon.sol",
+        "source": "etherscan"
+    },
+    "0xf3c5b6bfcab9379dda15c42aa9a5ba1ad1dc1956": {
+        "name": "IDOLO",
+        "balance": 1e+18,
+        "txns": 1094,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1991,
+        "path": "0xf3c5b6bfcab9379dda15c42aa9a5ba1ad1dc1956_IDOLO/IDOLO.sol",
+        "source": "etherscan"
+    },
+    "0x5d183d790d6b570eaec299be432f0a13a00058a9": {
+        "name": "TheBlueChips",
+        "balance": 4e+18,
+        "txns": 29,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1991,
+        "path": "0x5d183d790d6b570eaec299be432f0a13a00058a9_TheBlueChips/TheBlueChips.sol",
+        "source": "etherscan"
+    },
+    "0x61f3b3f70bbeba55c3125a7cec523fcd47cb72d6": {
+        "name": "Twenty23ByRyanReyes",
+        "balance": 0,
+        "txns": 151,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1988,
+        "path": "0x61f3b3f70bbeba55c3125a7cec523fcd47cb72d6_Twenty23ByRyanReyes/Twenty23ByRyanReyes.sol",
+        "source": "etherscan"
+    },
+    "0xf2b1d30d768779b9534fe8c2ec4adcb7bf4aff96": {
+        "name": "OrdinaryStrangers",
+        "balance": 1e+18,
+        "txns": 38,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1987,
+        "path": "0xf2b1d30d768779b9534fe8c2ec4adcb7bf4aff96_OrdinaryStrangers/OrdinaryStrangers.sol",
+        "source": "etherscan"
+    },
+    "0x45E017b467a38f5D83094e60a1494d19655bec22": {
+        "name": "MainFund",
+        "balance": 0.0,
+        "txns": 29,
+        "license": "Apache-2.0",
+        "compiler": "0.8.12",
+        "loc": 1987,
+        "path": "0x45E017b467a38f5D83094e60a1494d19655bec22_MainFund/MainFund.sol",
+        "source": "bscscan"
+    },
+    "0xC8F91724904CFd0731894Edb3B961550ebf74EfE": {
+        "name": "Monsteria",
+        "balance": 1e+18,
+        "txns": 315,
+        "license": "MIT",
+        "compiler": "0.8.18",
+        "loc": 1985,
+        "path": "0xC8F91724904CFd0731894Edb3B961550ebf74EfE_Monsteria/Monsteria.sol",
+        "source": "etherscan"
+    },
+    "0x3189fa42f563a0b507c4caf294103079ce39ed9e": {
+        "name": "Stronk",
+        "balance": 1e+18,
+        "txns": 658,
+        "license": "MIT",
+        "compiler": "0.8.10",
+        "loc": 1982,
+        "path": "0x3189fa42f563a0b507c4caf294103079ce39ed9e_Stronk/Stronk.sol",
+        "source": "etherscan"
+    },
+    "0x26C57E6A511fCb7E9588DcaaAcB669ED09bADc1C": {
+        "name": "MASK",
+        "balance": 0,
+        "txns": 332,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1980,
+        "path": "0x26C57E6A511fCb7E9588DcaaAcB669ED09bADc1C_MASK/MASK.sol",
+        "source": "etherscan"
+    },
+    "0xf82C331fC5F1B076461e94BB5E15F8bE92a12DE3": {
+        "name": "Aliens",
+        "balance": 0.0,
+        "txns": 79,
+        "license": "MIT",
+        "compiler": "0.8.18",
+        "loc": 1980,
+        "path": "0xf82C331fC5F1B076461e94BB5E15F8bE92a12DE3_Aliens/Aliens.sol",
+        "source": "etherscan"
+    },
+    "0x732be1bf70281296d84b65b8cdfa58b35e491004": {
+        "name": "ThugsOfCrypto",
+        "balance": 0,
+        "txns": 22,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1978,
+        "path": "0x732be1bf70281296d84b65b8cdfa58b35e491004_ThugsOfCrypto/ThugsOfCrypto.sol",
+        "source": "etherscan"
+    },
+    "0xf126a62fc8ec4548006d49eaf6cf58cc3f5eb018": {
+        "name": "EternumlandNft",
+        "balance": 0.0,
+        "txns": 16,
+        "license": "MIT",
+        "compiler": "0.8.4",
+        "loc": 1976,
+        "path": "0xf126a62fc8ec4548006d49eaf6cf58cc3f5eb018_EternumlandNft/EternumlandNft.sol",
+        "source": "bscscan"
+    },
+    "0x1C125535232e8A2abb1aADd5f17e7524e5EFD173": {
+        "name": "DontFudInu",
+        "balance": 0,
+        "txns": 37,
+        "license": "MIT",
+        "compiler": "0.8.6",
+        "loc": 1973,
+        "path": "0x1C125535232e8A2abb1aADd5f17e7524e5EFD173_DontFudInu/DontFudInu.sol",
+        "source": "bscscan"
+    },
+    "0x87E0864DE88C60c5d11d51647E5bF12dB3974674": {
+        "name": "Cactus",
+        "balance": 0,
+        "txns": 1879,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1972,
+        "path": "0x87E0864DE88C60c5d11d51647E5bF12dB3974674_Cactus/Cactus.sol",
+        "source": "etherscan"
+    },
+    "0xb2cd685818392fe919ade22520c7a465c80037ca": {
+        "name": "BABYSIHBALAMBOTESTDONTBUY",
+        "balance": 0,
+        "txns": 32,
+        "license": "MIT",
+        "compiler": "0.8.6",
+        "loc": 1970,
+        "path": "0xb2cd685818392fe919ade22520c7a465c80037ca_BABYSIHBALAMBOTESTDONTBUY/BABYSIHBALAMBOTESTDONTBUY.sol",
+        "source": "bscscan"
+    },
+    "0x67087c1c82a008b0ab3924d50ff07df53e3cb0bd": {
+        "name": "DigiDaigakuMan",
+        "balance": 0.0,
+        "txns": 1064,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1966,
+        "path": "0x67087c1c82a008b0ab3924d50ff07df53e3cb0bd_DigiDaigakuMan/DigiDaigakuMan.sol",
+        "source": "etherscan"
+    },
+    "0x706792f1bba8b62d99a3c1396a54b5396273f3c9": {
+        "name": "ElonsSink",
+        "balance": 0.0,
+        "txns": 83,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1966,
+        "path": "0x706792f1bba8b62d99a3c1396a54b5396273f3c9_ElonsSink/ElonsSink.sol",
+        "source": "etherscan"
+    },
+    "0x4c5bce680b5a1b7b68d21c1c10f3c2cc7f813e37": {
+        "name": "AIART",
+        "balance": 0,
+        "txns": 114,
+        "license": "MIT",
+        "compiler": "0.8.0",
+        "loc": 1962,
+        "path": "0x4c5bce680b5a1b7b68d21c1c10f3c2cc7f813e37_AIART/AIART.sol",
+        "source": "etherscan"
+    },
+    "0x5840990e74c141617cf0e3d80dad1421ac6b62b3": {
+        "name": "V1PosPhunks",
+        "balance": 0,
+        "txns": 87,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1961,
+        "path": "0x5840990e74c141617cf0e3d80dad1421ac6b62b3_V1PosPhunks/V1PosPhunks.sol",
+        "source": "etherscan"
+    },
+    "0xf75aabdb318ad3008a7ac0026f1858b5781fc838": {
+        "name": "CyberRabbitAC",
+        "balance": 0,
+        "txns": 4048,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1958,
+        "path": "0xf75aabdb318ad3008a7ac0026f1858b5781fc838_CyberRabbitAC/CyberRabbitAC.sol",
+        "source": "etherscan"
+    },
+    "0x5FeDA7aA2337180b305BEa067E47Efc5E80CA649": {
+        "name": "PixilbearsContract",
+        "balance": 0.0,
+        "txns": 400,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 1957,
+        "path": "0x5FeDA7aA2337180b305BEa067E47Efc5E80CA649_PixilbearsContract/PixilbearsContract.sol",
+        "source": "etherscan"
+    },
+    "0x19d2596e30c2d8c65f78927787daf86cf4d7fb26": {
+        "name": "ImdepressedContract",
+        "balance": 0.0,
+        "txns": 626,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 1952,
+        "path": "0x19d2596e30c2d8c65f78927787daf86cf4d7fb26_ImdepressedContract/ImdepressedContract.sol",
+        "source": "etherscan"
+    },
+    "0x8e84efc2dc441495002780882dcd4c3d942cb3aa": {
+        "name": "JourneyEventTrigger",
+        "balance": 0,
+        "txns": 17,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1952,
+        "path": "0x8e84efc2dc441495002780882dcd4c3d942cb3aa_JourneyEventTrigger/JourneyEventTrigger.sol",
+        "source": "etherscan"
+    },
+    "0xe187c672179d25fc57044cf0bc353790f7ac614e": {
+        "name": "MysteryBox",
+        "balance": 0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1949,
+        "path": "0xe187c672179d25fc57044cf0bc353790f7ac614e_MysteryBox/MysteryBox.sol",
+        "source": "etherscan"
+    },
+    "0x4c1DdF4270C07AEe48e2F77CdAaF9EFE5aca0104": {
+        "name": "MergePass",
+        "balance": 0,
+        "txns": 50,
+        "license": "MIT",
+        "compiler": "0.8.14",
+        "loc": 1946,
+        "path": "0x4c1DdF4270C07AEe48e2F77CdAaF9EFE5aca0104_MergePass/MergePass.sol",
+        "source": "etherscan"
+    },
+    "0x551eb9394c064b6878e66211dd3b720f2bd87c96": {
+        "name": "Holidaze",
+        "balance": 3e+18,
+        "txns": 70,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1942,
+        "path": "0x551eb9394c064b6878e66211dd3b720f2bd87c96_Holidaze/Holidaze.sol",
+        "source": "etherscan"
+    },
+    "0x33a601d24ca3ad6716effca15b975e2f10c8b91d": {
+        "name": "Anunnakis_Contract",
+        "balance": 0.0,
+        "txns": 28,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1942,
+        "path": "0x33a601d24ca3ad6716effca15b975e2f10c8b91d_Anunnakis_Contract/Anunnakis_Contract.sol",
+        "source": "etherscan"
+    },
+    "0x310D230a8f1a82a7FFE8af2bE2463a176aA15473": {
+        "name": "RisebitPlatinum",
+        "balance": 0,
+        "txns": 19,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1941,
+        "path": "0x310D230a8f1a82a7FFE8af2bE2463a176aA15473_RisebitPlatinum/RisebitPlatinum.sol",
+        "source": "bscscan"
+    },
+    "0xd6E39F2e7F2aA5e6A9a6623D70B561492Fc56A95": {
+        "name": "RabitKing",
+        "balance": 0,
+        "txns": 12,
+        "license": "Unlicense",
+        "compiler": "0.8.7",
+        "loc": 1939,
+        "path": "0xd6E39F2e7F2aA5e6A9a6623D70B561492Fc56A95_RabitKing/RabitKing.sol",
+        "source": "bscscan"
+    },
+    "0x4e38e70d9dab61757bb24fdddac3885368d49e47": {
+        "name": "HyperloopPunks",
+        "balance": 0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 1934,
+        "path": "0x4e38e70d9dab61757bb24fdddac3885368d49e47_HyperloopPunks/HyperloopPunks.sol",
+        "source": "etherscan"
+    },
+    "0x9bba6bbed306fadaadecfa1058e1f7f51a619f18": {
+        "name": "NWordPass",
+        "balance": 0,
+        "txns": 13,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1930,
+        "path": "0x9bba6bbed306fadaadecfa1058e1f7f51a619f18_NWordPass/NWordPass.sol",
+        "source": "bscscan"
+    },
+    "0xccf2354d1be5e84e24d563f8a9a33b0563ff553f": {
+        "name": "CakeStack",
+        "balance": 0,
+        "txns": 71,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1923,
+        "path": "0xccf2354d1be5e84e24d563f8a9a33b0563ff553f_CakeStack/CakeStack.sol",
+        "source": "etherscan"
+    },
+    "0xa9503D0e2D37244816B5b5FFb9d98d4Eb129Fd3C": {
+        "name": "EdensFlowers",
+        "balance": 0,
+        "txns": 127,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1920,
+        "path": "0xa9503D0e2D37244816B5b5FFb9d98d4Eb129Fd3C_EdensFlowers/EdensFlowers.sol",
+        "source": "etherscan"
+    },
+    "0xeb74d1d2757E7BA862E9bE935F6459A9fECE993D": {
+        "name": "BoredBearYachtClubContract",
+        "balance": 0.0,
+        "txns": 1778,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 1917,
+        "path": "0xeb74d1d2757E7BA862E9bE935F6459A9fECE993D_BoredBearYachtClubContract/BoredBearYachtClubContract.sol",
+        "source": "etherscan"
+    },
+    "0xCd9Ae1836D4ddD894Eb7C83B1f7675af6BF7AD72": {
+        "name": "KrilianContract",
+        "balance": 0.0,
+        "txns": 15,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 1917,
+        "path": "0xCd9Ae1836D4ddD894Eb7C83B1f7675af6BF7AD72_KrilianContract/KrilianContract.sol",
+        "source": "etherscan"
+    },
+    "0xEd8Ed907d1aEa968C5b69e9082b765c7d8F07c87": {
+        "name": "AVSDYC",
+        "balance": 4e+18,
+        "txns": 156,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1915,
+        "path": "0xEd8Ed907d1aEa968C5b69e9082b765c7d8F07c87_AVSDYC/AVSDYC.sol",
+        "source": "etherscan"
+    },
+    "0x4cbdF7EBCE02796EC85d868394beBEEF6870C214": {
+        "name": "IAMWHOIAM",
+        "balance": 0.0,
+        "txns": 299,
+        "license": "MIT",
+        "compiler": "0.8.9",
+        "loc": 1913,
+        "path": "0x4cbdF7EBCE02796EC85d868394beBEEF6870C214_IAMWHOIAM/IAMWHOIAM.sol",
+        "source": "etherscan"
+    },
+    "0xd4385822088245500a6A62003067F59bD83B6b23": {
+        "name": "NeonNinjaClan",
+        "balance": 0,
+        "txns": 170,
+        "license": "MIT",
+        "compiler": "0.8.13",
+        "loc": 1908,
+        "path": "0xd4385822088245500a6A62003067F59bD83B6b23_NeonNinjaClan/NeonNinjaClan.sol",
+        "source": "etherscan"
+    },
+    "0x6673997ff5596158a5b499135fbe452488eea665": {
+        "name": "Shimai",
+        "balance": 0.0,
+        "txns": 53,
+        "license": "MIT",
+        "compiler": "0.8.13",
+        "loc": 1908,
+        "path": "0x6673997ff5596158a5b499135fbe452488eea665_Shimai/Shimai.sol",
+        "source": "etherscan"
+    },
+    "0x5f02aABB19b6F0524f3385Ed43FEFB91B4C0e018": {
+        "name": "NoAiArt",
+        "balance": 0,
+        "txns": 22,
+        "license": "MIT",
+        "compiler": "0.8.13",
+        "loc": 1908,
+        "path": "0x5f02aABB19b6F0524f3385Ed43FEFB91B4C0e018_NoAiArt/NoAiArt.sol",
+        "source": "etherscan"
+    },
+    "0xffd4840591e919ea7714ccd65e1c80a020da51ce": {
+        "name": "WCINFT",
+        "balance": 0,
+        "txns": 57,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1906,
+        "path": "0xffd4840591e919ea7714ccd65e1c80a020da51ce_WCINFT/WCINFT.sol",
+        "source": "etherscan"
+    },
+    "0xE27F1a136C0114ADed15b24b576aD7F71483dCCa": {
+        "name": "WETHGateway",
+        "balance": 0,
+        "txns": 50,
+        "license": "GNU AGPLv3",
+        "compiler": "0.8.10",
+        "loc": 1900,
+        "path": "0xE27F1a136C0114ADed15b24b576aD7F71483dCCa_WETHGateway/WETHGateway.sol",
+        "source": "etherscan"
+    },
+    "0x5Ba457Ef51E2A99CFa30B328Aa10471Ad87C9987": {
+        "name": "VYVODataNFT",
+        "balance": 0,
+        "txns": 21,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1900,
+        "path": "0x5Ba457Ef51E2A99CFa30B328Aa10471Ad87C9987_VYVODataNFT/VYVODataNFT.sol",
+        "source": "bscscan"
+    },
+    "0x9176d01131e9dfffc554d60005dc82a2559b4c76": {
+        "name": "Username",
+        "balance": 0.0,
+        "txns": 261,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1897,
+        "path": "0x9176d01131e9dfffc554d60005dc82a2559b4c76_Username/Username.sol",
+        "source": "etherscan"
+    },
+    "0x63A7140FD7F60Dec120db50C36b1B0A5c787654a": {
+        "name": "SHIPEPERIUM",
+        "balance": 0,
+        "txns": 45,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1897,
+        "path": "0x63A7140FD7F60Dec120db50C36b1B0A5c787654a_SHIPEPERIUM/SHIPEPERIUM.sol",
+        "source": "etherscan"
+    },
+    "0x31313d37B4739FA7236df00CC9Da092A4ce325ee": {
+        "name": "SHIBOWL",
+        "balance": 0,
+        "txns": 29,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1897,
+        "path": "0x31313d37B4739FA7236df00CC9Da092A4ce325ee_SHIBOWL/SHIBOWL.sol",
+        "source": "etherscan"
+    },
+    "0xBec33D89679A765bC8cc1476Fc4d3FA93F9567fD": {
+        "name": "DIVIDENDEFI",
+        "balance": 0,
+        "txns": 136,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1892,
+        "path": "0xBec33D89679A765bC8cc1476Fc4d3FA93F9567fD_DIVIDENDEFI/DIVIDENDEFI.sol",
+        "source": "etherscan"
+    },
+    "0xe29d1a5f580854b5a6b12b52cb27a97864351622": {
+        "name": "WashingtonNFT",
+        "balance": 0.0,
+        "txns": 24,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1892,
+        "path": "0xe29d1a5f580854b5a6b12b52cb27a97864351622_WashingtonNFT/WashingtonNFT.sol",
+        "source": "etherscan"
+    },
+    "0x4edd35b4252bc124b28b97f1e880c82c0009191f": {
+        "name": "VisionaryDeFi",
+        "balance": 0.0,
+        "txns": 37,
+        "license": "Unlicense",
+        "compiler": "0.8.10",
+        "loc": 1890,
+        "path": "0x4edd35b4252bc124b28b97f1e880c82c0009191f_VisionaryDeFi/VisionaryDeFi.sol",
+        "source": "etherscan"
+    },
+    "0xa7AB9B998C141c75311376b8059FbF9c1F957Fb6": {
+        "name": "DegenDicks",
+        "balance": 0,
+        "txns": 1357,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1889,
+        "path": "0xa7AB9B998C141c75311376b8059FbF9c1F957Fb6_DegenDicks/DegenDicks.sol",
+        "source": "etherscan"
+    },
+    "0x2e8abf4d802b0495a0848fb4132581cd005caa75": {
+        "name": "MergeDarkApe",
+        "balance": 0,
+        "txns": 35,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1889,
+        "path": "0x2e8abf4d802b0495a0848fb4132581cd005caa75_MergeDarkApe/MergeDarkApe.sol",
+        "source": "etherscan"
+    },
+    "0x831cfFb645517BA3b7B60F492eaca1012a0e70a2": {
+        "name": "NeonBirbs",
+        "balance": 0.0,
+        "txns": 32,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1889,
+        "path": "0x831cfFb645517BA3b7B60F492eaca1012a0e70a2_NeonBirbs/NeonBirbs.sol",
+        "source": "etherscan"
+    },
+    "0x734a1d706B32edCf51aA223C1042CbfB47495e03": {
+        "name": "CrowdPunks",
+        "balance": 0.0,
+        "txns": 31,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1889,
+        "path": "0x734a1d706B32edCf51aA223C1042CbfB47495e03_CrowdPunks/CrowdPunks.sol",
+        "source": "etherscan"
+    },
+    "0xa7670154603690b3c0708A6Faa7103967F883B24": {
+        "name": "StPatricksPunks",
+        "balance": 0,
+        "txns": 29,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1889,
+        "path": "0xa7670154603690b3c0708A6Faa7103967F883B24_StPatricksPunks/StPatricksPunks.sol",
+        "source": "etherscan"
+    },
+    "0x101a81Dbc9fC2082dE510B2cf8fcc8C6847A8Bc0": {
+        "name": "SamuraiWaifus",
+        "balance": 0,
+        "txns": 388,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1888,
+        "path": "0x101a81Dbc9fC2082dE510B2cf8fcc8C6847A8Bc0_SamuraiWaifus/SamuraiWaifus.sol",
+        "source": "etherscan"
+    },
+    "0x9825Aa2fe06aFe2f136EEb9F9B5BF0009c877B5C": {
+        "name": "CoolBots",
+        "balance": 0.0,
+        "txns": 137,
+        "license": "MIT",
+        "compiler": "0.8.17",
+        "loc": 1888,
+        "path": "0x9825Aa2fe06aFe2f136EEb9F9B5BF0009c877B5C_CoolBots/CoolBots.sol",
+        "source": "bscscan"
+    },
+    "0x2c5697506ddfcd0850128576e369520d539e5293": {
+        "name": "FacePunk",
+        "balance": 0,
+        "txns": 12,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1886,
+        "path": "0x2c5697506ddfcd0850128576e369520d539e5293_FacePunk/FacePunk.sol",
+        "source": "etherscan"
+    },
+    "0xE3a8B6ff85C3C94C54A5FA29a93EbbA8f147852E": {
+        "name": "MonkeEnlightenmentNFT",
+        "balance": 0,
+        "txns": 95,
+        "license": "MIT",
+        "compiler": "0.8.11",
+        "loc": 1885,
+        "path": "0xE3a8B6ff85C3C94C54A5FA29a93EbbA8f147852E_MonkeEnlightenmentNFT/MonkeEnlightenmentNFT.sol",
+        "source": "etherscan"
+    },
+    "0x4A473D8441c8B6CeB07D38Ae51E066a1683B55D8": {
+        "name": "CoinbasePunks",
+        "balance": 0,
+        "txns": 1485,
+        "license": "MIT",
+        "compiler": "0.8.7",
+        "loc": 1884,
+        "path": "0x4A473D8441c8B6CeB07D38Ae51E066a1683B55D8_CoinbasePunks/CoinbasePunks.sol",
+        "source": "etherscan"
+    }
+}

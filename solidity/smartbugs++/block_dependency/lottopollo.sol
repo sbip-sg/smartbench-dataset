@@ -9,7 +9,7 @@ contract lottopollo {
   address leader;
   uint    timestamp;
   function payOut(uint rand) internal {
-    // <yes> <report> TIME MANIPULATION
+    // <yes> <report> TIME_MANIPULATION
     if ( rand> 0 && now - rand > 24 hours ) {
       msg.sender.send( msg.value );
 
@@ -23,11 +23,11 @@ contract lottopollo {
     }
   }
   function randomGen() constant returns (uint randomNumber) {
-      // <yes> <report> TIME MANIPULATION
-      return block.timestamp;   
+      // <yes> <report> TIME_MANIPULATION
+      return block.timestamp;
     }
   function draw(uint seed){
-    uint randomNumber=randomGen(); 
+    uint randomNumber=randomGen();
     payOut(randomNumber);
   }
 }

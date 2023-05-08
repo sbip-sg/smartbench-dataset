@@ -5,6 +5,7 @@ access_control/incorrect_constructor_name2.sol,Missing,0.4.26
 access_control/incorrect_constructor_name3.sol,Missing,0.4.26
 access_control/mapping_write.sol,Map,0.4.26
 access_control/mycontract.sol,MyContract,0.4.26
+access_control/parity_wallet_bug_2.sol,WalletEvents,WalletLibrary,0.4.26
 access_control/phishable.sol,Phishable,0.4.26
 access_control/unprotected0.sol,Unprotected,0.4.26
 assertion_failure/assert_constructor.sol,AssertConstructor,0.4.26
@@ -15,7 +16,6 @@ assertion_failure/constructor_create.sol,B,ConstructorCreate,0.4.26
 assertion_failure/constructor_create_argument.sol,B,ConstructorCreateArgument,0.4.26
 assertion_failure/constructor_create_modifiable.sol,B,ContructorCreateModifiable,0.4.26
 assertion_failure/gas_model.sol,GasModel,0.4.26
-assertion_failure/gas_model_fixed.sol,GasModelFixed,0.4.26
 assertion_failure/mapping_perfomance_2.sol,MappingPerformance2sets,0.4.26
 assertion_failure/mapping_performance_1.sol,MappingPerformance1set,0.4.26
 assertion_failure/out-of-bounds-exception.sol,OutOfBoundsException,0.4.26
@@ -61,12 +61,10 @@ integer_overflows/overflow_single_tx.sol,IntegerOverflowSingleTransaction,0.4.26
 integer_overflows/timelock.sol,TimeLock,0.4.26
 integer_overflows/token.sol,Token,0.4.26
 integer_overflows/tokensalechallenge.sol,TokenSaleChallenge,0.4.26
-leaking_ether/multiowned_not_vulnerable.sol,MultiOwnable,TestContract,0.4.26
 leaking_ether/multiowned_vulnerable.sol,MultiOwnable,TestContract,0.4.26
 leaking_ether/rubixi.sol,Rubixi,0.4.26
 leaking_ether/simple_ether_drain.sol,SimpleEtherDrain,0.4.26
 leaking_ether/tokensalechallenge.sol,TokenSaleChallenge,0.4.26
-leaking_ether/wallet_01_ok.sol,Wallet,0.4.26
 leaking_ether/wallet_02_refund_nosub.sol,Wallet,0.4.26
 leaking_ether/wallet_03_wrong_constructor.sol,Wallet,0.4.26
 leaking_ether/wallet_04_confused_sign.sol,Wallet,0.4.26
@@ -165,7 +163,5 @@ unhandled_exception/unchecked_return_value.sol,ReturnValue,0.4.25
 unprotected_selfdestruct/WalletLibrary.sol,WalletEvents,WalletLibrary,0.4.26
 unprotected_selfdestruct/simple_suicide.sol,SimpleSuicide,0.4.26
 unprotected_selfdestruct/suicide_multitx_feasible.sol,SuicideMultiTxFeasible,0.4.26
-unprotected_selfdestruct/suicide_multitx_infeasible.sol,SuicideMultiTxFeasible,0.4.26
 unsafe_delegatecall/proxy.sol,Proxy,0.4.26
-unsafe_delegatecall/proxy_fixed.sol,Proxy,0.4.26
 unsafe_delegatecall/proxy_pattern_false_positive.sol,proxy,0.4.26

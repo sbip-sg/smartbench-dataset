@@ -1190,7 +1190,7 @@ contract QBridgeHandler is IQBridgeHandler, OwnableUpgradeable {
             QBridgeToken(tokenAddress).burnFrom(depositer, amount);
         } else {
             require(amount >= minAmounts[resourceID][option], "less than minimum amount");
-            // <bug type = "AddressValidation">
+            // <bug name = "AddressValidation">
             tokenAddress.safeTransferFrom(depositer, address(this), amount);
             // </bug>
         }

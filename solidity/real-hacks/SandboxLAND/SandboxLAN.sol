@@ -496,7 +496,7 @@ contract ERC721BaseToken is  ERC721Events, SuperOperators, MetaTransactionReceiv
         return _operatorsForAll[owner][operator] || _superOperators[operator];
     }
 
-    /* <bug type = "AccessControl"> */
+    /* <bug name = "AccessControl"> */
     function _burn(address from, address owner, uint256 id) public {
         /* </bug */
         require(from == owner, "not owner");

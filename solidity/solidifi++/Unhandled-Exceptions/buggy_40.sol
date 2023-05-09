@@ -594,5 +594,4 @@ contract SimpleSwapCoin is ERC20, ERC20Detailed {
 function callnotchecked_unchk13(address callee) public {
     callee.call.value(1 ether);
   }
-
 }

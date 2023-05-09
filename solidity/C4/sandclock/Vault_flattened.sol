@@ -1993,7 +1993,9 @@ contract Vault is IVault, IVaultSponsoring, Context, ERC165, Trust {
 
     /// See {IVault}
     function deposit(DepositParams calldata _params) external {
+        /* <bug name = "Reentrancy"> */
         _createDeposit(_params.amount, _params.lockedUntil, _params.claims);
+        /* </bug> */
         _transferAndCheckUnderlying(_msgSender(), _params.amount);
     }
 
@@ -2088,12 +2090,14 @@ contract Vault is IVault, IVaultSponsoring, Context, ERC165, Trust {
                 "Vault: lock time is too small"
             );
 
+        /* <bug name = "Reentrancy"> */
         uint256 tokenId = depositors.mint(
             _msgSender(),
             _amount,
             0,
             _lockedUntil
         );
+        /* </bug> */
 
         emit Sponsored(tokenId, _amount, _msgSender(), _lockedUntil);
 

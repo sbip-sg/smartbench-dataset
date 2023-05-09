@@ -1,4 +1,4 @@
-# Sandclock
+# Sandclock Contest
 - https://github.com/code-423n4/2022-01-sandclock
 
 

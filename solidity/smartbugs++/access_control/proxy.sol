@@ -9,7 +9,7 @@ contract Proxy {
   }
 
   function forward(address callee, bytes _data) public {
-    // <yes> <report> UNSAFE_DELEGATECALL
+    // <yes> <report> ACCESS_CONTROL
     require(callee.delegatecall(_data));
   }
 

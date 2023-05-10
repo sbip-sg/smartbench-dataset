@@ -4,7 +4,7 @@ contract proxy{
   address owner;
 
   function proxyCall(address _to, bytes _data) external {
-    // <yes> <report> UNSAFE_DELEGATECALL
+    // <yes> <report> ACCESS_CONTROL
     require( !_to.delegatecall(_data));
   }
   function withdraw() external{

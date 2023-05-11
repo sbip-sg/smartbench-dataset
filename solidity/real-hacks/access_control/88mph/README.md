@@ -8,4 +8,4 @@
 ## Bug: Access Control
 - File: ShadowFi.sol
 - Function: `init`
-- Location: Line 2167 - 2174.
+- Location: Line 2167 - 2173.

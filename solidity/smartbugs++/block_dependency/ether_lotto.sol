@@ -39,7 +39,7 @@ contract EtherLotto {
         pot += msg.value;
 
         // Compute some *almost random* value for selecting winner from current transaction.
-        // <yes> <report> TIME_MANIPULATION
+        // <yes> <report> BAD_RANDOMNESS
         var random = uint(sha3(block.timestamp)) % 2;
 
         // Distribution: 50% of participants will be winners.

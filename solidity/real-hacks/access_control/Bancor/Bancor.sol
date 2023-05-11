@@ -549,6 +549,7 @@ contract TokenHandler {
       * @param _value   transfer amount
     */
     /* <bug name = "AccessControl"> */
+    // Should not use `public`, to use modifiers or change to `private`, 
     function safeTransferFrom(IERC20Token _token, address _from, address _to, uint256 _value) public {
         /* </bug> */
        execute(_token, abi.encodeWithSelector(TRANSFER_FROM_FUNC_SELECTOR, _from, _to, _value));

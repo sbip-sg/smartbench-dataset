@@ -8,4 +8,4 @@
 ## Bug: Access Control
 - File: Bancor.sol
 - Function: `safeTransferFrom`
-- Location: Line 551 - 553.
+- Location: Line 551 - 554.

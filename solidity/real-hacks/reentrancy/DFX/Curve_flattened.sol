@@ -4708,7 +4708,7 @@ contract Curve is Storage, MerkleProver, NoDelegateCall {
         if (amount0 > 0) IERC20(derivatives[0]).safeTransfer(recipient, amount0);
         if (amount1 > 0) IERC20(derivatives[1]).safeTransfer(recipient, amount1);
 
-        /* <bug name = "Reentrancy"> */
+        /* <bug name = "REENTRANCY"> */
         IFlashCallback(msg.sender).flashCallback(fee0, fee1, data);
 
         uint256 balance0After = IERC20(derivatives[0]).balanceOf(address(this));

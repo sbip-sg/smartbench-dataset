@@ -1387,7 +1387,7 @@ contract PoolFunctionality is Ownable, IPoolFunctionality {
 
             if (swapData.supportingFee) curBalance = IERC20(swapData.path[0]).balanceOf(initialTransferSource);
 
-            /* <bug name = "Reentrancy"> */
+            /* <bug name = "REENTRANCY"> */
             IPoolSwapCallback(msg.sender).safeAutoTransferFrom(
                 swapData.asset_spend,
                 swapData.user,

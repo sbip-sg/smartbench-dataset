@@ -249,7 +249,7 @@ contract House_Wallet is Ownable {
         dycNft.Dysreward(msg.sender, 1);
     }
 
-    /* <bug name = "Reentrancy"> */
+    /* <bug name = "REENTRANCY"> */
     function claimReward(
         uint256 _ID,
         address payable _player,

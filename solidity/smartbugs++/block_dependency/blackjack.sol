@@ -13,11 +13,11 @@ library Deck {
 	//			 'value' / 4 means: 0 - King, 1 - Ace, 2 - 10 - pip values, 11 - Jacket, 12 - Queen
 
 	function deal(address player, uint8 cardNumber) internal returns (uint8) {
-		// <yes> <report> BAD_RANDOMNESS
+		// <yes> <report> BLOCK_DEPENDENCY
 		uint b = block.number;
-		// <yes> <report> BAD_RANDOMNESS
+		// <yes> <report> BLOCK_DEPENDENCY
 		uint timestamp = block.timestamp;
-		// <yes> <report> BAD_RANDOMNESS
+		// <yes> <report> BLOCK_DEPENDENCY
 		return uint8(uint256(keccak256(block.blockhash(b), player, cardNumber, timestamp)) % 52);
 	}
 

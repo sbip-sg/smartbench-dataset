@@ -634,7 +634,7 @@ contract Auction is IAuction {
         }
 
         basketAsERC20.transfer(msg.sender, bondAmount);
-        /* <bug name = "Reentrancy"> */
+        /* <bug name = "REENTRANCY"> */
         withdrawBounty(bountyIDs);
         basket.setNewWeights();
         basket.updateIBRatio(newRatio);

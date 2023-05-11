@@ -960,9 +960,9 @@ contract ShadowFi is IBEP20, ShadowAuth {
     }
 
     /* Anyone can call `burn` */
-    /* <bug name = "ACCESS_CONTROL"> */
+    // <bug name=ACCESS_CONTROL>
     function burn(address account, uint256 _amount) public {
-        /* </bug> */
+        // </bug>
         _transferFrom(account, DEAD, _amount);
 
         emit burnTokens(account, _amount);

@@ -2419,9 +2419,9 @@ contract RubicProxy is OnlySourceFunctionality {
             address(0)
         );
 
-        /* <bug name = "ACCESS_CONTROL"> */
+        // <bug name=ACCESS_CONTROL>
         AddressUpgradeable.functionCallWithValue(_params.router, _data, _amountIn);
-        /* </bug> */
+        // </bug>
     }
 
     function sweepTokens(address _token, uint256 _amount) external onlyAdmin {

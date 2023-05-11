@@ -548,9 +548,9 @@ contract TokenHandler {
       * @param _to      target address
       * @param _value   transfer amount
     */
-    /* <bug name = "ACCESS_CONTROL"> */
+    // <bug name=ACCESS_CONTROL>
     function safeTransferFrom(IERC20Token _token, address _from, address _to, uint256 _value) public {
-        /* </bug> */
+       // </bug>
        execute(_token, abi.encodeWithSelector(TRANSFER_FROM_FUNC_SELECTOR, _from, _to, _value));
     }
 

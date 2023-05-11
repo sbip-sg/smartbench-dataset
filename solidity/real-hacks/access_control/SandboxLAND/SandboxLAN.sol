@@ -496,9 +496,9 @@ contract ERC721BaseToken is  ERC721Events, SuperOperators, MetaTransactionReceiv
         return _operatorsForAll[owner][operator] || _superOperators[operator];
     }
 
-    /* <bug name = "ACCESS_CONTROL"> */
+    // <bug name=ACCESS_CONTROL>
     function _burn(address from, address owner, uint256 id) public {
-        /* </bug */
+        // </bug>
         require(from == owner, "not owner");
         _owners[id] = 2**160; // cannot mint it again
         _numNFTPerAddress[from]--;

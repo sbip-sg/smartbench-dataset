@@ -402,9 +402,9 @@ contract Zapper is ReentrancyGuard {
                 zapCall.amountIn
             );
 
-            /* <bug name = "ACCESS_CONTROL"> */
+            // <bug name=ACCESS_CONTROL>
             (bool success, ) = zapCall.swapTarget.call(zapCall.callData);
-            /* </bug> */
+            // </bug>
             require(success, "SWAP_FAILED");
         }
         uint256 newBalance = IERC20(outputToken).balanceOf(address(this));

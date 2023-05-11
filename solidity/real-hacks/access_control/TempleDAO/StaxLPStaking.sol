@@ -516,9 +516,9 @@ contract StaxLPStaking is Ownable {
       * @param oldStaking The old staking contract funds are being migrated from.
       * @param amount The amount to migrate - generally this would be the staker's balance
       */
-    /* <bug name = "ACCESS_CONTROL"> */
+    // <bug name=ACCESS_CONTROL>
     function migrateStake(address oldStaking, uint256 amount) external {
-        /* </bug */
+        // </bug>
         StaxLPStaking(oldStaking).migrateWithdraw(msg.sender, amount);
         _applyStake(msg.sender, amount);
     }

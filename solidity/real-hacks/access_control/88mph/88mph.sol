@@ -2164,13 +2164,13 @@ contract NFT is ERC721Metadata("", ""), Ownable {
     string internal _tokenName;
     string internal _tokenSymbol;
 
-    /* <bug name = "ACCESS_CONTROL">  */
+    // <bug name=ACCESS_CONTROL>
     function init(
         address newOwner,
         string calldata tokenName,
         string calldata tokenSymbol
     ) external {
-        /* </bug> */
+        // </bug>
         _transferOwnership(newOwner);
         _tokenName = tokenName;
         _tokenSymbol = tokenSymbol;

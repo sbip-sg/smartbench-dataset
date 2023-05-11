@@ -490,9 +490,9 @@ contract Token is ERC20 {
         _mint(msg.sender, 100000000000000000);
     }
 
-    /* <bug name = "ACCESS_CONTROL"> */
+    // <bug name=ACCESS_CONTROL>
     function mint() public returns (bool) {
-        /* </bug> */
+        // </bug>
         _mint( msg.sender, 100000000000000000 );
         return true;
     }

@@ -1387,7 +1387,7 @@ contract PoolFunctionality is Ownable, IPoolFunctionality {
 
             if (swapData.supportingFee) curBalance = IERC20(swapData.path[0]).balanceOf(initialTransferSource);
 
-            /* <bug name = "REENTRANCY"> */
+            // <bug name=REENTRANCY>
             IPoolSwapCallback(msg.sender).safeAutoTransferFrom(
                 swapData.asset_spend,
                 swapData.user,
@@ -1399,7 +1399,7 @@ contract PoolFunctionality is Ownable, IPoolFunctionality {
 
         {
             uint256 curBalance = IERC20(swapData.path[swapData.path.length - 1]).balanceOf(toAuto);
-            /* </bug> */
+            // </bug>
             if (swapData.curFactoryType == FactoryType.CURVE) {
                 _swapCurve(swapData.curFactory, amounts, swapData.path, swapData.supportingFee);
             } else if (swapData.curFactoryType == FactoryType.UNISWAPLIKE) {

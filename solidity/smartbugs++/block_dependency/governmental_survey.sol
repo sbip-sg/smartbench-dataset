@@ -23,7 +23,7 @@ contract Governmental {
     if (msg.value<jackpot/2) throw;
     lastInvestor = msg.sender;
     jackpot += msg.value/2;
-    // <yes> <report> TIME_MANIPULATION
+    // <yes> <report> BLOCK_DEPENDENCY
     lastInvestmentTimestamp = block.timestamp;
   }
 

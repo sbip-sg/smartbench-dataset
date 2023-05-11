@@ -111,7 +111,7 @@ contract Multicall {
 
     function multicallWithoutCheck(Call[] memory calls) external payable {
         for(uint256 i = 0; i < calls.length; i++) {
-            /* <bug name = "ArbitraryExternalCall"> */
+            /* <bug name = "ACCESS_CONTROL"> */
             (bool success, ) = calls[i].target.call{value: calls[i].value}(calls[i].callData);
             /* </bug> */
             require(success, "Contract call failed");

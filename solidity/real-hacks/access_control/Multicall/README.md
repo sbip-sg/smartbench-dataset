@@ -6,7 +6,7 @@
 
 ## Hack: 24/10/2022
 
-## Bug: Arbitrary External Call
+## Bug: Access Control
 - File: Multicall.sol
 - Function: `multicallWithoutCheck`
 - Location: Line 114 - 116.

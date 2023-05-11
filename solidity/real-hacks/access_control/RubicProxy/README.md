@@ -6,7 +6,7 @@
 
 ## Hack: 25/12/2022
 
-## Bug: Arbitrary External Call
+## Bug: Access Control
 - File: 01\_20\_RubicProxy.sol
 - Function: `routerCallNative`
 - Location: Line 117 - 119.

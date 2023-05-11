@@ -6,7 +6,7 @@
 
 ## Hack: 9/11/2022
 
-## Bug: Arbitrary External Call
+## Bug: Access Control
 - File: BrahTOPG.sol
 - Function: `zap`
 - Location: Line 405 - 407.

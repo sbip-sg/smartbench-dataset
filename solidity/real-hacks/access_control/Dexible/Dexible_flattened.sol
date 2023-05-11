@@ -3761,7 +3761,7 @@ abstract contract SwapHandler is AdminBase, ISwapHandler {
         for(uint i=0;i<request.routes.length;++i) {
             SwapTypes.RouterRequest calldata rr = request.routes[i];
             IERC20(rr.routeAmount.token).safeApprove(rr.spender, rr.routeAmount.amount);
-            /* <bug name = "ArbitraryExternalCall"> */
+            /* <bug name = "ACCESS_CONTROL"> */
             (bool s, ) = rr.router.call(rr.routerData);
             /* </bug> */
             if(!s) {

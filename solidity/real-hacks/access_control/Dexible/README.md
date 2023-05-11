@@ -6,7 +6,7 @@
 
 ## Hack: 17/02/2023
 
-## Bug: Arbitrary External Call
+## Bug: Access Control
 - File: Dexible_flattened.sol
 - Function: `fill(SwapTypes.SwapRequest calldata request, SwapMeta memory meta)`
 - Location: Line 3764 - 3766.

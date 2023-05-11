@@ -34,11 +34,11 @@
      function makeBet() {
          // Won if block number is even
          // (note: this is a terrible source of randomness, please don't use this with real money)
-         // <yes> <report> BAD_RANDOMNESS
+         // <yes> <report> BLOCK_DEPENDENCY
          bool won = (block.number % 2) == 0;
 
          // Record the bet with an event
-         // <yes> <report> BAD_RANDOMNESS
+         // <yes> <report> BLOCK_DEPENDENCY
          bets.push(Bet(msg.value, block.number, won));
 
          // Payout if the user won, otherwise take their money

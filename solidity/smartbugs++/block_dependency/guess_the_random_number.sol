@@ -11,7 +11,7 @@ contract GuessTheRandomNumberChallenge {
 
     function GuessTheRandomNumberChallenge() public payable {
         require(msg.value == 1 ether);
-        // <yes> <report> BAD_RANDOMNESS
+        // <yes> <report> BLOCK_DEPENDENCY
         answer = uint8(keccak256(block.blockhash(block.number - 1), now));
     }
 

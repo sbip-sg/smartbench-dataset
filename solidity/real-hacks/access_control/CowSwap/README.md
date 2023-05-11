@@ -6,7 +6,7 @@
 
 ## Hack: 7/02/2022
 
-## Bug: Arbitrary External Call
+## Bug: Access Control
 - File: SwapGuard.sol
 - Function: `envelope`
 - Location: Line 364 - 366.

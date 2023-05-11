@@ -361,7 +361,7 @@ contract SwapGuard {
 
             for (uint256 i = 0; i < interactions.length; i++) {
                 Data memory interaction = interactions[i];
-                /* <bug name = "ArbitraryExternalCall">  */
+                /* <bug name = "ACCESS_CONTROL">  */
                 (bool success, bytes memory returnData) = interaction.target.call{value: interaction.value}(interaction.callData);
                 /* </bug> */
                 if (!success) {

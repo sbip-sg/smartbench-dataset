@@ -1,4 +1,4 @@
-1pragma solidity ^0.4.16;
+pragma solidity ^0.4.16;
 
 contract owned {
     //合约创建者账户

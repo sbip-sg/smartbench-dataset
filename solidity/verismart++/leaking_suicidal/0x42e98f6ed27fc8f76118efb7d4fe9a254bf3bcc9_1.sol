@@ -241,6 +241,6 @@ contract GAWToken is StandardToken {
     }
 
     function close() public onlyOwner {
-        selfdestruct(owner); // <LEAKING_VUL>, <SUICIDAL_VUL>
+        selfdestruct(owner); // <SUICIDAL_VUL>
     }
 }

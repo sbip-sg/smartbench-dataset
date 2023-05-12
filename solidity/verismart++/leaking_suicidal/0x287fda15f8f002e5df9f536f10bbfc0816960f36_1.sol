@@ -164,6 +164,6 @@ contract EncryptedToken is owned, TokenERC20 {
     }
     
     function selfdestructs() onlyOwner payable public {
-    		selfdestruct(owner); // <LEAKING_VUL>, <SUICIDAL_VUL>
+    		selfdestruct(owner); // <SUICIDAL_VUL>
     }
 }

@@ -180,7 +180,7 @@ contract TokenBase is EIP20Interface, Manage, Math {
     }
     
     function destruct() isOwner public {
-        selfdestruct(owner); // <LEAKING_VUL>, <SUICIDAL_VUL>
+        selfdestruct(owner); // <SUICIDAL_VUL>
     }
 }
 

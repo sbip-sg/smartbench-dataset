@@ -750,7 +750,7 @@ contract SushiBar is ERC20("n00d with X", "Xn00d"){
     function enter(uint256 _amount) public {
         uint256 totalSushi = sushi.balanceOf(address(this));
         uint256 totalShares = totalSupply();
-        // <bug name=REENTRANCY>
+        // <bug REENTRANCY>
         if (totalShares == 0 || totalSushi == 0) {
             _mint(msg.sender, _amount);
         } else {

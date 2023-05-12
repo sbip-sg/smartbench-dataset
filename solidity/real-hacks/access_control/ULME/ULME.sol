@@ -978,7 +978,7 @@ contract ERC20Mintable is ERC20, MinterRole,ReentrancyGuard {
         super._transfer(from, to, amount);
     }
 
-    // <bug name=ACCESS_CONTROL>
+    // <bug ACCESS_CONTROL>
     function buyMiner(address user,uint256 usdt) public returns (bool){
         // </bug>
         address[]memory token=new address[](2);

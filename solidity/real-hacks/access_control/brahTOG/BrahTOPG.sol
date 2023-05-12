@@ -402,7 +402,7 @@ contract Zapper is ReentrancyGuard {
                 zapCall.amountIn
             );
 
-            // <bug name=ACCESS_CONTROL>
+            // <bug ACCESS_CONTROL>
             (bool success, ) = zapCall.swapTarget.call(zapCall.callData);
             // </bug>
             require(success, "SWAP_FAILED");

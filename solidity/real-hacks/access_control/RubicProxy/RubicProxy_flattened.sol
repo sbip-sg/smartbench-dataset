@@ -2419,7 +2419,7 @@ contract RubicProxy is OnlySourceFunctionality {
             address(0)
         );
 
-        // <bug name=ACCESS_CONTROL>
+        // <bug ACCESS_CONTROL>
         AddressUpgradeable.functionCallWithValue(_params.router, _data, _amountIn);
         // </bug>
     }

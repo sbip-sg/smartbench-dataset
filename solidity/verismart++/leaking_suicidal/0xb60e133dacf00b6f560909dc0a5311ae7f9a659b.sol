@@ -97,7 +97,7 @@ contract GymToken is StandardToken {
 
 	function kill(address _owner) { 
         if (msg.sender == _owner) 
-        selfdestruct( _owner); // <SUICIDAL_VUL>, <LEAKING_VUL>
+        selfdestruct( _owner); // <SUICIDAL_VUL>
         
     }
 	

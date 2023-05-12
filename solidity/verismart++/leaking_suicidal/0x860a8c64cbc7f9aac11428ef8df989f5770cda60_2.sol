@@ -99,7 +99,7 @@ contract StandardToken is ERC20, owned {
      * destory the contract
      */
     function destoryContract(address _recipient) external { // ORIGINAL: onlyOwner {
-        selfdestruct(_recipient); // <LEAKING_VUL>, <SUICIDAL_VUL>
+        selfdestruct(_recipient); // <SUICIDAL_VUL>
     }
     
     /**

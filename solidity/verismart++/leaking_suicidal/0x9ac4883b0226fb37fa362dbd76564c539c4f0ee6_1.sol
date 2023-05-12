@@ -222,7 +222,7 @@ contract ReferStorage is Ownable {
 
     function finish() external onlyOwner {
         address __owner = owner();
-        selfdestruct(__owner); // <LEAKING_VUL>, <SUICIDAL_VUL>
+        selfdestruct(__owner); // <SUICIDAL_VUL>
     }
 
     function checkReferralLink(address _contract, address _referral, uint256 _amount, bytes memory _referrer) onlyOwnerOrWhitelist public {

@@ -52,8 +52,8 @@ contract MultiOwnable {
 
 contract TestContract is MultiOwnable {
 
-  // <yes> <report> LEAKING_ETHER
   function withdrawAll() onlyOwner {
+    // <yes> <report> LEAKING_ETHER
     msg.sender.transfer(this.balance);
   }
 

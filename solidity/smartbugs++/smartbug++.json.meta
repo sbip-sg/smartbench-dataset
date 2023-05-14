@@ -1,5 +1,5 @@
-access_control/FibonacciBalance.sol,FibonacciBalance,FibonacciLib,0.4.26
 access_control/arbitrary_location_write_simple.sol,Wallet,0.4.26
+access_control/FibonacciBalance.sol,FibonacciBalance,FibonacciLib,0.4.26
 access_control/incorrect_constructor_name1.sol,Missing,0.4.26
 access_control/incorrect_constructor_name2.sol,Missing,0.4.26
 access_control/incorrect_constructor_name3.sol,Missing,0.4.26
@@ -7,6 +7,7 @@ access_control/mapping_write.sol,Map,0.4.26
 access_control/mycontract.sol,MyContract,0.4.26
 access_control/parity_wallet_bug_2.sol,WalletEvents,WalletLibrary,0.4.26
 access_control/phishable.sol,Phishable,0.4.26
+unsafe_delegatecall/proxy.sol,Proxy,0.4.26
 access_control/unprotected0.sol,Unprotected,0.4.26
 assertion_failure/assert_constructor.sol,AssertConstructor,0.4.26
 assertion_failure/assert_minimal.sol,AssertMinimal,0.4.26
@@ -163,5 +164,3 @@ unhandled_exception/unchecked_return_value.sol,ReturnValue,0.4.25
 unprotected_selfdestruct/WalletLibrary.sol,WalletEvents,WalletLibrary,0.4.26
 unprotected_selfdestruct/simple_suicide.sol,SimpleSuicide,0.4.26
 unprotected_selfdestruct/suicide_multitx_feasible.sol,SuicideMultiTxFeasible,0.4.26
-unsafe_delegatecall/proxy.sol,Proxy,0.4.26
-unsafe_delegatecall/proxy_pattern_false_positive.sol,proxy,0.4.26

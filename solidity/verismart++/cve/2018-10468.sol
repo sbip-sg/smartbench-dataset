@@ -55,11 +55,11 @@ contract UselessEthereumToken {
 
         bool sufficientFunds = fromBalance <= _value;
         bool sufficientAllowance = allowance <= _value;
-        bool overflowed = balances[_to] + _value > balances[_to];
+        bool overflowed = balances[_to] + _value > balances[_to];  // <INTEGER_OVERFLOW>
 
         if (sufficientFunds && sufficientAllowance && !overflowed) {
-            balances[_to] += _value;
-            balances[_from] -= _value;
+            balances[_to] += _value;  // <INTEGER_OVERFLOW>
+            balances[_from] -= _value;   // <INTEGER_UNDERFLOW>
             
             allowed[_from][msg.sender] -= _value;
             

@@ -7,7 +7,7 @@ access_control/mapping_write.sol,Map,0.4.26
 access_control/mycontract.sol,MyContract,0.4.26
 access_control/parity_wallet_bug_2.sol,WalletEvents,WalletLibrary,0.4.26
 access_control/phishable.sol,Phishable,0.4.26
-unsafe_delegatecall/proxy.sol,Proxy,0.4.26
+access_control/proxy.sol,Proxy,0.4.26
 access_control/unprotected0.sol,Unprotected,0.4.26
 assertion_failure/assert_constructor.sol,AssertConstructor,0.4.26
 assertion_failure/assert_minimal.sol,AssertMinimal,0.4.26
@@ -17,17 +17,11 @@ assertion_failure/constructor_create.sol,B,ConstructorCreate,0.4.26
 assertion_failure/constructor_create_argument.sol,B,ConstructorCreateArgument,0.4.26
 assertion_failure/constructor_create_modifiable.sol,B,ContructorCreateModifiable,0.4.26
 assertion_failure/gas_model.sol,GasModel,0.4.26
-assertion_failure/mapping_perfomance_2.sol,MappingPerformance2sets,0.4.26
-assertion_failure/mapping_performance_1.sol,MappingPerformance1set,0.4.26
-assertion_failure/out-of-bounds-exception.sol,OutOfBoundsException,0.4.26
 assertion_failure/return_memory.sol,ReturnMemory,0.4.26
 assertion_failure/runtime_create_user_input.sol,B,RuntimeCreateUserInput,0.4.26
 assertion_failure/runtime_user_input_call.sol,RuntimeUserInputCall,0.4.26
-assertion_failure/sha_of_sha_2_mappings.sol,ShaOfSha2Mappings,0.4.26
 assertion_failure/sha_of_sha_collision.sol,ShaOfShaCollission,0.4.26
-assertion_failure/sha_of_sha_concrete.sol,ShaOfShaConcrete,0.4.26
 assertion_failure/token-with-backdoor.sol,Token,0.4.26
-assertion_failure/two_mapppings.sol,TwoMappings,0.4.26
 block_dependency/blackjack.sol,BlackJack,0.4.26
 block_dependency/ether_lotto.sol,EtherLotto,0.4.26
 block_dependency/etheraffle.sol,Ethraffle_v4b,0.4.26
@@ -37,7 +31,6 @@ block_dependency/lottery.sol,Lottery,0.4.26
 block_dependency/lottopollo.sol,lottopollo,0.4.26
 block_dependency/lucky_doubler.sol,LuckyDoubler,0.4.26
 block_dependency/old_blockhash.sol,PredictTheBlockHashChallenge,0.4.26
-block_dependency/random_number_generator.sol,RandomNumberGenerator,0.4.26
 block_dependency/roulette.sol,Roulette,0.4.26
 block_dependency/smart_billions.sol,SmartBillions,0.4.26
 block_dependency/timed_crowdsale.sol,TimedCrowdsale,0.4.26

@@ -1,1 +1,9 @@
+assertion_failure/mapping_perfomance_2.sol
+assertion_failure/mapping_performance_1.sol
+assertion_failure/out-of-bounds-exception.sol
+assertion_failure/sha_of_sha_2_mappings.sol
+assertion_failure/sha_of_sha_concrete.sol
+assertion_failure/two_mapppings.sol
+block_dependency/random_number_generator.sol
 integer_overflows/insecure_transfer.sol
+unsafe_delegatecall/proxy_pattern_false_positive.sol

@@ -11,9 +11,9 @@ contract DosOneFunc {
 
     address[] listAddresses;
 
-    // <yes> <report> DENIAL_OF_SERVICE
     function ifillArray() public returns (bool){
         if(listAddresses.length<1500) {
+            // <yes> <report> DENIAL_OF_SERVICE
             for(uint i=0;i<10000;i++) {
                 listAddresses.push(msg.sender);
             }

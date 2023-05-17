@@ -18,8 +18,8 @@ contract DosGas {
         }
     }
 
-    // <yes> <report> DENIAL_OF_SERVICE
     function addCreditors() public returns (bool) {
+        // <yes> <report> DENIAL_OF_SERVICE
         for(uint i=0;i<100000;i++) {
           creditorAddresses.push(msg.sender);
         }

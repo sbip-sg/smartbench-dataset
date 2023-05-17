@@ -11,7 +11,6 @@ contract ModifierEntrancy {
   string constant name = "Nu Token";
 
   //If a contract has a zero balance and supports the token give them some token
-  // <yes> <report> REENTRANCY
   function airDrop() hasNoBalance supportsToken  public{
     tokenBalance[msg.sender] += 20;
   }
@@ -44,6 +43,7 @@ contract attack{ //An example of a contract that breaks the contract above.
         return(keccak256(abi.encodePacked("Nu Token")));
     }
     function call(address token) public{
+        // <yes> <report> REENTRANCY
         ModifierEntrancy(token).airDrop();
     }
 }

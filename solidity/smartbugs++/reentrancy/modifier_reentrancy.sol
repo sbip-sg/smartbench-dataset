@@ -17,6 +17,7 @@ contract ModifierEntrancy {
 
   //Checks that the contract responds the way we want
   modifier supportsToken() {
+    // <yes> <report> REENTRANCY
     require(keccak256(abi.encodePacked("Nu Token")) == Bank(msg.sender).supportsToken());
     _;
   }
@@ -43,7 +44,6 @@ contract attack{ //An example of a contract that breaks the contract above.
         return(keccak256(abi.encodePacked("Nu Token")));
     }
     function call(address token) public{
-        // <yes> <report> REENTRANCY
         ModifierEntrancy(token).airDrop();
     }
 }

@@ -213,7 +213,7 @@ contract CBRToken is owned, TokenERC20 {
     /// @param target Address to receive the tokens
     /// @param mintedAmount the amount of tokens it will receive
     function mintToken(address target, uint256 mintedAmount) onlyOwner public {
-        balanceOf[target] += mintedAmount;
+        balanceOf[target] += mintedAmount; // <INTEGER_OVERFLOW>
         totalSupply += mintedAmount;
         Transfer(0, this, mintedAmount);
         Transfer(this, target, mintedAmount);

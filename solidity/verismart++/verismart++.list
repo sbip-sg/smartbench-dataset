@@ -125,7 +125,7 @@ cve/2018-13477.sol,CTESale,0.4.26
 cve/2018-13478.sol,DMPToken,0.4.26
 cve/2018-13479.sol,SlidebitsToken,0.4.26
 cve/2018-13480.sol,QRG,0.4.26
-cve/2018-13184.sol,TravelZediToken,0.4.26
+cve/2018-13484.sol,CBRToken,0.4.26
 cve/2018-13485.sol,BitcoinAgileToken,0.4.26
 cve/2018-13487.sol,PlatoToken,0.4.26
 cve/2018-13489.sol,OllisCoin,0.4.26
@@ -208,6 +208,7 @@ cve/2018-13703.sol,CERB_Coin,0.4.26
 cve/2018-13705.sol,PMHToken,0.4.26
 cve/2018-13710.sol,Mjolnir,0.4.26
 cve/2018-13716.sol,sexhdsolo,0.4.26
+cve/2018-13722.sol,HYIPToken,0.4.26
 cve/2018-13724.sol,HYIPToken,0.4.26
 cve/2018-13729.sol,JPMD100B,0.4.26
 cve/2018-13730.sol,HEY,0.4.26
@@ -235,7 +236,6 @@ cve/2018-14001.sol,ExtendetdToken,0.4.26
 cve/2018-14002.sol,MP3Coin,0.4.26
 cve/2018-14003.sol,WMCToken,0.4.26
 cve/2018-14004.sol,Globecoin,0.4.26
-cve/2018-14005.sol,MalaysianCoin,0.4.26
 cve/2018-14005.sol,MalaysianCoin,0.4.26
 cve/2018-14006.sol,NGToken,0.4.26
 cve/2018-14063.sol,None,0.4.26

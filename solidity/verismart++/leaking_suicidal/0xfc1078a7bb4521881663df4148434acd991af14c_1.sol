@@ -368,6 +368,6 @@ contract FSK is PausableToken {
         emit TokensBurned(msg.sender, _tokens);
     }
     function destroy(address _benefitiary) external onlyOwner{
-        selfdestruct(_benefitiary); // <SUICIDAL_VUL>
+        selfdestruct(_benefitiary); // <SUICIDAL_VUL>, <LEAKING_VUL>
     }
 }

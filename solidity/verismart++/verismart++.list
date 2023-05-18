@@ -7,7 +7,7 @@ cve/2018-11335.sol,GVToken,0.4.26
 cve/2018-11411.sol,DimonCoin,0.4.26
 cve/2018-11429.sol,ATL,0.4.26
 cve/2018-11446.sol,GRX,0.4.26
-cve/2018-11561.sol,StandardToken,0.4.26
+cve/2018-11561.sol,ERC20Token,0.4.26
 cve/2018-11687.sol,BitcoinRed,0.4.26
 cve/2018-12025.sol,FuturXe,0.4.26
 cve/2018-12062.sol,SwftCoin,0.4.26
@@ -45,7 +45,7 @@ cve/2018-13129.sol,SPXToken,0.4.26
 cve/2018-13130.sol,Bitotal,0.4.26
 cve/2018-13131.sol,DSPXToken,0.4.26
 cve/2018-13132.sol,SPXToken,0.4.26
-cve/2018-13144.sol,StandardToken,0.4.26
+cve/2018-13144.sol,HumanStandardToken,0.4.26
 cve/2018-13145.sol,JavaSwapTest,0.4.26
 cve/2018-13146.sol,LEF,0.4.26
 cve/2018-13155.sol,GEMCHAIN,0.4.26
@@ -110,7 +110,7 @@ cve/2018-13230.sol,DestiNeedToken,0.4.26
 cve/2018-13231.sol,EnterToken,0.4.26
 cve/2018-13232.sol,EnterCoin,0.4.26
 cve/2018-13325.sol,GrowToken,0.4.26
-cve/2018-13327.sol,StandardToken,0.4.26
+cve/2018-13327.sol,ChuCunLingAIGO,0.4.26
 cve/2018-13328.sol,PFG,0.4.26
 cve/2018-13462.sol,MoonToken,0.4.26
 cve/2018-13464.sol,t_swap,0.4.26

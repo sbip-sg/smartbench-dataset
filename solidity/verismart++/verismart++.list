@@ -8,7 +8,7 @@ cve/2018-11411.sol,DimonCoin,0.4.26
 cve/2018-11429.sol,ATL,0.4.26
 cve/2018-11446.sol,GRX,0.4.26
 cve/2018-11561.sol,StandardToken,0.4.26
-cve/2018-11687.sol,ERC20,0.4.26
+cve/2018-11687.sol,BitcoinRed,0.4.26
 cve/2018-12025.sol,FuturXe,0.4.26
 cve/2018-12062.sol,SwftCoin,0.4.26
 cve/2018-12063.sol,INTToken,0.4.26
@@ -109,7 +109,7 @@ cve/2018-13229.sol,RiptideCoin,0.4.26
 cve/2018-13230.sol,DestiNeedToken,0.4.26
 cve/2018-13231.sol,EnterToken,0.4.26
 cve/2018-13232.sol,EnterCoin,0.4.26
-cve/2018-13325.sol,GrowToken{,0.4.26
+cve/2018-13325.sol,GrowToken,0.4.26
 cve/2018-13327.sol,StandardToken,0.4.26
 cve/2018-13328.sol,PFG,0.4.26
 cve/2018-13462.sol,MoonToken,0.4.26
@@ -135,7 +135,7 @@ cve/2018-13493.sol,DaddyToken,0.4.26
 cve/2018-13494.sol,SusanTokenERC20,0.4.26
 cve/2018-13495.sol,KMCToken,0.4.26
 cve/2018-13496.sol,RajTest,0.4.26
-cve/2018-13497.sol,None,0.4.26
+cve/2018-13497.sol,COBToken,0.4.26
 cve/2018-13498.sol,KAPAYcoin,0.4.26
 cve/2018-13500.sol,MSXAdvanced,0.4.26
 cve/2018-13501.sol,HRWtoken,0.4.26
@@ -238,7 +238,7 @@ cve/2018-14003.sol,WMCToken,0.4.26
 cve/2018-14004.sol,Globecoin,0.4.26
 cve/2018-14005.sol,MalaysianCoin,0.4.26
 cve/2018-14006.sol,NGToken,0.4.26
-cve/2018-14063.sol,None,0.4.26
+cve/2018-14063.sol,Tracto,0.4.26
 cve/2018-14084.sol,MyAdvancedToken,0.4.26
 cve/2018-14086.sol,MyToken,0.4.26
 cve/2018-14087.sol,EncryptedToken,0.4.26

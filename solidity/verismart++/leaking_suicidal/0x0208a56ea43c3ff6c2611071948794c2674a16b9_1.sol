@@ -177,7 +177,7 @@ contract ERBIUMCOIN is ERC20
     
     // this can be called when there is no furter requirement of contract 
     function kill() external onlyOwner {
-        selfdestruct(address(uint160(owner))); // <SUICIDAL_VUL>
+        selfdestruct(address(uint160(owner))); // <LEAKING_VUL>, <SUICIDAL_VUL>
     }    
     
     //Below function will convert string to integer removing decimal

@@ -185,7 +185,7 @@ contract FairDice {
     // either settled or refunded. All funds are transferred to contract owner.
     function kill() external onlyOwner {
         require (lockedInBets == 0, "All bets should be processed (settled or refunded) before self-destruct.");
-        selfdestruct(owner); // <SUICIDAL_VUL>
+        selfdestruct(owner); // <LEAKING_VUL>, <SUICIDAL_VUL>
     }
 
     /// *** Betting logic

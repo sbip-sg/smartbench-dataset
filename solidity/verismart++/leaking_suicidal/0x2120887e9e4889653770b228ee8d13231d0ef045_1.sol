@@ -602,7 +602,7 @@ contract TransferToken is FreezableBurnablePausableERC20Token {
     }
     
     function kill() public onlyOwner{
-        selfdestruct(owner); // <SUICIDAL_VUL>
+        selfdestruct(owner); // <LEAKING_VUL>, <SUICIDAL_VUL>
     }
     
     function () payable public {}

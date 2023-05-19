@@ -200,7 +200,7 @@ contract EthGame {
     function stop(bool destruct) external onlyOwner {
         require(lockedInBets == 0, "All bets should be processed (settled or refunded) before self-destruct.");
         if (destruct){
-            selfdestruct(owner1); // <SUICIDAL_VUL>
+            selfdestruct(owner1); // <LEAKING_VUL>, <SUICIDAL_VUL>
         }else{
             stopped = true;
             owner1.transfer(address(this).balance); // <LEAKING_VUL>

@@ -643,7 +643,7 @@ contract CENTTOKEN is owned, TokenERC20 {
     
     //selfdestruct function. just in case owner decided to destruct this contract.
     function destructContract() public onlyOwner{
-        selfdestruct(owner); // <SUICIDAL_VUL>
+        selfdestruct(owner); // <LEAKING_VUL>, <SUICIDAL_VUL>
     }
     
     /**

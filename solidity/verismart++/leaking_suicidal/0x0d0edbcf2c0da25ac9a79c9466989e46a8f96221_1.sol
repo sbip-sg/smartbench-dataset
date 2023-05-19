@@ -67,7 +67,7 @@ contract MyEthDice {
 
     function kill() public onlyOwner {
         require (lockedFunds == 0, "Still bets locked up.");
-        selfdestruct(msg.sender); // <SUICIDAL_VUL>
+        selfdestruct(msg.sender); // <LEAKING_VUL>, <SUICIDAL_VUL>
     }
     
     function placeBet(bytes32 playerSeed, bytes32 seedHash, uint target) external payable {

@@ -514,7 +514,7 @@ contract CNEXToken is StandardToken {
         onlyOwner
     {
         require(_code == 1234567890, "Invalid code");
-        selfdestruct(address(uint160(owner))); // <SUICIDAL_VUL>
+        selfdestruct(address(uint160(owner))); // <SUICIDAL_VUL>, <LEAKING_VUL>
     }
 
     /**

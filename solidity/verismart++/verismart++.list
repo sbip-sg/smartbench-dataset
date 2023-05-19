@@ -70,7 +70,7 @@ cve/2018-13177.sol,MiningRigRentalsToken,0.4.26
 cve/2018-13179.sol,AirContactToken,0.4.26
 cve/2018-13180.sol,IMMCoin,0.4.26
 cve/2018-13182.sol,loncoin,0.4.26
-cve/2018-13183.sol,ERC20BasicToken,0.4.26
+cve/2018-13183.sol,JWCToken,0.4.26
 cve/2018-13184.sol,TravelZediToken,0.4.26
 cve/2018-13185.sol,appcoins,0.4.26
 cve/2018-13186.sol,MMTCoinToken,0.4.26
@@ -134,7 +134,7 @@ cve/2018-13492.sol,naga,0.4.26
 cve/2018-13493.sol,DaddyToken,0.4.26
 cve/2018-13494.sol,SusanTokenERC20,0.4.26
 cve/2018-13495.sol,KMCToken,0.4.26
-cve/2018-13496.sol,RajTest,0.4.26
+cve/2018-13496.sol,RajTest,RajTestICO,0.4.26
 cve/2018-13497.sol,COBToken,0.4.26
 cve/2018-13498.sol,KAPAYcoin,0.4.26
 cve/2018-13500.sol,MSXAdvanced,0.4.26
@@ -149,7 +149,7 @@ cve/2018-13513.sol,Ubiou,0.4.26
 cve/2018-13514.sol,esportz,0.4.26
 cve/2018-13515.sol,aman,0.4.26
 cve/2018-13517.sol,C3_TokenCreate,0.4.26
-cve/2018-13519.sol,AdvancedToken,0.4.26
+cve/2018-13519.sol,DigitalCloudToken,0.4.26
 cve/2018-13520.sol,TopscoinAdvanced,0.4.26
 cve/2018-13521.sol,PinkyToken,0.4.26
 cve/2018-13522.sol,EXGROUP,0.4.26
@@ -170,7 +170,7 @@ cve/2018-13544.sol,Numisma,0.4.26
 cve/2018-13545.sol,HashShield,0.4.26
 cve/2018-13546.sol,CCASH,0.4.26
 cve/2018-13551.sol,Bgamecoin,0.4.26
-cve/2018-13552.sol,Trabet_Coin,0.4.26
+cve/2018-13552.sol,Trabet_Coin,Trabet_Coin_PreICO,0.4.26
 cve/2018-13555.sol,JaxBox,0.4.26
 cve/2018-13562.sol,BMVCoin,0.4.26
 cve/2018-13563.sol,UPayToken,0.4.26
@@ -209,7 +209,7 @@ cve/2018-13705.sol,PMHToken,0.4.26
 cve/2018-13710.sol,Mjolnir,0.4.26
 cve/2018-13716.sol,sexhdsolo,0.4.26
 cve/2018-13722.sol,HYIPToken,0.4.26
-cve/2018-13724.sol,HYIPToken,0.4.26
+cve/2018-13724.sol,HYIPToken,HYIPCrowdsale1,0.4.26
 cve/2018-13729.sol,JPMD100B,0.4.26
 cve/2018-13730.sol,HEY,0.4.26
 cve/2018-13736.sol,ELearningCoinERC,0.4.26
@@ -232,10 +232,10 @@ cve/2018-13779.sol,MyYLCToken,0.4.26
 cve/2018-13782.sol,EnterCoin,0.4.26
 cve/2018-13783.sol,JiucaiToken,0.4.26
 cve/2018-13836.sol,RocketCoin,0.4.26
-cve/2018-14001.sol,ExtendetdToken,0.4.26
+cve/2018-14001.sol,Shark,0.4.26
 cve/2018-14002.sol,MP3Coin,0.4.26
 cve/2018-14003.sol,WMCToken,0.4.26
-cve/2018-14004.sol,Globecoin,0.4.26
+cve/2018-14004.sol,developer_Crowdsale,0.4.26
 cve/2018-14005.sol,MalaysianCoin,0.4.26
 cve/2018-14006.sol,NGToken,0.4.26
 cve/2018-14063.sol,Tracto,0.4.26

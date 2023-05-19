@@ -1,4 +1,4 @@
-cve/2018-10299.sol,PausableToken,0.4.26
+cve/2018-10299.sol,BecToken,0.4.26
 cve/2018-10376.sol,SMT,0.4.26
 cve/2018-10468.sol,UselessEthereumToken,0.4.26
 cve/2018-10706.sol,Token,0.4.26
@@ -11,10 +11,10 @@ cve/2018-11561.sol,ERC20Token,0.4.26
 cve/2018-11687.sol,BitcoinRed,0.4.26
 cve/2018-12025.sol,FuturXe,0.4.26
 cve/2018-12062.sol,SwftCoin,0.4.26
-cve/2018-12063.sol,INTToken,0.4.26
+cve/2018-12063.sol,INT,0.4.26
 cve/2018-12067.sol,MyAdvancedToken,0.4.26
 cve/2018-12068.sol,MyAdvancedToken,0.4.26
-cve/2018-12070.sol,SECToken,0.4.26
+cve/2018-12070.sol,SEC,0.4.26
 cve/2018-12230.sol,RemiCoin,0.4.26
 cve/2018-13041.sol,LinkToken,0.4.26
 cve/2018-13068.sol,AzurionToken,0.4.26
@@ -38,13 +38,13 @@ cve/2018-13087.sol,MyAdvancedToken,0.4.26
 cve/2018-13089.sol,UCoinToken,0.4.26
 cve/2018-13090.sol,YiTongCoin,0.4.26
 cve/2018-13091.sol,sumocoin,0.4.26
-cve/2018-13126.sol,SpendToken,0.4.26
+cve/2018-13126.sol,SpendToken,MoxyOnePresale,0.4.26
 cve/2018-13127.sol,DSPXToken,0.4.26
 cve/2018-13128.sol,ETY,0.4.26
 cve/2018-13129.sol,SPXToken,0.4.26
 cve/2018-13130.sol,Bitotal,0.4.26
-cve/2018-13131.sol,DSPXToken,0.4.26
-cve/2018-13132.sol,SPXToken,0.4.26
+cve/2018-13131.sol,DSPXToken,SpadePreSale,0.4.26
+cve/2018-13132.sol,SPXToken,SpadeIco,0.4.26
 cve/2018-13144.sol,HumanStandardToken,0.4.26
 cve/2018-13145.sol,JavaSwapTest,0.4.26
 cve/2018-13146.sol,LEF,0.4.26

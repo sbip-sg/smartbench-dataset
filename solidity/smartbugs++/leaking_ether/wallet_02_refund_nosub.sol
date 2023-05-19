@@ -31,8 +31,8 @@ contract Wallet {
         balances[msg.sender] -= amount;
     }
 
-    // <yes> <report> LEAKING_ETHER
     function refund() public {
+        // <yes> <report> LEAKING_ETHER
         msg.sender.transfer(balances[msg.sender]);
     }
 

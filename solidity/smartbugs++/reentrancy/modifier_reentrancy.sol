@@ -11,13 +11,13 @@ contract ModifierEntrancy {
   string constant name = "Nu Token";
 
   //If a contract has a zero balance and supports the token give them some token
-  // <yes> <report> REENTRANCY
   function airDrop() hasNoBalance supportsToken  public{
     tokenBalance[msg.sender] += 20;
   }
 
   //Checks that the contract responds the way we want
   modifier supportsToken() {
+    // <yes> <report> REENTRANCY
     require(keccak256(abi.encodePacked("Nu Token")) == Bank(msg.sender).supportsToken());
     _;
   }

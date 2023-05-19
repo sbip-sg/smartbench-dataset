@@ -12,7 +12,6 @@ contract DosGas {
     bool win = false;
 
     function emptyCreditors() public {
-        // <yes> <report> DENIAL_OF_SERVICE
         if(creditorAddresses.length>1500) {
             creditorAddresses = new address[](0);
             win = true;
@@ -20,7 +19,8 @@ contract DosGas {
     }
 
     function addCreditors() public returns (bool) {
-        for(uint i=0;i<350;i++) {
+        // <yes> <report> DENIAL_OF_SERVICE
+        for(uint i=0;i<100000;i++) {
           creditorAddresses.push(msg.sender);
         }
         return true;

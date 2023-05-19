@@ -27,8 +27,8 @@ contract TokenSaleChallenge {
     function sell(uint256 numTokens) public {
         require(balanceOf[msg.sender] >= numTokens);
 
-        // <yes> <report> LEAKING_ETHER
         balanceOf[msg.sender] -= numTokens;
+        // <yes> <report> LEAKING_ETHER
         msg.sender.transfer(numTokens * PRICE_PER_TOKEN);
     }
 }

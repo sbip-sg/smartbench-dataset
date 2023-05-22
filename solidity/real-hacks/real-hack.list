@@ -1,3 +1,13 @@
-access_control/88mph/88mph.sol, NFT, 0.5.17
-access_control/Bancor/Bancor.sol, TokenHandler, 0.5.17
-
+access_control/88mph/88mph.sol,NFT,0.5.17
+access_control/Bancor/Bancor.sol,TokenHandler,0.4.26
+access_control/brahTOG/BrahTOPG.sol,Zapper,0.8.0
+access_control/CowSwap/SwapGuard.sol,SwapGuard,0.8.0
+access_control/Dexible/Dexible.sol,SwapHandler,0.8.17
+access_control/Multicall/Multicall.sol,Multicall,0.8.0
+access_control/ROI/
+access_control/RubicProxy
+access_control/SandboxLAND
+access_control/ShadowFi
+access_control/TempleDAO
+access_control/UERII
+access_control/ULME

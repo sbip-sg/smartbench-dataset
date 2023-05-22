@@ -2398,6 +2398,7 @@ contract RubicProxy is OnlySourceFunctionality {
         }
     }
 
+    // <bug ACCESS_CONTROL>
     function routerCallNative(BaseCrossChainParams calldata _params, bytes calldata _data)
         external
         payable
@@ -2419,10 +2420,9 @@ contract RubicProxy is OnlySourceFunctionality {
             address(0)
         );
 
-        // <bug ACCESS_CONTROL>
         AddressUpgradeable.functionCallWithValue(_params.router, _data, _amountIn);
-        // </bug>
     }
+    // </bug>
 
     function sweepTokens(address _token, uint256 _amount) external onlyAdmin {
         sendToken(_token, _amount, msg.sender);

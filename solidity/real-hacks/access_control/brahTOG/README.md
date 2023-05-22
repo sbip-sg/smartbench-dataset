@@ -10,3 +10,5 @@
 - File: BrahTOPG.sol
 - Function: `zap`
 - Location: Line 405 - 407.
+
+However, the `zap` function is an `internal` function. Hence, we annotate bugs at two functions that call `zap` which are `zapIn` and `zapOut`.

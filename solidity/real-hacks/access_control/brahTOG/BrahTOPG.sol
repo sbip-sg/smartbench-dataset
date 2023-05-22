@@ -305,6 +305,7 @@ contract Zapper is ReentrancyGuard {
         vault = IVault(_vault);
     }
 
+    // <bug ACCESS_CONTROL>
     function zapIn(ZapData calldata zapCall)
         external
         payable
@@ -330,7 +331,9 @@ contract Zapper is ReentrancyGuard {
             sharesOut
         );
     }
+    // </bug>
 
+    // <bug ACCESS_CONTROL>
     function zapOut(ZapData memory zapCall) external nonReentrant isRelevant {
         if (zapCall.requiredToken == nativeETH) zapCall.requiredToken = weth;
         batcher().completeWithdrawalWithZap(zapCall.amountIn, msg.sender);
@@ -343,6 +346,7 @@ contract Zapper is ReentrancyGuard {
             amountOut
         );
     }
+    // </bug>
 
     function batcher() public view returns (IBatcher) {
         return IBatcher(vault.batcher());
@@ -402,9 +406,7 @@ contract Zapper is ReentrancyGuard {
                 zapCall.amountIn
             );
 
-            // <bug ACCESS_CONTROL>
             (bool success, ) = zapCall.swapTarget.call(zapCall.callData);
-            // </bug>
             require(success, "SWAP_FAILED");
         }
         uint256 newBalance = IERC20(outputToken).balanceOf(address(this));

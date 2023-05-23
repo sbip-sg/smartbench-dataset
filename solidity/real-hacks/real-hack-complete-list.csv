@@ -107,7 +107,7 @@
 20221002,Transit_Swap,incorrect-owner-address-validation
 20221001,BabySwap,parameter-access-control
 20221001,RL,Incorrect-Reward-calculation
-20221001,Thunder_Brawlreentrancy
+20221001,Thunder_Brawl,reentrancy
 20220929,BXH,price-manipulation
 20220923,RADT-DAO,pair-manipulate
 20220910,DPC,Incorrect-Reward-calculation

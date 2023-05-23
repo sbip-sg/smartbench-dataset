@@ -30,7 +30,7 @@
 20230308,DKP,price-manipulation
 20230307,Phoenix,access-control
 20230227,LaunchZone,access-control
-20230227,SwapX,access-control
+20230227,swapX,access-control
 20230224,EFVault,storage-collision
 20230222,DYNA,business-logic-flaw
 20230218,RevertFinance,access-control
@@ -55,7 +55,7 @@
 20230110,BRA,business-logic-flaw
 20230103,GDS,business-logic-flaw
 20221230,DFS,insufficient-validation
-20221229,JAY,insufficient-validation-and-reentrancy
+20221229,JAY,reentrancy
 20221225,Rubic,access-control
 20221223,Defrost,reentrancy
 20221214,Nmbplatform,price-manipulation
@@ -128,7 +128,7 @@
 20220713,Audius,storage-collision--malicious-proposal
 20220713,SpaceGodzilla,price-manipulation
 20220710,Omni_NFT,reentrancy
-20220706,FlippazOne NFT,access-control
+20220706,FlippazOne_NFT,access-control
 20220626,XCarnival,infinite-number-of-loans
 20220624,Harmony_Horizon_Bridge,private-key-compromised
 20220618,SNOOD,miscalculation-on-_spendallowance
@@ -159,7 +159,7 @@
 20220303,TreasureDAO,zero-fee
 20220208,Sandbox_LAND,access-control
 20220206,Meter,bridge
-20220128,Qubit_Finance,bridge-address0safetransferfrom-does-not-revert
+20220128,Qubit_Finance,address-validation
 20220118,Multichain_Anyswap,insufficient-token-validation
 20211221,Visor_Finance,reentrancy
 20211218,Grim_Finance,reentrancy

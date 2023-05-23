@@ -127,7 +127,7 @@
 20220725,LPC,incorrect-recipient-balance-check-did-not-check-senderrecipient-in-transfer
 20220713,Audius,storage-collision--malicious-proposal
 20220713,SpaceGodzilla,price-manipulation
-20220710,Omni_NFTreentrancy
+20220710,Omni_NFT,reentrancy
 20220706,FlippazOne NFT,access-control
 20220626,XCarnival,infinite-number-of-loans
 20220624,Harmony_Horizon_Bridge,private-key-compromised

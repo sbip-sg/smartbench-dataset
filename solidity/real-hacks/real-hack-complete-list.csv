@@ -29,7 +29,7 @@
 20230313,EulerFinance,business-logic-flaw
 20230308,DKP,price-manipulation
 20230307,Phoenix,access-control
-20230227,LaunchZone,access-control)
+20230227,LaunchZone,access-control
 20230227,SwapX,access-control
 20230224,EFVault,storage-collision
 20230222,DYNA,business-logic-flaw
@@ -57,7 +57,7 @@
 20221230,DFS,insufficient-validation
 20221229,JAY,insufficient-validation-and-reentrancy
 20221225,Rubic,access-control
-20221223,Defrost--reentrancy
+20221223,Defrost,reentrancy
 20221214,Nmbplatform,price-manipulation
 20221213,ElasticSwap,business-logic-flaw
 20221212,BGLD,price-manipulation

@@ -1,11 +1,12 @@
-# 20230506 Melo - Access Control
+# 20230315 - Poolz - integer overflow
 
 ## Reference
-- https://github.com/SunWeb3Sec/DeFiHackLabs#20230506-melo---access-control
+- https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/README.md#20230315---poolz---integer-overflow
+- https://twitter.com/peckshield/status/1635860470359015425
 
-## Hack: 06 May 2023
+## Hack: 15 March 2023
 
-## Bug: Access Control
-- File: MELO.sol
+## Bug: Integer Overflow
+- File: Poolz.sol
 - Function: `mint`
-- Location: Line 317-323.
+- Location: Line 1197-1199.

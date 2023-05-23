@@ -1,7 +1,7 @@
-# MELO Hack
+# 20230506 Melo - Access Control
 
 ## Reference
-- https://twitter.com/peckshield/status/1654667621139349505
+- https://github.com/SunWeb3Sec/DeFiHackLabs#20230506-melo---access-control
 
 ## Hack: 06 May 2023
 

@@ -16,3 +16,5 @@ access_control/Melo/MELO.sol,cERC20,0.5.11
 access_control/SafeMoon/SafeMoon.sol,Safemoon,0.6.12
 access_control/TempleDAO/StaxLPStaking.sol,StaxLPStaking,0.8.19
 address_validation/qubit_finance/QBridgeHandler.sol,QBridgeHandler,0.6.12
+arithmetic/Poolz/Poolz.sol,LockedDeal,0.6.12
+arithmetic/Umbrella_Network/StakingRewards.sol,StakingRewards,0.7.5

@@ -3753,6 +3753,7 @@ abstract contract SwapHandler is AdminBase, ISwapHandler {
     }
 
 
+    // <bug ACCESS_CONTROL>
     function fill(SwapTypes.SwapRequest calldata request, SwapMeta memory meta) external onlySelf returns (SwapMeta memory)  {
 
         preCheck(request, meta);
@@ -3761,9 +3762,7 @@ abstract contract SwapHandler is AdminBase, ISwapHandler {
         for(uint i=0;i<request.routes.length;++i) {
             SwapTypes.RouterRequest calldata rr = request.routes[i];
             IERC20(rr.routeAmount.token).safeApprove(rr.spender, rr.routeAmount.amount);
-            // <bug ACCESS_CONTROL>
             (bool s, ) = rr.router.call(rr.routerData);
-            // </bug>
             if(!s) {
                 revert("Failed to swap");
             }
@@ -3780,6 +3779,7 @@ abstract contract SwapHandler is AdminBase, ISwapHandler {
         require(meta.outAmount >= request.tokenOut.amount, "Insufficient output generated");
         return meta;
     }
+    // </bug>
 
     function postFill(SwapTypes.SwapRequest memory request, SwapMeta memory meta, bool success) internal  {
 

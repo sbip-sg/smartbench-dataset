@@ -109,14 +109,14 @@ contract Multicall {
         require(address(this).balance > balBefore, "No profits");
     }
 
+    // <bug ACCESS_CONTROL>
     function multicallWithoutCheck(Call[] memory calls) external payable {
         for(uint256 i = 0; i < calls.length; i++) {
-            // <bug ACCESS_CONTROL>
             (bool success, ) = calls[i].target.call{value: calls[i].value}(calls[i].callData);
-            // </bug>
             require(success, "Contract call failed");
         }
     }
+    // </bug>
 
     /** 
      * Approve the contract for spending given token for a specific sender.

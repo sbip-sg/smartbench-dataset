@@ -344,6 +344,7 @@ contract SwapGuard {
     /// @param tokenPrices Array of prices of tokens
     /// @param balanceChanges Array of expected balance changes
     /// @param allowedLoss Maximum amount of tokens that can be lost
+    // <bug ACCESS_CONTROL>
     function envelope(
         Data[] calldata interactions,
         address vault,
@@ -361,9 +362,7 @@ contract SwapGuard {
 
             for (uint256 i = 0; i < interactions.length; i++) {
                 Data memory interaction = interactions[i];
-                // <bug ACCESS_CONTROL>
                 (bool success, bytes memory returnData) = interaction.target.call{value: interaction.value}(interaction.callData);
-                // </bug>
                 if (!success) {
                     revert BadInteractionResponse(returnData);
                 }
@@ -385,4 +384,5 @@ contract SwapGuard {
             }
         }
     }
+    // </bug>
 }

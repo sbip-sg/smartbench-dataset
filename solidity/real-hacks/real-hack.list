@@ -3,7 +3,7 @@ reentrancy/JAY/JAY.sol,JAY,0.8.7
 reentrancy/Paraluni/paraluni.sol,MasterChef,0.6.12
 reentrancy/N00d/N00d.sol,SushiBar,0.6.12
 reentrancy/Orion/PoolFunctionality.sol,PoolFunctionality,0.7.4
-reentrancy/Revest/FNFTHandler.sol,FNFTHandler,0,8.9
+reentrancy/Revest/Revest.sol,FNFTHandler,Revest,0,8.4
 access_control/GymNetwork/GymSinglePool.sol,GymSinglePool,0.8.12
 access_control/Phoenix/Phoenix.sol,leveragedPool,0.5.16
 access_control/ROI/ROI.sol,ROIToken,0.8.19

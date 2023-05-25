@@ -11,3 +11,6 @@
 - File: StaxLPStaking.sol
 - Function: `migrateStake`
 - Location: Line 519 - 521.
+
+## Source
+- https://etherscan.io/address/0xd2869042e12a3506100af1d192b5b04d65137941

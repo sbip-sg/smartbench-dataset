@@ -13,12 +13,11 @@ access_control/ULME/ULME.sol,UniverseGoldMountain,0.5.16
 access_control/CowSwap/SwapGuard.sol,SwapGuard,0.8.15
 access_control/Multicall/Multicall.sol,Multicall,0.8.17
 access_control/Dexible/Dexible.sol,Dexible,0.8.17
-
-access_control/RubicProxy/RubicProxy.sol,RubicProxy,0.8.19
-access_control/brahTOG/BrahTOPG.sol,Zapper,0.8.19
+access_control/RubicProxy/RubicProxy.sol,RubicProxy,0.8.16
+access_control/brahTOG/BrahTOPG.sol,Zapper,0.8.13
 access_control/Melo/MELO.sol,cERC20,0.5.11
 access_control/SafeMoon/SafeMoon.sol,Safemoon,0.6.12
-access_control/TempleDAO/StaxLPStaking.sol,StaxLPStaking,0.8.19
+access_control/TempleDAO/StaxLPStaking.sol,StaxLPStaking,0.8.4
 address_validation/qubit_finance/QBridgeHandler.sol,QBridgeHandler,0.6.12
 arithmetic/Poolz/Poolz.sol,LockedDeal,0.6.12
 arithmetic/Umbrella_Network/StakingRewards.sol,StakingRewards,0.7.5

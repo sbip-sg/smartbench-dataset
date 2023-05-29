@@ -10,3 +10,6 @@
 - File: uerii.sol
 - Function: `mint`
 - Location: Line 494 - 496.
+
+## Source
+- https://etherscan.io/address/0x418c24191ae947a78c99fdc0e45a1f96afb254be#code

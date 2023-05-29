@@ -10,3 +10,6 @@
 - File: SafeMoon.sol
 - Function: `burn`
 - Location: Line 1733-1735.
+
+## Source
+- https://bscscan.com/address/0x42981d0bfbaf196529376ee702f2a9eb9092fcb5#code

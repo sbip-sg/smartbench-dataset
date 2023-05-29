@@ -6,9 +6,5 @@
 
 ## Hack: 27/03/2022
 
-## Bug: Reentrancy
-- File: FNFTHandler.sol
-- Function: `mint`
-- Location: Line 42 - 45.
-
-
+## Source
+- https://etherscan.io/address/0x2320A28f52334d62622cc2EaFa15DE55F9987eD9#code

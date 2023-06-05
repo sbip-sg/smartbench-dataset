@@ -1386,6 +1386,7 @@ contract PoolFunctionality is Ownable, IPoolFunctionality {
                 : OrionMultiPoolLibrary.pairFor(swapData.curFactory, swapData.path[0], swapData.path[1]);
 
             if (swapData.supportingFee) curBalance = IERC20(swapData.path[0]).balanceOf(initialTransferSource);
+            // <bug REENTRANCY>
 
             IPoolSwapCallback(msg.sender).safeAutoTransferFrom(
                 swapData.asset_spend,
@@ -1397,7 +1398,6 @@ contract PoolFunctionality is Ownable, IPoolFunctionality {
         }
 
         {
-            // <bug REENTRANCY>
             uint256 curBalance = IERC20(swapData.path[swapData.path.length - 1]).balanceOf(toAuto);
             if (swapData.curFactoryType == FactoryType.CURVE) {
                 _swapCurve(swapData.curFactory, amounts, swapData.path, swapData.supportingFee);

@@ -1691,7 +1691,7 @@ contract RewardsHypervisor {
         }
 
         vvisr.mint(to, shares);
-        // <bug REENTRANCY>
+        // </bug>
     }
 
     // @param shares Number of rewards shares to redeem for VISR

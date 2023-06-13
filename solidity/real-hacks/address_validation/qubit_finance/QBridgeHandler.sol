@@ -1175,8 +1175,8 @@ contract QBridgeHandler is IQBridgeHandler, OwnableUpgradeable {
         @param depositer Address of account making the deposit in the Bridge contract.
         @param data passed into the function should be constructed as follows:
         option                                 uint256     bytes  0 - 32
-        amount                                 uint256     bytes  32 - 64
-     */
+        amount                                 uint256     bytes  32 - 64*/
+    // <bug ADDRESS_VALIDATION>
     function deposit(bytes32 resourceID, address depositer, bytes calldata data) external override onlyBridge {
         uint option;
         uint amount;
@@ -1190,12 +1190,12 @@ contract QBridgeHandler is IQBridgeHandler, OwnableUpgradeable {
             QBridgeToken(tokenAddress).burnFrom(depositer, amount);
         } else {
             require(amount >= minAmounts[resourceID][option], "less than minimum amount");
-            // <bug ADDRESS_VALIDATION>
+
             tokenAddress.safeTransferFrom(depositer, address(this), amount);
-            // </bug>
+
         }
     }
-
+    // </bug>
     function depositETH(bytes32 resourceID, address depositer, bytes calldata data) external payable override onlyBridge {
         uint option;
         uint amount;

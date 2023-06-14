@@ -582,11 +582,15 @@ contract IndexPool is IPool, TridentERC20 {
         uint256 normalizedWeight = _div(tokenOutWeight, _totalWeight);
         uint256 newPoolSupply = _totalSupply - toBurn;
         uint256 poolRatio = _div(newPoolSupply, _totalSupply);
+        // <bug INTEGER_OVERFLOW>
         uint256 tokenOutRatio = _pow(poolRatio, _div(BASE, normalizedWeight));
+        // </bug>
         uint256 newBalanceOut = _mul(tokenOutRatio, tokenOutBalance);
         uint256 tokenAmountOutBeforeSwapFee = tokenOutBalance - newBalanceOut;
         uint256 zaz = (BASE - normalizedWeight) * _swapFee;
+        // <bug INTEGER_UNDERFLOW>
         amountOut = _mul(tokenAmountOutBeforeSwapFee, (BASE - zaz));
+        // </bug>
     }
     
     function _pow(uint256 a, uint256 n) internal pure returns (uint256 output) {

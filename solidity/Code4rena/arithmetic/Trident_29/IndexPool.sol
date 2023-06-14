@@ -396,8 +396,10 @@ contract IndexPool is IPool, TridentERC20 {
     /// The router must ensure that sufficient LP tokens are minted by using the return value.
     function mint(bytes calldata data) public override lock returns (uint256 liquidity) {
         (address recipient, uint256 toMint) = abi.decode(data, (address, uint256));
-        
+
+        // <bug INTEGER_TRUNCATION>
         uint120 ratio = uint120(_div(toMint, totalSupply));
+        // </bug>
 
         for (uint256 i = 0; i < tokens.length; i++) {
             address tokenIn = tokens[i];
@@ -407,7 +409,9 @@ contract IndexPool is IPool, TridentERC20 {
             require(amountIn >= MIN_BALANCE, "MIN_BALANCE");
             // @dev Check Trident router has sent `amountIn` for skim into pool.
             unchecked { // @dev This is safe from overflow - only logged amounts handled.
+                // <bug INTEGER_OVERFLOW>
                 require(_balance(tokenIn) >= amountIn + reserve, "NOT_RECEIVED");
+                // </bug>
                 records[tokenIn].reserve += amountIn;
             }
             emit Mint(msg.sender, tokenIn, amountIn, recipient);

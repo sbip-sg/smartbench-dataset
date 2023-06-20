@@ -4276,7 +4276,7 @@ contract Dexible is DexibleView, ConfigBase, SwapHandler, IDexible {
 
         postFill(request, details, success);
     }
-
+    // <bug ACCESS_CONTROL>
     function selfSwap(SwapTypes.SelfSwap calldata request) external notPaused {
         //we create a swap request that has no affiliate attached and thus no
         //automatic discount.
@@ -4317,4 +4317,5 @@ contract Dexible is DexibleView, ConfigBase, SwapHandler, IDexible {
         require(rec.send(amount), "Transfer failed");
         emit WithdrewETH(msg.sender, amount);
     }
+    // </bug>
 }

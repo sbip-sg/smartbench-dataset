@@ -1218,7 +1218,6 @@ contract leveragedPool is leveragedData,safeTransfer{
     }
     // <bug ACCESS_CONTROL>
     function delegateCallSwap(bytes memory data) public returns (bytes memory) {
-        // </bug>
         (bool success, bytes memory returnData) = phxSwapLib.delegatecall(data);
         assembly {
             if eq(success, 0) {
@@ -1227,6 +1226,7 @@ contract leveragedPool is leveragedData,safeTransfer{
         }
         return returnData;
     }
+    // </bug>
     function _swap(address token0,address token1,uint256 amountSell) internal returns (uint256){
         return abi.decode(delegateCallSwap(abi.encodeWithSignature("swap(address,address,address,uint256)",swapRouter,token0,token1,amountSell)), (uint256));
     }

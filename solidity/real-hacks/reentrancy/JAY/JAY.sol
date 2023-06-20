@@ -25,7 +25,7 @@ library SafeMath {
     /**
      * @dev Returns the addition of two unsigned integers, with an overflow flag.
      *
-     * _Available since v3.4._ 
+     * _Available since v3.4._
      */
     function tryAdd(uint256 a, uint256 b) internal pure returns (bool, uint256) {
         unchecked {
@@ -1121,9 +1121,9 @@ contract JAY is ERC20, Ownable {
     ) public payable {
         require(start, "Not started!");
         uint256 total = erc721TokenAddress.length;
-        // <bug REENTRANCY>
+        //
         if (total != 0) buyJayWithERC721(erc721TokenAddress, erc721Ids);
-        // </bug>
+        //
 
         if (erc1155TokenAddress.length != 0)
             total = total.add(
@@ -1154,7 +1154,7 @@ contract JAY is ERC20, Ownable {
 
         emit Price(block.timestamp, JAYtoETH(1 * 10**18));
     }
-
+    // <bug REENTRANCY>
     function buyJayWithERC721(
         address[] calldata _tokenAddress,
         uint256[] calldata ids
@@ -1167,7 +1167,7 @@ contract JAY is ERC20, Ownable {
             );
         }
     }
-
+    // </bug>
     function buyJayWithERC1155(
         address[] calldata _tokenAddress,
         uint256[] calldata ids,
